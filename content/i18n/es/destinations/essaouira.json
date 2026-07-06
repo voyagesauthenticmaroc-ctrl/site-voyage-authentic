@@ -1,0 +1,27 @@
+{
+  "slug": "essaouira",
+  "name": "Essaouira — la ciudad de los alisios",
+  "seo": {
+    "title": "Essaouira (Mogador) — medina UNESCO, puerto, playa | Viajes Auténticos Marruecos",
+    "description": "Descubre Essaouira, antigua Mogador: medina fortificada declarada por la UNESCO, animado puerto pesquero, playa ventosa y bosque de arganes. Excursión privada de un día desde Marrakech."
+  },
+  "hero": {
+    "tagline": "Murallas frente al Atlántico y medina bohemia declarada por la UNESCO"
+  },
+  "intro": "Antigua Mogador, Essaouira es una ciudad portuaria fortificada de encanto inmediato: murallas del siglo XVIII batidas por las olas, medina encalada declarada Patrimonio de la Humanidad, animado puerto pesquero y una playa que se pierde de vista. Diseñada por el ingeniero francés Théodore Cornut por orden del sultán Mohammed ben Abdallah, la ciudad fue durante mucho tiempo el primer puerto comercial de Marruecos y una encrucijada de culturas árabe, bereber, judía y europea — un legado que se lee en su arquitectura y su artesanía de marquetería en madera de thuya. Reconocida capital mundial del windsurf y el kitesurf gracias a sus constantes alisios, apreciada por artistas desde el paso de Orson Welles y Jimi Hendrix, se visita fácilmente en una excursión de un día desde Marrakech, atravesando la reserva de biosfera UNESCO de los arganes.",
+  "highlights": [
+    { "name": "Murallas y Skala de la Ville", "description": "Fortificaciones del siglo XVIII diseñadas por ingenieros europeos, con una vista espectacular sobre el Atlántico y sus antiguos cañones." },
+    { "name": "Medina UNESCO", "description": "Callejuelas blancas y azules, galerías de arte, talleres de marquetería en madera de thuya y tiendas de artesanos." },
+    { "name": "Puerto pesquero tradicional", "description": "Barcas azules, animada lonja de pescado y pescado a la brasa para degustar en el puerto, ambiente auténtico lejos del turismo de masas." },
+    { "name": "Ruta de los arganes", "description": "El trayecto desde Marrakech atraviesa la reserva de biosfera UNESCO de los arganes, árbol endémico del suroeste marroquí." }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "Todo el año, clima oceánico templado incluso en verano; ventoso casi permanentemente",
+    "daysRecommended": "1 día en excursión desde Marrakech, o 1 a 2 noches para disfrutar de la playa y el ambiente",
+    "tips": [
+      "Lleva un cortavientos incluso en verano, los alisios soplan casi todo el año",
+      "El baño es posible pero a menudo desaconsejado por el viento y las corrientes",
+      "Reserva tu almuerzo de pescado directamente en los puestos del puerto para más autenticidad"
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+    "slug":  "fes-marrakech-6j",
+    "type":  "excursion",
+    "category":  "Circuit complet",
+    "legacyPath":  "/circuits/fes-marrakech-6j",
+    "name":  "Circuit 6 jours : Fès → Merzouga → Aït Ben Haddou → Marrakech (circuit complet)",
+    "seo":  {
+                "title":  "Circuit 6 jours Fès Marrakech — Sahara, Khamlia, Todra, Skoura, Aït Ben Haddou | Voyages Authentiques Maroc",
+                "description":  "Le circuit le plus complet de Fès à Marrakech en 6 jours : Ifrane, Azrou, Ziz, Merzouga (Khamlia Gnawa), Rissani souk, Todra, Dades, Vallée des Roses, Skoura, Aït Ben Haddou, Ouarzazate."
+            },
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1760727752323-7023aca96d34?auto=format\u0026fit=crop\u0026w=1280\u0026q=85",
+                 "tagline":  "Le plus complet : Fès → Merzouga → Marrakech en 6 jours"
+             },
+    "intro":  "Ce circuit 6 jours est l\u0027itinéraire le plus riche de Fès à Marrakech. Il inclut toutes les étapes incontournables du sud marocain : forêt de cèdres d\u0027Azrou, vallée du Ziz, désert de Merzouga avec une excursion en 4×4 chez les familles nomades et la musique Gnawa de Khamlia, souk de Rissani, gorges du Todra, vallée des Dades, Vallée des Roses, oasis de Skoura, studios de cinéma d\u0027Ouarzazate et ksar d\u0027Aït Ben Haddou.",
+    "priceFrom": "À partir de 690 € / personne — devis sur mesure",
+    "programs":  [
+                     {
+                         "title":  "Itinéraire 6 jours",
+                         "days":  [
+                                      {
+                                          "label":  "Jour 1 — Fès → Ifrane → Azrou → Vallée du Ziz → Merzouga",
+                                          "items":  [
+                                                        "Départ de Fès",
+                                                        "Ifrane (la « Suisse marocaine »)",
+                                                        "Forêt de cèdres d\u0027Azrou (macaques de Barbarie)",
+                                                        "Traversée de la vallée du Ziz",
+                                                        "Arrivée à Merzouga",
+                                                        "Balade à dromadaire au coucher du soleil",
+                                                        "Nuit sous tente berbère, sandboarding"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 2 — Désert de Merzouga : immersion nomade",
+                                          "items":  [
+                                                        "Lever de soleil sur l\u0027Erg Chebbi",
+                                                        "Excursion en 4×4 : familles nomades du désert",
+                                                        "Village de Khamlia : musique Gnawa (Berbers noirs)",
+                                                        "Souk de Rissani et spécialité locale : la Medfouna (pizza berbère)",
+                                                        "Sandboarding"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 3 — Merzouga → Gorges du Todra → Vallée des Dades",
+                                          "items":  [
+                                                        "Gorges du Todra (falaises de 300 m)",
+                                                        "Vallée des Dades",
+                                                        "Nuit en hôtel"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 4 — Dades → Vallée des Roses → Skoura (Kasbah Amridil) → Ouarzazate",
+                                          "items":  [
+                                                        "Vallée des Roses (Kelaat M\u0027Gouna)",
+                                                        "Oasis de Skoura et Kasbah Amridil",
+                                                        "Studios de cinéma d\u0027Ouarzazate (optionnel)",
+                                                        "Nuit à Ouarzazate"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 5 — Ouarzazate → Aït Ben Haddou → Guide local",
+                                          "items":  [
+                                                        "Visite guidée du ksar d\u0027Aït Ben Haddou (UNESCO) avec guide local",
+                                                        "Nuit dans un riad au pied de la kasbah (ou Ouarzazate)"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 6 — Aït Ben Haddou → Col de Tizi n\u0027Tichka → Marrakech",
+                                          "items":  [
+                                                        "Traversée du col de Tizi n\u0027Tichka (2 260 m)",
+                                                        "Arrivée à Marrakech"
+                                                    ]
+                                      }
+                                  ]
+                     }
+                 ],
+    "included":  [
+                     "Véhicule climatisé avec chauffeur professionnel (carburant inclus)",
+                     "5 nuits (hôtels + camp désert)",
+                     "5 dîners",
+                     "5 petits-déjeuners",
+                     "Balade à dromadaire (coucher et lever du soleil — 1 dromadaire par personne)",
+                     "Sandboarding",
+                     "Excursion 4×4 pour visite des nomades",
+                     "Guide local à Aït Ben Haddou",
+                     "Prise en charge à Fès, dépose à Marrakech",
+                     "Qualité de service"
+                 ],
+    "excluded":  [
+                     "Déjeuners",
+                     "Boissons (sauf eau minérale incluse selon les hôtels)",
+                     "Pourboires",
+                     "Dépenses personnelles",
+                     "Frais d\u0027entrée des monuments"
+                 ],
+    "faq":  [
+                {
+                    "question":  "Qu\u0027est-ce que la Medfouna (pizza berbère) ?",
+                    "answer":  "La Medfouna est une spécialité culinaire de la région de Rissani : une sorte de pain farci à la viande hachée, oignons et épices, cuit dans un four traditionnel. Elle est surnommée « pizza berbère »."
+                },
+                {
+                    "question":  "La visite de Khamlia et la musique Gnawa sont-elles incluses ?",
+                    "answer":  "Oui, l\u0027excursion au village de Khamlia pour y découvrir la musique Gnawa des Berbères noirs du désert est incluse dans ce circuit au Jour 2."
+                },
+                {
+                    "question":  "Est-ce le circuit le plus complet vers Merzouga ?",
+                    "answer":  "Oui, ce circuit 6 jours est le plus complet de la gamme Fès-Marrakech. Il inclut toutes les étapes clés du sud marocain plus la journée d\u0027immersion nomade à Merzouga."
+                }
+            ],
+    "gallery":  [
+
+                ],
+    "relatedDestinations": ["desert-sahara-merzouga", "marrakech", "fes", "ait-ben-haddou"]
+}

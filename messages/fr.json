@@ -1,0 +1,521 @@
+{
+  "common": {
+    "skipToContent": "Aller au contenu principal",
+    "requestQuote": "Demander un devis gratuit",
+    "requestQuoteShort": "Demander un devis",
+    "seeMore": "Voir",
+    "from": "À partir de",
+    "perPerson": "/pers",
+    "freeQuote24h": "Devis gratuit · 24h",
+    "responseIn24h": "Réponse garantie sous 24 h · Aucun engagement",
+    "home": "Accueil",
+    "breadcrumbLabel": "Fil d'Ariane"
+  },
+  "nav": {
+    "home": "Accueil",
+    "tours": "Nos circuits",
+    "destinations": "Destinations",
+    "about": "À propos",
+    "reviews": "Avis",
+    "contact": "Contact",
+    "callAgency": "Appeler l'agence",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "contactWhatsApp": "Contacter sur WhatsApp",
+    "language": "Langue"
+  },
+  "footer": {
+    "toursHeading": "Circuits",
+    "allTours": "Tous les circuits",
+    "desertTours": "Circuits désert",
+    "imperialCities": "Villes impériales",
+    "fullTours": "Circuits complets",
+    "dayTrips": "Excursions à la journée",
+    "infoHeading": "Informations",
+    "about": "À propos",
+    "customerReviews": "Avis clients",
+    "blog": "Blog",
+    "contactQuote": "Contact & devis",
+    "legalNotice": "Mentions légales",
+    "contactHeading": "Contact",
+    "writeOnWhatsApp": "Écrire sur WhatsApp",
+    "allRightsReserved": "Tous droits réservés.",
+    "siteMapLabel": "Plan du site",
+    "usefulLinksLabel": "Liens utiles"
+  },
+  "contactForm": {
+    "nameLabel": "Votre nom *",
+    "namePlaceholder": "Marie Dupont",
+    "emailLabel": "Email *",
+    "emailPlaceholder": "marie@exemple.com",
+    "messageLabel": "Votre projet *",
+    "messagePlaceholder": "Dates souhaitées, nombre de personnes, destinations, questions…",
+    "sendViaWhatsApp": "Envoyer via WhatsApp",
+    "sentTitle": "Message envoyé sur WhatsApp !",
+    "sentSubtitle": "Notre équipe vous répondra dans les plus brefs délais.",
+    "sendAnother": "Envoyer une autre demande",
+    "responseNote": "Réponse garantie sous 24 h · Aucun engagement",
+    "whatsappGreeting": "Bonjour !\n\nJe m'appelle {name} ({email}).\n\n{message}\n\nMerci !"
+  },
+  "filters": {
+    "departureCity": "Point de départ",
+    "allCities": "Toutes les villes",
+    "numberOfDays": "Nombre de jours",
+    "min": "Min",
+    "max": "Max",
+    "allDurations": "Toutes durées",
+    "dayCount": "{count, plural, one {# jour} other {# jours}}",
+    "dayRange": "{min} à {max} jours",
+    "tourType": "Type de circuit",
+    "all": "Tous",
+    "toursFound": "{count, plural, one {# circuit} other {# circuits}}",
+    "departingFrom": "au départ de",
+    "clearFilters": "Effacer les filtres",
+    "resetFilters": "Réinitialiser les filtres",
+    "noMatch": "Aucun circuit ne correspond",
+    "tryChanging": "Essayez de modifier vos filtres.",
+    "minDaysAria": "Nombre de jours minimum",
+    "maxDaysAria": "Nombre de jours maximum",
+    "duration": "Durée",
+    "surMesure": "Sur mesure",
+    "departure": "Départ"
+  },
+  "quoteForm": {
+    "ariaLabel": "Formulaire de demande de devis",
+    "fullNameLabel": "Nom complet",
+    "fullNamePlaceholder": "Marie Dupont",
+    "emailLabel": "Email",
+    "emailPlaceholder": "marie@exemple.com",
+    "phoneLabel": "Téléphone / WhatsApp",
+    "optional": "(optionnel)",
+    "phonePlaceholder": "+33 6 XX XX XX XX",
+    "travellersLabel": "Nombre de personnes",
+    "datesLabel": "Dates de voyage prévues",
+    "datesPlaceholder": "ex : du 15 au 25 octobre 2025",
+    "tripTypeLabel": "Type de voyage",
+    "tripTypePlaceholder": "Sélectionnez un type...",
+    "tripTypes": {
+      "cultural": "Circuit culturel (villes impériales)",
+      "desert": "Circuit désert & dunes",
+      "beach": "Séjour mer & détente",
+      "grand": "Circuit complet (10+ jours)",
+      "custom": "Voyage sur mesure",
+      "transfer": "Transfert aéroport",
+      "other": "Autre"
+    },
+    "messageLabel": "Votre message",
+    "messagePlaceholder": "Décrivez votre projet de voyage, vos attentes, vos questions...",
+    "errName": "Veuillez indiquer votre nom.",
+    "errEmail": "Veuillez indiquer votre email.",
+    "errEmailFormat": "Format email invalide.",
+    "errMessage": "Décrivez votre projet de voyage.",
+    "errServer": "Une erreur est survenue.",
+    "errNetwork": "Impossible de joindre le serveur. Contactez-nous par WhatsApp.",
+    "sending": "Envoi en cours…",
+    "submit": "Envoyer ma demande de devis",
+    "consentNote": "En soumettant ce formulaire, vous acceptez d'être contacté concernant votre voyage. Réponse garantie sous 24h · Aucun engagement.",
+    "successTitle": "Demande envoyée !",
+    "successText": "Notre équipe a bien reçu votre message et vous répondra dans les 24 heures par email ou téléphone.",
+    "alsoWhatsApp": "Également joignable sur WhatsApp",
+    "whatsappFollowUp": "Bonjour, je viens d'envoyer une demande de devis pour un voyage au Maroc.",
+    "sendAnother": "Envoyer une autre demande"
+  },
+  "circuitsPage": {
+    "breadcrumb": "Circuits",
+    "title": "Nos circuits privés au Maroc",
+    "titleFrom": "Circuits au départ de {city}",
+    "subtitle": "Du désert de Merzouga aux villes impériales, en passant par Chefchaouen la bleue : {count} itinéraires privés avec chauffeur francophone",
+    "fromPrice": "à partir de {price} € / personne",
+    "allToursHeading": "Tous nos circuits",
+    "ctaTitle": "Créez votre circuit sur mesure",
+    "ctaText": "Vous ne trouvez pas l'itinéraire idéal ? Nous concevons des voyages entièrement personnalisés selon vos dates, vos envies et votre budget. Devis gratuit sous 24 h."
+  },
+  "meta": {
+    "siteTagline": "Découvrez le Maroc autrement",
+    "home": {
+      "title": "Voyages Authentiques Maroc — Circuits privés & sur mesure",
+      "description": "Circuits privés au Maroc avec guides francophones : désert de Merzouga, villes impériales, Chefchaouen. Voyages 100 % sur mesure, devis gratuit sous 24 h."
+    },
+    "circuits": {
+      "title": "Circuits au Maroc — Désert, Villes Impériales & Sur Mesure",
+      "description": "Découvrez tous nos circuits privés au Maroc : désert de Merzouga, villes impériales (Fès, Marrakech, Chefchaouen), tours au départ de Casablanca, Tanger, Rabat, Agadir. Devis gratuit."
+    },
+    "destinations": {
+      "title": "Destinations au Maroc — Sahara, villes impériales, côte atlantique",
+      "description": "Découvrez les plus belles destinations du Maroc : désert de Merzouga, Marrakech, Chefchaouen, Fès, Aït Ben Haddou, Essaouira. Circuits privés sur mesure vers chaque destination."
+    },
+    "contact": {
+      "title": "Contact & Devis — Voyages sur mesure au Maroc",
+      "description": "Contactez Voyages Authentiques Maroc pour un devis gratuit sous 24 h : circuits privés, désert, villes impériales, excursions. Agence basée à Marrakech, réponse en français."
+    },
+    "about": {
+      "title": "À propos — Votre agence de voyage au Maroc",
+      "description": "Voyages Authentiques Maroc : opérateur marocain agréé, plus de 10 ans d'expérience, circuits privés sur mesure avec chauffeurs francophones dans tout le Maroc."
+    },
+    "reviews": {
+      "title": "Avis clients — Ils ont voyagé avec nous",
+      "description": "Découvrez les avis de nos voyageurs : circuits désert, villes impériales, excursions. Plus de 500 voyageurs accompagnés au Maroc, note moyenne 5/5."
+    },
+    "faq": {
+      "title": "FAQ — Questions fréquentes sur nos voyages au Maroc",
+      "description": "Toutes les réponses à vos questions : réservation, acompte, annulation, circuits privés, désert, hébergements, période idéale pour visiter le Maroc."
+    },
+    "blog": {
+      "title": "Blog — Conseils et récits de voyages au Maroc",
+      "description": "Conseils pratiques, itinéraires et récits pour préparer votre voyage au Maroc : désert de Merzouga, Marrakech, villes impériales, meilleures périodes et bons plans."
+    },
+    "legalNotice": {
+      "title": "Mentions légales",
+      "description": "Mentions légales du site Voyages Authentiques Maroc : éditeur, hébergement, propriété intellectuelle, données personnelles."
+    }
+  },
+  "agency": {
+    "bio": "Voyages Authentiques Maroc est un opérateur touristique marocain agréé, spécialisé dans les circuits privés et sur mesure à travers le Royaume. Depuis plus de 10 ans, nous accompagnons des voyageurs du monde entier à la découverte d'un Maroc profond, loin des itinéraires standardisés.",
+    "approach": "Notre philosophie : vous offrir une expérience vraie, à votre rythme, avec les meilleures adresses, les rencontres les plus sincères et un service attentif du premier au dernier jour.",
+    "description": "Circuits privés, guides francophones passionnés, hébergements de charme et expériences authentiques. Le Maroc sur mesure, à votre rythme.",
+    "pricingNote": "Toutes les prestations sont proposées sur devis et sur mesure, en fonction de votre programme, du nombre de participants et de votre point de départ. Un acompte est requis pour confirmer la réservation. Contactez-nous pour un devis personnalisé."
+  },
+  "homePage": {
+    "heroEyebrow": "Voyages privés sur mesure",
+    "heroTitle1": "Découvrez",
+    "heroTitle2": "le Maroc",
+    "heroTitleScript": "autrement",
+    "heroImageAlt": "Ruelle de la médina de Marrakech menant à la Koutoubia",
+    "ctaTours": "Découvrir nos circuits",
+    "ctaContact": "Nous contacter",
+    "socialProof": "500+ voyageurs nous ont déjà fait confiance",
+    "starsAria": "5 étoiles sur 5",
+    "trust": {
+      "guides": "Guides francophones",
+      "private": "Circuits 100 % privés",
+      "assistance": "Assistance 24/7",
+      "payment": "Paiement sécurisé"
+    },
+    "stats": {
+      "travellers": "Voyageurs accompagnés",
+      "experience": "Années d'expérience",
+      "languages": "Langues parlées",
+      "custom": "Circuits privés sur mesure",
+      "guaranteeNum": "Garantie",
+      "guarantee": "Sérénité et sécurité"
+    },
+    "marquee": "Sahara|Marrakech|Chefchaouen|Fès|Essaouira|Aït Ben Haddou|Atlas|Casablanca|Tanger|Vallée des Roses",
+    "agencyEyebrow": "Qui sommes-nous ?",
+    "agencyTitle1": "Une agence locale,",
+    "agencyTitle2": "une",
+    "agencyTitleScript": "passion",
+    "agencyTitle3": "partagée",
+    "agencyBadges": {
+      "licensed": "Opérateur marocain agréé",
+      "languages": "Service en 4 langues",
+      "groups": "Circuits privés & groupes"
+    },
+    "agencyMore": "En savoir plus sur nous",
+    "featuredEyebrow": "Nos circuits phares",
+    "featuredTitle": "Des voyages inoubliables",
+    "seeAllTours": "Voir tous les circuits",
+    "perPerson": "/ personne",
+    "featured": {
+      "merzouga": {
+        "badge": "Circuit désert",
+        "title": "Marrakech – Merzouga",
+        "duration": "3 jours / 2 nuits",
+        "desc": "Échappée dans le désert, nuit en bivouac de charme et paysages à couper le souffle.",
+        "price": "À partir de 320 €"
+      },
+      "grandTour": {
+        "badge": "Circuit complet",
+        "title": "Grand Tour du Maroc",
+        "duration": "9 jours / 8 nuits",
+        "desc": "Villes impériales, Sahara, montagnes de l'Atlas et côtes atlantiques.",
+        "price": "À partir de 1 290 €"
+      },
+      "chefchaouen": {
+        "badge": "Circuit impérial",
+        "title": "Marrakech – Chefchaouen",
+        "duration": "4 jours / 3 nuits",
+        "desc": "Immersion culturelle et découverte des perles du nord marocain.",
+        "price": "À partir de 480 €"
+      }
+    },
+    "destEyebrow": "Nos destinations phares",
+    "destTitle1": "Le Maroc dans toute sa",
+    "destTitleScript": "splendeur",
+    "dest": {
+      "sahara": {
+        "label": "Désert du Sahara",
+        "sub": "Merzouga · Erg Chebbi"
+      },
+      "chefchaouen": {
+        "label": "Chefchaouen",
+        "sub": "La perle bleue du Rif"
+      },
+      "marrakech": {
+        "label": "Marrakech",
+        "sub": "La ville rouge"
+      },
+      "aitBenHaddou": {
+        "label": "Aït Ben Haddou",
+        "sub": "Kasbahs & vallées du Sud"
+      }
+    },
+    "bannerScript": "Le désert vous appelle…",
+    "bannerTitle": "Vivez la magie d'une nuit sous les étoiles du Sahara",
+    "bannerText": "Bivouac de charme au cœur des dunes, dîner berbère au coin du feu et silence infini de l'Erg Chebbi. Une expérience qui ne s'oublie jamais.",
+    "bannerCta": "Réserver mon circuit désert",
+    "reviewsEyebrow": "Ils nous ont fait confiance",
+    "reviewsTitle": "Des expériences inoubliables",
+    "onGoogle": "sur Google",
+    "basedOn": "Basé sur 87 avis vérifiés",
+    "readAllReviews": "Lire tous les avis",
+    "contactEyebrow": "Planifions votre voyage",
+    "contactTitle1": "Votre voyage commence",
+    "contactTitleScript": "ici",
+    "contactSub": "Devis gratuit et personnalisé — nous répondons à chaque message sous 24 h.",
+    "formTitle": "Décrivez votre projet",
+    "writeWhatsApp": "Écrire sur WhatsApp",
+    "checklist": [
+      "Réponse personnalisée sous 24 h",
+      "Devis gratuit et sans engagement",
+      "Programme ajustable à vos envies",
+      "Assistance pendant tout le séjour"
+    ],
+    "engagements": {
+      "guides": {
+        "title": "Guides francophones",
+        "sub": "passionnés"
+      },
+      "lodging": {
+        "title": "Hébergements de charme",
+        "sub": "sélectionnés"
+      },
+      "experiences": {
+        "title": "Expériences authentiques",
+        "sub": "et exclusives"
+      },
+      "assistance": {
+        "title": "Assistance 24/7",
+        "sub": "durant votre voyage"
+      },
+      "payment": {
+        "title": "Paiement sécurisé",
+        "sub": "et flexible"
+      }
+    }
+  },
+  "excursionTemplate": {
+    "home": "Accueil",
+    "tours": "Circuits",
+    "duration": "Durée :",
+    "price": "Tarif :",
+    "level": "Niveau :",
+    "availability": "Disponibilité :",
+    "availabilityValue": "Toute l'année — sur réservation",
+    "presentation": "Présentation",
+    "processEyebrow": "Déroulement",
+    "programsAvailable": "Programmes disponibles",
+    "programSingle": "Programme de l'excursion",
+    "dayTripsFrom": "Depuis {category}",
+    "dayTripsTitle": "Excursions à la journée",
+    "optionsTitle": "Options disponibles",
+    "includedTitle": "Ce qui est inclus",
+    "includedIn": "Inclus dans le tarif",
+    "notIncluded": "Non inclus",
+    "faqEyebrow": "Questions fréquentes",
+    "faqTitle": "Tout savoir sur {name}",
+    "reviewsEyebrow": "Témoignages",
+    "reviewsTitle": "Ils nous font confiance",
+    "readAllReviews": "Lire tous les avis →",
+    "bookTitle": "Réserver — {name}",
+    "bookText": "Programme sur mesure, devis gratuit sous 24 h. Guide francophone disponible toute l'année.",
+    "bookWhatsApp": "Réserver par WhatsApp",
+    "relatedDestinations": "Destinations associées"
+  },
+  "destinationTemplate": {
+    "home": "Accueil",
+    "destinations": "Destinations",
+    "badge": "Destination",
+    "heroAlt": "{name} — visite guidée francophone",
+    "whyVisit": "Pourquoi visiter {name} ?",
+    "exceptional": "{name}, une destination d'exception",
+    "discover": "Découvrir {name}",
+    "mustSeeEyebrow": "Incontournables",
+    "mustSeeTitle": "À voir absolument à {name}",
+    "mustSeeSub": "Les sites et monuments à découvrir avec votre guide local francophone.",
+    "programsEyebrow": "Programmes sur mesure",
+    "toursTo": "Nos circuits vers {name}",
+    "viewProgram": "Voir le programme →",
+    "picturesEyebrow": "En images",
+    "photosTitle": "{name} en photos",
+    "photosSub": "Quelques instants capturés lors de visites guidées privées à {name}.",
+    "photoAlt": "{name} — visite guidée privée avec guide francophone",
+    "tipsEyebrow": "Conseils du guide",
+    "practicalInfo": "Informations pratiques",
+    "bestPeriod": "Meilleure période",
+    "recommendedDuration": "Durée conseillée",
+    "guideTips": "Conseils du guide",
+    "faqEyebrow": "Vos questions",
+    "faqTitle": "Questions fréquentes sur {name}",
+    "ctaTitle": "Visiter {name} avec un guide expert",
+    "ctaText": "Programme sur mesure, transport inclus, guide local francophone. Devis gratuit sous 24 h.",
+    "whatsapp": "WhatsApp →",
+    "otherDestinations": "Explorer d'autres destinations"
+  },
+  "destinationsPage": {
+    "breadcrumb": "Destinations",
+    "eyebrow": "Où voulez-vous aller ?",
+    "title1": "Nos",
+    "titleScript": "destinations",
+    "title2": "au Maroc",
+    "heroText": "Du Sahara aux villes impériales, de l'Atlas à l'Atlantique : chaque destination se visite en circuit privé, à votre rythme.",
+    "citiesEyebrow": "Circuits par ville de départ",
+    "citiesTitle1": "D'où",
+    "citiesTitleScript": "partez",
+    "citiesTitle2": "-vous ?",
+    "citiesText": "Cliquez sur votre ville de départ pour découvrir en un clic tous les circuits et excursions qui en partent.",
+    "cityLabel": "Ville de départ",
+    "tourCount": "{count, plural, one {# circuit} other {# circuits}}",
+    "viewTours": "Voir les circuits",
+    "gridEyebrow": "Lieux d'exception",
+    "gridTitle1": "Nos plus belles",
+    "gridTitleScript": "destinations",
+    "gridText": "Sahara, villes impériales, côte atlantique : les lieux incontournables que nos circuits vous font découvrir.",
+    "discover": "Découvrir",
+    "ctaScript": "Une envie particulière ?",
+    "ctaTitle": "Nous créons l'itinéraire qui vous ressemble",
+    "ctaQuote": "Demander un devis gratuit",
+    "ctaAllTours": "Voir tous les circuits",
+    "cards": {
+      "desert-sahara-merzouga": {
+        "name": "Désert du Sahara",
+        "sub": "Merzouga · Erg Chebbi",
+        "desc": "Dunes dorées à perte de vue, nuits en bivouac sous les étoiles et lever de soleil inoubliable à dos de dromadaire."
+      },
+      "marrakech": {
+        "name": "Marrakech",
+        "sub": "La ville rouge",
+        "desc": "Jemaa el-Fna, souks colorés, palais et jardins : la ville impériale la plus vibrante du Royaume."
+      },
+      "chefchaouen": {
+        "name": "Chefchaouen",
+        "sub": "La perle bleue du Rif",
+        "desc": "Ruelles azur, montagnes du Rif et douceur de vivre : la ville la plus photogénique du Maroc."
+      },
+      "ait-ben-haddou": {
+        "name": "Aït Ben Haddou",
+        "sub": "Patrimoine UNESCO",
+        "desc": "Le ksar le plus célèbre du Sud marocain, décor de cinéma mythique aux portes du désert."
+      },
+      "fes": {
+        "name": "Fès",
+        "sub": "Capitale spirituelle",
+        "desc": "La plus ancienne médina du monde, ses tanneries séculaires et son artisanat d'exception."
+      },
+      "essaouira": {
+        "name": "Essaouira",
+        "sub": "La cité des alizés",
+        "desc": "Port de pêche bleu, remparts face à l'océan et médina bohème classée UNESCO."
+      },
+      "casablanca": {
+        "name": "Casablanca",
+        "sub": "La métropole océane",
+        "desc": "La mosquée Hassan II, chef-d'œuvre posé sur l'Atlantique, et la corniche animée."
+      },
+      "vallees-atlas": {
+        "name": "Vallées de l'Atlas",
+        "sub": "Ourika · Ouzoud",
+        "desc": "Cascades spectaculaires, villages berbères et sommets enneigés à une heure de Marrakech."
+      },
+      "tanger": {
+        "name": "Tanger & le Nord",
+        "sub": "Entre deux mers",
+        "desc": "La porte de l'Afrique, ses cafés légendaires et la baie où se rencontrent Méditerranée et Atlantique."
+      }
+    }
+  },
+  "contactPage": {
+    "breadcrumb": "Contact",
+    "eyebrow": "Nous contacter",
+    "title": "Demander un devis gratuit",
+    "heroText": "Décrivez votre projet de voyage et notre équipe vous répond sous 24 heures avec un programme sur mesure et un devis personnalisé.",
+    "badge24h": "Réponse garantie sous 24h · Aucun engagement",
+    "formTitle": "Formulaire de devis",
+    "directContact": "Contact direct",
+    "phoneWhatsApp": "Téléphone & WhatsApp",
+    "available": "Disponible 7j/7, de 8h à 20h",
+    "writeWhatsApp": "Écrire sur WhatsApp",
+    "email": "Email",
+    "emailNote": "Réponse garantie sous 24 heures",
+    "address": "Adresse",
+    "hoursTitle": "Heures de disponibilité",
+    "monFri": "Lundi – Vendredi",
+    "satSun": "Samedi – Dimanche",
+    "hours": "8h – 20h",
+    "localTime": "Heure locale marocaine (UTC+1)",
+    "languagesTitle": "Langues parlées",
+    "mapTitle": "Localisation de l'agence à Marrakech",
+    "pricingTitle": "Tarification"
+  },
+  "aboutPage": {
+    "breadcrumb": "À propos",
+    "agencyCardSub": "Agence de voyage · Maroc",
+    "historyEyebrow": "Notre histoire",
+    "historyTitle": "Votre partenaire de voyage au Maroc",
+    "badgeLicensed": "Opérateur marocain agréé",
+    "badgeExperience": "Plus de 10 ans d'expérience",
+    "valuesEyebrow": "Ce qui nous distingue",
+    "valuesTitle": "Nos valeurs",
+    "values": {
+      "private": {
+        "title": "Voyages 100 % privés",
+        "detail": "Exclusivement pour vous",
+        "description": "Tous nos circuits sont strictement privés : vous voyagez uniquement avec vos proches, sans partager votre véhicule ou votre itinéraire avec d'autres groupes."
+      },
+      "authentic": {
+        "title": "Authenticité locale",
+        "detail": "Au cœur du Maroc réel",
+        "description": "Hébergements de caractère, rencontres avec les familles berbères, gastronomie locale : nous privilégions les expériences qui sortent des sentiers battus touristiques."
+      },
+      "languages": {
+        "title": "Service en 4 langues",
+        "detail": "FR · EN · ES · IT",
+        "description": "Notre équipe vous accompagne en français, anglais, espagnol et italien. Chauffeurs professionnels et guides officiels certifiés disponibles toute l'année."
+      },
+      "flexible": {
+        "title": "Flexibilité totale",
+        "detail": "Sur mesure à 100 %",
+        "description": "Chaque itinéraire est ajustable selon votre rythme, vos envies et votre budget. Aucun programme figé : nous concevons votre voyage autour de vos attentes."
+      }
+    },
+    "ctaTitle": "Prêt à découvrir le Maroc avec nous ?",
+    "ctaQuote": "Demander un devis gratuit",
+    "ctaTours": "Voir nos circuits"
+  },
+  "reviewsPage": {
+    "breadcrumb": "Avis clients",
+    "title": "Ce que disent nos clients",
+    "avgAria": "Note moyenne : {avg} sur 5",
+    "reviewsCount": "{count, plural, one {# avis} other {# avis}}",
+    "listTitle": "Liste des avis clients",
+    "ratingAria": "Note : {rating} sur 5",
+    "ctaTitle": "Prêt à vivre votre propre aventure au Maroc ?",
+    "ctaText": "Rejoignez nos clients satisfaits et créez vos propres souvenirs inoubliables.",
+    "ctaQuote": "Demander un devis gratuit"
+  },
+  "faqPage": {
+    "breadcrumb": "FAQ",
+    "title": "Questions fréquentes",
+    "heroText": "Tout ce que vous devez savoir avant de réserver votre circuit au Maroc avec Voyages Authentiques Maroc.",
+    "ctaTitle": "Votre question n'est pas ici ?",
+    "ctaText": "Contactez-nous directement. Nous répondons à chaque message sous 24 heures.",
+    "ctaContact": "Nous contacter",
+    "ctaTours": "Voir nos circuits"
+  },
+  "notFound": {
+    "code": "Erreur 404",
+    "title": "Cette page n'existe pas",
+    "text": "La page que vous cherchez a peut-être été déplacée ou n'existe plus. Explorez nos circuits ou revenez à l'accueil.",
+    "ctaTours": "Voir nos circuits",
+    "ctaHome": "Retour à l'accueil"
+  }
+}

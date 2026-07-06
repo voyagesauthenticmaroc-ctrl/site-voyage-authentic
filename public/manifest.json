@@ -1,0 +1,17 @@
+{
+  "name": "Voyages Authentiques Maroc",
+  "short_name": "VAM",
+  "description": "Circuits privés et sur mesure au Maroc : désert de Merzouga, villes impériales, Chefchaouen. Devis gratuit sous 24h.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#161310",
+  "theme_color": "#161310",
+  "lang": "fr",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "categories": ["travel", "tourism"],
+  "orientation": "portrait-primary"
+}

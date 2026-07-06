@@ -1,0 +1,100 @@
+{
+    "slug":  "tanger-marrakech-6j",
+    "type":  "excursion",
+    "category":  "Circuit complet",
+    "legacyPath":  "/circuits/tanger-marrakech-6j",
+    "name":  "Circuit 6 jours : Tanger → Chefchaouen → Fès → Sahara → Marrakech",
+    "seo":  {
+                "title":  "Circuit 6 jours Tanger Marrakech — Chefchaouen, Fès, Merzouga Sahara | Voyages Authentiques Maroc",
+                "description":  "Circuit privé 6 jours de Tanger à Marrakech : Chefchaouen, Fès (guide), Merzouga (Erg Chebbi), Todra, Dades, Aït Ben Haddou, Tizi n\u0027Tichka. Transport et hébergement inclus."
+            },
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1545901444-6651499d0075?auto=format\u0026fit=crop\u0026w=1280\u0026q=85",
+                 "tagline":  "Tanger → Chefchaouen → Fès → Sahara → Marrakech"
+             },
+    "intro":  "Ce circuit 6 jours relie Tanger à Marrakech par le nord et le sud du Maroc : la perle bleue de Chefchaouen, la médina de Fès avec guide officiel, le désert de l\u0027Erg Chebbi à Merzouga (nuit en camp), les gorges du Todra, la Vallée des Dades, Aït Ben Haddou et le col de Tizi n\u0027Tichka.",
+    "priceFrom": "À partir de 710 € / personne — devis sur mesure",
+    "programs":  [
+                     {
+                         "title":  "Itinéraire 6 jours",
+                         "days":  [
+                                      {
+                                          "label":  "Jour 1 — Tanger → Chefchaouen",
+                                          "items":  [
+                                                        "Départ de Tanger",
+                                                        "Arrivée à Chefchaouen",
+                                                        "Exploration libre de la médina bleue"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 2 — Chefchaouen → Fès",
+                                          "items":  [
+                                                        "Route vers Fès",
+                                                        "Arrivée et installation en riad"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 3 — Visite guidée de Fès → Route vers le Sud",
+                                          "items":  [
+                                                        "Matinée : visite guidée de Fès avec guide officiel",
+                                                        "Al-Quaraouiyine, Medersa Bou Inania, tanneries, médersas",
+                                                        "Après-midi : départ vers le sud via le Moyen Atlas, Azrou, Ifrane"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 4 — Vallée du Ziz → Merzouga (Erg Chebbi)",
+                                          "items":  [
+                                                        "Traversée de la vallée du Ziz",
+                                                        "Arrivée à Merzouga",
+                                                        "Balade à dromadaire au coucher du soleil",
+                                                        "Nuit sous tente berbère, sandboarding"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 5 — Merzouga → Gorges du Todra → Vallée des Dades",
+                                          "items":  [
+                                                        "Lever de soleil sur l\u0027Erg Chebbi",
+                                                        "Gorges du Todra",
+                                                        "Vallée des Dades"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 6 — Dades → Ouarzazate → Aït Ben Haddou → Tizi n\u0027Tichka → Marrakech",
+                                          "items":  [
+                                                        "Ksar d\u0027Aït Ben Haddou (UNESCO)",
+                                                        "Col de Tizi n\u0027Tichka (2 260 m)",
+                                                        "Arrivée à Marrakech"
+                                                    ]
+                                      }
+                                  ]
+                     }
+                 ],
+    "included":  [
+                     "Véhicule climatisé avec chauffeur professionnel (carburant inclus)",
+                     "5 nuits (riads + camp désert)",
+                     "5 petits-déjeuners",
+                     "2 dîners (désert + dades)",
+                     "Guide officiel à Fès",
+                     "Balade à dromadaire (coucher et lever du soleil)",
+                     "Sandboarding",
+                     "Prise en charge à Tanger, dépose à Marrakech",
+                     "Qualité de service"
+                 ],
+    "excluded":  [
+                     "Déjeuners",
+                     "Boissons",
+                     "Pourboires",
+                     "Dépenses personnelles",
+                     "Frais d\u0027entrée des monuments"
+                 ],
+    "faq":  [
+                {
+                    "question":  "Ce circuit inclut-il la visite de Meknès et Volubilis ?",
+                    "answer":  "Non, ce circuit 6 jours favorise l\u0027immersion dans le désert. Meknès et Volubilis peuvent être ajoutés lors d\u0027un arrêt entre Fès et Merzouga sur demande."
+                }
+            ],
+    "gallery":  [
+
+                ],
+    "relatedDestinations": ["desert-sahara-merzouga", "marrakech", "fes", "chefchaouen"]
+}

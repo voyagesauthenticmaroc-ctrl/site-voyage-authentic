@@ -1,0 +1,77 @@
+{
+    "slug":  "fes-merzouga-2j",
+    "type":  "excursion",
+    "category":  "Circuit désert",
+    "legacyPath":  "/circuits/fes-merzouga-2j",
+    "name":  "Circuit 2 jours : Fès → Désert de Merzouga aller-retour",
+    "seo":  {
+                "title":  "Circuit 2 jours Fès Merzouga — Sahara \u0026 Erg Chebbi aller-retour | Voyages Authentiques Maroc",
+                "description":  "Circuit privé 2 jours depuis Fès : Moyen Atlas, Ifrane (Suisse du Maroc), forêt de cèdres d\u0027Azrou, vallée du Ziz, Erfoud, dunes de l\u0027Erg Chebbi à Merzouga. Nuit en camp désert."
+            },
+    "hero":  {
+                 "image":  "/images/desert-marcheur.jpg",
+                 "tagline":  "Fès → Moyen Atlas → Erg Chebbi → retour à Fès"
+             },
+    "intro":  "Ce circuit 2 jours vous emmène de Fès au désert de Merzouga en traversant le Moyen Atlas : la ville d\u0027Ifrane surnommée la « Suisse du Maroc », la forêt de cèdres d\u0027Azrou avec ses macaques de Barbarie, puis la spectaculaire vallée du Ziz. Le trajet Fès–Merzouga est d\u0027environ 7-8 heures. Nuit sous les étoiles du Sahara, balade à dromadaire au coucher et au lever du soleil.",
+    "priceFrom": "À partir de 190 € / personne — devis sur mesure",
+    "programs":  [
+                     {
+                         "title":  "Itinéraire 2 jours",
+                         "days":  [
+                                      {
+                                          "label":  "Jour 1 — Fès → Ifrane → Forêt d\u0027Azrou → Vallée du Ziz → Erfoud → Merzouga",
+                                          "items":  [
+                                                        "Départ de Fès tôt le matin",
+                                                        "Arrêt à Ifrane, la « Suisse du Maroc » (architecture alpine)",
+                                                        "Forêt de cèdres d\u0027Azrou : rencontre avec les macaques de Barbarie",
+                                                        "Traversée de la vallée du Ziz",
+                                                        "Arrivée à Erfoud puis Merzouga en fin d\u0027après-midi",
+                                                        "Accueil au camp : thé à la menthe",
+                                                        "Balade à dromadaire au coucher du soleil sur l\u0027Erg Chebbi",
+                                                        "Dîner et nuit sous tente berbère",
+                                                        "Sandboarding"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 2 — Lever de soleil → Retour à Fès",
+                                          "items":  [
+                                                        "Lever de soleil sur les dunes de l\u0027Erg Chebbi",
+                                                        "Petit-déjeuner au camp",
+                                                        "Retour vers Fès par la même route panoramique",
+                                                        "Arrivée à Fès en fin de journée"
+                                                    ]
+                                      }
+                                  ]
+                     }
+                 ],
+    "included":  [
+                     "Véhicule confortable climatisé avec chauffeur professionnel (carburant inclus)",
+                     "1 nuit en camp désert (tente berbère)",
+                     "1 dîner",
+                     "1 petit-déjeuner",
+                     "Balade à dromadaire (coucher et lever du soleil)",
+                     "Sandboarding",
+                     "Qualité de service"
+                 ],
+    "excluded":  [
+                     "Déjeuners",
+                     "Boissons",
+                     "Pourboires",
+                     "Dépenses personnelles",
+                     "Frais d\u0027entrée des monuments"
+                 ],
+    "faq":  [
+                {
+                    "question":  "Ce circuit repart-il à Fès ?",
+                    "answer":  "Oui, c\u0027est un circuit aller-retour depuis Fès. Il peut aussi être proposé en sens unique Fès → Merzouga avec continuation vers Marrakech."
+                },
+                {
+                    "question":  "Combien de temps dure le trajet Fès → Merzouga ?",
+                    "answer":  "Environ 7 à 8 heures de route, avec plusieurs arrêts en chemin (Ifrane, forêt d\u0027Azrou, vallée du Ziz)."
+                }
+            ],
+    "gallery":  [
+
+                ],
+    "relatedDestinations": ["desert-sahara-merzouga", "fes"]
+}

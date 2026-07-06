@@ -1,0 +1,121 @@
+{
+    "slug":  "casablanca-marrakech-10j",
+    "type":  "excursion",
+    "category":  "Circuit complet",
+    "legacyPath":  "/circuits/casablanca-marrakech-10j",
+    "name":  "Circuit 10 jours : Grand Tour du Maroc depuis Casablanca",
+    "seo":  {
+                "title":  "Circuit 10 jours Grand Tour du Maroc — Casablanca, Chefchaouen, Fès, Sahara, Marrakech | Voyages Authentiques Maroc",
+                "description":  "Circuit privé 10 jours au Maroc depuis Casablanca : Rabat, Chefchaouen, Tanger, Fès (guide), Meknès, Volubilis, Merzouga Sahara, Todra, Dades, Aït Ben Haddou, Marrakech (guide)."
+            },
+    "hero":  {
+                 "image":  "/images/hero-marrakech.jpg",
+                 "tagline":  "Le grand tour du Maroc en 10 jours — de Casablanca à Marrakech"
+             },
+    "intro":  "Ce grand circuit 10 jours au départ de Casablanca est l\u0027itinéraire le plus complet de la gamme. Il traverse tout le Maroc du nord au sud : Rabat, Chefchaouen, Tanger, Meknès, Volubilis, Fès avec guide officiel, le désert de Merzouga, les gorges du Todra, la Vallée des Dades, Ouarzazate, Aït Ben Haddou et Marrakech avec guide officiel. Deux guides locaux certifiés inclus.",
+    "priceFrom": "À partir de 1 190 € / personne — devis sur mesure",
+    "programs":  [
+                     {
+                         "title":  "Itinéraire 10 jours",
+                         "days":  [
+                                      {
+                                          "label":  "Jour 1 — Casablanca : arrivée",
+                                          "items":  [
+                                                        "Accueil à l\u0027aéroport Mohammed V de Casablanca",
+                                                        "Transfert à l\u0027hôtel",
+                                                        "Visite de la Mosquée Hassan II (extérieur) si l\u0027heure le permet"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 2 — Casablanca → Rabat → Chefchaouen",
+                                          "items":  [
+                                                        "Rabat : Tour Hassan, Mausolée Mohammed V (optionnel)",
+                                                        "Route vers Chefchaouen"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 3 — Chefchaouen",
+                                          "items":  [
+                                                        "Journée libre dans la Ville bleue : ruelles, fontaines, panoramas"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 4 — Chefchaouen → Tanger",
+                                          "items":  [
+                                                        "Route vers Tanger",
+                                                        "Cap Spartel, médina de Tanger"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 5 — Tanger → Meknès → Volubilis → Fès",
+                                          "items":  [
+                                                        "Meknès : Bab Mansour, Mausolée Moulay Ismaïl",
+                                                        "Volubilis (ruines romaines UNESCO)",
+                                                        "Arrivée à Fès"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 6 — Visite guidée de Fès (guide officiel)",
+                                          "items":  [
+                                                        "Al-Quaraouiyine, Medersa Bou Inania, tanneries Chourara",
+                                                        "Souks, Mellah, Fès el-Jdid"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 7 — Fès → Ifrane → Azrou → Merzouga",
+                                          "items":  [
+                                                        "Ifrane, forêt d\u0027Azrou (macaques de Barbarie), vallée du Ziz",
+                                                        "Arrivée à Merzouga",
+                                                        "Balade à dromadaire, nuit sous tente berbère"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 8 — Merzouga → Gorges du Todra → Dades",
+                                          "items":  [
+                                                        "Lever de soleil sur l\u0027Erg Chebbi, sandboarding",
+                                                        "Gorges du Todra, Vallée des Dades"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 9 — Dades → Vallée des Roses → Ouarzazate → Aït Ben Haddou",
+                                          "items":  [
+                                                        "Vallée des Roses (Kelaat M\u0027Gouna), oasis de Skoura",
+                                                        "Ouarzazate",
+                                                        "Ksar d\u0027Aït Ben Haddou (UNESCO)"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 10 — Aït Ben Haddou → Tizi n\u0027Tichka → Marrakech (guide officiel)",
+                                          "items":  [
+                                                        "Col de Tizi n\u0027Tichka (2 260 m)",
+                                                        "Arrivée à Marrakech",
+                                                        "Visite guidée : Koutoubia, Tombeaux Saadiens, Bahia, Jemaa el-Fna"
+                                                    ]
+                                      }
+                                  ]
+                     }
+                 ],
+    "included":  [
+                     "Véhicule climatisé avec chauffeur professionnel (carburant inclus)",
+                     "9 nuits d\u0027hébergement",
+                     "9 petits-déjeuners",
+                     "2 dîners (désert + Dades)",
+                     "Guide officiel à Fès",
+                     "Guide officiel à Marrakech",
+                     "Balade à dromadaire (coucher et lever du soleil — 1 dromadaire par personne)",
+                     "Sandboarding",
+                     "Prise en charge à Casablanca, dépose à Marrakech ou Casablanca",
+                     "Qualité de service"
+                 ],
+    "excluded":  [
+                     "Déjeuners",
+                     "Boissons",
+                     "Pourboires",
+                     "Dépenses personnelles",
+                     "Frais d\u0027entrée des monuments"
+                 ],
+    "gallery":  [
+
+                ],
+    "relatedDestinations": ["desert-sahara-merzouga", "marrakech", "fes", "chefchaouen"]
+}

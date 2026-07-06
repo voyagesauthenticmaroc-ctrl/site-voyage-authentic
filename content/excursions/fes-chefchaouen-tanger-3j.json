@@ -1,0 +1,70 @@
+{
+    "slug":  "fes-chefchaouen-tanger-3j",
+    "type":  "excursion",
+    "category":  "Circuit villes impériales",
+    "legacyPath":  "/circuits/fes-chefchaouen-tanger-3j",
+    "name":  "Circuit 3 jours : Fès → Chefchaouen → Tanger",
+    "seo":  {
+                "title":  "Circuit 3 jours Fès → Chefchaouen → Tanger | Voyages Authentiques Maroc",
+                "description":  "Circuit privé 3 jours de Fès à Tanger via Chefchaouen : visite de la médina de Fès avec guide officiel, Ville bleue de Chefchaouen, traversée du Rif, arrivée à Tanger."
+            },
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1742434790127-55e03b30455e?auto=format\u0026fit=crop\u0026w=1280\u0026q=85",
+                 "tagline":  "Fès → Chefchaouen → Tanger : le grand nord marocain"
+             },
+    "intro":  "Ce circuit 3 jours relie Fès à Tanger en s\u0027arrêtant à Chefchaouen. Visite guidée de la médina de Fès le premier jour, puis découverte de la Ville bleue, et enfin traversée du Rif pour rejoindre Tanger, la porte de l\u0027Europe. Parfait pour ceux qui partent en ferry depuis Tanger.",
+    "priceFrom": "À partir de 360 € / personne — devis sur mesure",
+    "programs":  [
+                     {
+                         "title":  "Itinéraire 3 jours",
+                         "days":  [
+                                      {
+                                          "label":  "Jour 1 — Visite guidée de Fès (guide officiel)",
+                                          "items":  [
+                                                        "Al-Quaraouiyine (fondée en 859)",
+                                                        "Medersa Bou Inania",
+                                                        "Tanneries Chourara",
+                                                        "Souks, Mellah, poterie"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 2 — Fès → Chefchaouen",
+                                          "items":  [
+                                                        "Départ de Fès",
+                                                        "Route vers les montagnes du Rif",
+                                                        "Arrivée à Chefchaouen",
+                                                        "Exploration de la médina bleue"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 3 — Chefchaouen → Tanger",
+                                          "items":  [
+                                                        "Matinée libre à Chefchaouen",
+                                                        "Route vers Tanger",
+                                                        "Arrivée à Tanger"
+                                                    ]
+                                      }
+                                  ]
+                     }
+                 ],
+    "included":  [
+                     "Véhicule climatisé avec chauffeur professionnel (carburant inclus)",
+                     "2 nuits d\u0027hébergement",
+                     "2 petits-déjeuners",
+                     "Guide officiel à Fès",
+                     "Prise en charge à Fès, dépose à Tanger",
+                     "Qualité de service"
+                 ],
+    "excluded":  [
+                     "Déjeuners",
+                     "Dîners",
+                     "Boissons",
+                     "Pourboires",
+                     "Dépenses personnelles",
+                     "Frais d\u0027entrée des monuments"
+                 ],
+    "gallery":  [
+
+                ],
+    "relatedDestinations": ["fes", "chefchaouen", "tanger"]
+}

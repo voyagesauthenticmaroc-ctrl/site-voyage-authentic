@@ -1,0 +1,27 @@
+{
+  "slug": "chefchaouen",
+  "name": "Chefchaouen — the blue pearl of the Rif",
+  "seo": {
+    "title": "Chefchaouen, Morocco's Blue City | Authentic Morocco Tours",
+    "description": "Discover Chefchaouen, the famous blue city nestled in the Rif mountains: azure alleyways, Outa el-Hammam square, Berber craftsmanship. Private tours from Fes, Tangier or Rabat."
+  },
+  "hero": {
+    "tagline": "Azure blue alleyways and the Rif mountains — Morocco's most photogenic city"
+  },
+  "intro": "Perched at 600 metres altitude in the Rif mountains, Chefchaouen owes its worldwide fame to walls painted in every shade of blue, a tradition dating back to Jewish refugees in the 1930s. Founded in 1471 as a stronghold against Portuguese incursions, the town was long forbidden to foreigners — which explains its preserved atmosphere, unique in Morocco. Quieter than the great imperial medinas, it is best explored on foot among flower-lined alleyways, Berber weaving workshops and small shaded squares where you can sip mint tea facing the mountains. It's an essential stop on northern tours, usually combined with Fes, Meknes, Tangier or Rabat, and one of the favourite destinations of photographers worldwide.",
+  "highlights": [
+    { "name": "Blue alleyways", "description": "A palette of blues on the medina's walls and doors, particularly luminous in late morning." },
+    { "name": "Outa el-Hammam Square", "description": "The lively heart of the medina, lined with cafés and dominated by the 15th-century kasbah and its great octagonal mosque." },
+    { "name": "Rif Berber craftsmanship", "description": "Wool weavings, babouches and local goat cheeses, sold in small family-run shops." },
+    { "name": "Hiking in the Rif", "description": "Talassemtane National Park, at the town's edge, offers trails and waterfalls for nature lovers." }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "April to June and September to October, cooler climate than the rest of Morocco thanks to altitude",
+    "daysRecommended": "1 to 2 days are enough, to include in a northern tour (Fes, Tangier, Rabat)",
+    "tips": [
+      "Ask permission before photographing locals",
+      "The light is best for photos in late morning and late afternoon",
+      "The best overall views are from the Ras el-Maa trail or the Spanish Mosque"
+    ]
+  }
+}

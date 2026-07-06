@@ -1,0 +1,58 @@
+{
+    "slug":  "excursion-ait-ben-haddou",
+    "type":  "excursion",
+    "category":  "Excursion à la journée",
+    "legacyPath":  "/circuits/excursion-ait-ben-haddou",
+    "name":  "Excursion 1 jour : Aït Ben Haddou \u0026 Ouarzazate depuis Marrakech",
+    "seo":  {
+                "title":  "Excursion Aït Ben Haddou \u0026 Ouarzazate depuis Marrakech — 1 jour | Voyages Authentiques Maroc",
+                "description":  "Excursion privée d\u0027une journée depuis Marrakech : ksar d\u0027Aït Ben Haddou (UNESCO), Ouarzazate (Hollywood du désert). Col de Tizi n\u0027Tichka (2 260 m). Transport aller-retour inclus."
+            },
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1569531955316-bb271f9c4531?auto=format\u0026fit=crop\u0026w=1280\u0026q=85",
+                 "tagline":  "Aït Ben Haddou \u0026 Ouarzazate depuis Marrakech en une journée"
+             },
+    "intro":  "Partez à la découverte du ksar d\u0027Aït Ben Haddou, classé au patrimoine mondial de l\u0027UNESCO, et de la ville de Ouarzazate surnommée le « Hollywood du désert ». Cette excursion d\u0027une journée au départ de Marrakech traverse le spectaculaire col de Tizi n\u0027Tichka à 2 260 m d\u0027altitude, offrant des panoramas exceptionnels sur le Haut Atlas.",
+    "priceFrom": "À partir de 75 € / personne — devis sur mesure",
+    "programs":  [
+                     {
+                         "title":  "Programme de la journée",
+                         "description":  "Départ tôt le matin de Marrakech. Traversée du col de Tizi n\u0027Tichka. Visite guidée du ksar d\u0027Aït Ben Haddou (guide local inclus). Déjeuner libre à Ouarzazate. Visite libre de Ouarzazate. Retour à Marrakech en fin d\u0027après-midi.",
+                         "items":  [
+                                       "Départ de Marrakech (tôt le matin)",
+                                       "Col de Tizi n\u0027Tichka (2 260 m) — panoramas sur le Haut Atlas",
+                                       "Ksar d\u0027Aït Ben Haddou (UNESCO) — visite guidée avec guide local",
+                                       "Déjeuner libre à Ouarzazate",
+                                       "Ouarzazate : extérieur des studios de cinéma, kasbah Taourirt",
+                                       "Retour à Marrakech (arrivée en soirée)"
+                                   ]
+                     }
+                 ],
+    "included":  [
+                     "Véhicule climatisé avec chauffeur professionnel (carburant inclus)",
+                     "Guide local à Aït Ben Haddou",
+                     "Prise en charge et retour à Marrakech",
+                     "Qualité de service"
+                 ],
+    "excluded":  [
+                     "Déjeuner",
+                     "Boissons",
+                     "Frais d\u0027entrée des monuments",
+                     "Pourboires",
+                     "Dépenses personnelles"
+                 ],
+    "faq":  [
+                {
+                    "question":  "À quelle heure part l\u0027excursion ?",
+                    "answer":  "Le départ a lieu tôt le matin (généralement entre 7h et 8h) pour profiter au maximum du temps sur place et éviter la chaleur l\u0027été."
+                },
+                {
+                    "question":  "Combien de temps dure le trajet Marrakech → Aït Ben Haddou ?",
+                    "answer":  "Environ 3 heures via le col de Tizi n\u0027Tichka."
+                }
+            ],
+    "gallery":  [
+
+                ],
+    "relatedDestinations": ["marrakech", "ait-ben-haddou"]
+}

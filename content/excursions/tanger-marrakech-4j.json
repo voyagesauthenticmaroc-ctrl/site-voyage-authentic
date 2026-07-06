@@ -1,0 +1,89 @@
+{
+    "slug":  "tanger-marrakech-4j",
+    "type":  "excursion",
+    "category":  "Circuit villes impériales",
+    "legacyPath":  "/circuits/tanger-marrakech-4j",
+    "name":  "Circuit 4 jours : Tanger → Chefchaouen → Fès → Meknès/Volubilis → Marrakech",
+    "seo":  {
+                "title":  "Circuit 4 jours Tanger Marrakech — Chefchaouen, Fès, Meknès, Volubilis | Voyages Authentiques Maroc",
+                "description":  "Circuit privé 4 jours de Tanger à Marrakech : Chefchaouen (Ville bleue), Fès médiévale (guide officiel), Meknès, Volubilis (UNESCO), Marrakech. Transport, hébergement, guide inclus."
+            },
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1582919534700-acf2374f10d3?auto=format\u0026fit=crop\u0026w=1280\u0026q=85",
+                 "tagline":  "Tanger → Chefchaouen → Fès → Volubilis → Marrakech"
+             },
+    "intro":  "Ce circuit 4 jours au départ de Tanger traverse les régions les plus fascinantes du nord et du centre du Maroc : la ville bleue de Chefchaouen dans les montagnes du Rif, la médina millénaire de Fès (guide officiel inclus), la ville impériale de Meknès et les ruines romaines de Volubilis, avant d\u0027arriver à Marrakech.",
+    "priceFrom": "À partir de 470 € / personne — devis sur mesure",
+    "programs":  [
+                     {
+                         "title":  "Itinéraire 4 jours",
+                         "days":  [
+                                      {
+                                          "label":  "Jour 1 — Tanger → Chefchaouen",
+                                          "items":  [
+                                                        "Départ de Tanger",
+                                                        "Traversée des montagnes du Rif",
+                                                        "Arrivée à Chefchaouen, la « Perle bleue »",
+                                                        "Exploration libre des ruelles bleues de la médina",
+                                                        "Nuit à Chefchaouen"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 2 — Chefchaouen → Fès",
+                                          "items":  [
+                                                        "Départ de Chefchaouen",
+                                                        "Route vers Fès",
+                                                        "Arrivée à Fès, nuit en riad dans la médina"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 3 — Visite guidée de Fès → Meknès → Volubilis → Marrakech (route)",
+                                          "items":  [
+                                                        "Matinée : visite guidée de Fès el-Bali avec guide officiel",
+                                                        "Université Al-Quaraouiyine, Medersa Bou Inania, tanneries Chourara",
+                                                        "Après-midi : départ vers Meknès (Bab Mansour, Mausolée Moulay Ismaïl)",
+                                                        "Volubilis (ruines romaines UNESCO)",
+                                                        "Route vers Marrakech (ou étape en route)"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 4 — Arrivée à Marrakech",
+                                          "items":  [
+                                                        "Arrivée à Marrakech",
+                                                        "Temps libre pour explorer la médina, les souks et la place Jemaa el-Fna"
+                                                    ]
+                                      }
+                                  ]
+                     }
+                 ],
+    "included":  [
+                     "Véhicule climatisé avec chauffeur professionnel (carburant inclus)",
+                     "3 nuits d\u0027hébergement",
+                     "3 petits-déjeuners",
+                     "Guide officiel à Fès",
+                     "Prise en charge à Tanger, dépose à Marrakech",
+                     "Qualité de service"
+                 ],
+    "excluded":  [
+                     "Déjeuners",
+                     "Dîners",
+                     "Boissons",
+                     "Pourboires",
+                     "Dépenses personnelles",
+                     "Frais d\u0027entrée des monuments"
+                 ],
+    "faq":  [
+                {
+                    "question":  "Ce circuit inclut-il la visite de la médina de Marrakech ?",
+                    "answer":  "Non, ce circuit 4 jours se termine à Marrakech avec du temps libre. Une visite guidée de Marrakech peut être ajoutée en option."
+                },
+                {
+                    "question":  "Le circuit peut-il inclure le Sahara ?",
+                    "answer":  "Oui, nos circuits 6 et 7 jours depuis Tanger intègrent le désert de Merzouga. Contactez-nous pour un devis sur mesure."
+                }
+            ],
+    "gallery":  [
+
+                ],
+    "relatedDestinations": ["marrakech", "fes", "chefchaouen", "tanger"]
+}

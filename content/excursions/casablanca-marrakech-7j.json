@@ -1,0 +1,118 @@
+{
+    "slug":  "casablanca-marrakech-7j",
+    "type":  "excursion",
+    "category":  "Circuit complet",
+    "legacyPath":  "/circuits/casablanca-marrakech-7j",
+    "name":  "Circuit 7 jours : Casablanca → Chefchaouen → Volubilis → Fès → Marrakech",
+    "seo":  {
+                "title":  "Circuit 7 jours Casablanca Marrakech — Chefchaouen, Fès, Volubilis | Voyages Authentiques Maroc",
+                "description":  "Circuit privé 7 jours depuis Casablanca : Chefchaouen (Ville bleue), Volubilis (ruines romaines UNESCO), Fès médiévale avec guide, Atlas, Marrakech avec guide. Transport et hébergement inclus."
+            },
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1733903956106-bb0b38207468?auto=format\u0026fit=crop\u0026w=1280\u0026q=85",
+                 "tagline":  "Les villes impériales et la Ville bleue en 7 jours"
+             },
+    "intro":  "Ce circuit 7 jours au départ de Casablanca parcourt le nord du Maroc (Chefchaouen, Volubilis, Fès) avant de traverser le Moyen Atlas pour rejoindre Marrakech. Guide officiel à Fès et à Marrakech inclus. Parfait pour une première découverte complète des villes impériales et des paysages variés du Maroc.",
+    "priceFrom": "À partir de 830 € / personne — devis sur mesure",
+    "programs":  [
+                     {
+                         "title":  "Itinéraire 7 jours",
+                         "days":  [
+                                      {
+                                          "label":  "Jour 1 — Casablanca : arrivée \u0026 transfert hôtel",
+                                          "items":  [
+                                                        "Accueil à l\u0027aéroport Mohammed V de Casablanca",
+                                                        "Transfert à l\u0027hôtel",
+                                                        "Temps libre pour visiter la ville selon l\u0027heure d\u0027arrivée"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 2 — Casablanca → Chefchaouen",
+                                          "items":  [
+                                                        "Départ en direction des montagnes du Rif",
+                                                        "Traversée de vallées et plaines verdoyantes",
+                                                        "Arrivée à Chefchaouen, la « Ville bleue »",
+                                                        "Exploration libre de la médina aux ruelles bleues",
+                                                        "Nuit à Chefchaouen"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 3 — Chefchaouen → Volubilis → Fès",
+                                          "items":  [
+                                                        "Départ de Chefchaouen",
+                                                        "Visite des ruines romaines de Volubilis (UNESCO) — mosaïques, temples, basilique",
+                                                        "Arrivée à Fès, capitale spirituelle du Maroc",
+                                                        "Nuit à Fès"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 4 — Visite guidée de Fès (guide officiel)",
+                                          "items":  [
+                                                        "Medersa Bou Inania (fondée en 1351)",
+                                                        "Université Al-Quaraouiyine",
+                                                        "Tanneries Chourara",
+                                                        "Souk des tisserands de soie, laine et coton",
+                                                        "Quartier du Mellah",
+                                                        "Coopérative de zellij et poterie"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 5 — Fès → Béni Mellal → Marrakech",
+                                          "items":  [
+                                                        "Départ de Fès tôt le matin",
+                                                        "Traversée du Moyen Atlas",
+                                                        "Passage par Béni Mellal",
+                                                        "Arrivée à Marrakech"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 6 — Visite guidée de Marrakech (guide officiel)",
+                                          "items":  [
+                                                        "Mosquée Koutoubia (la plus belle mosquée du monde occidental musulman)",
+                                                        "Tombeaux Saadiens",
+                                                        "Palais Bahia",
+                                                        "Médina et souks",
+                                                        "Place Jemaa el-Fna"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 7 — Départ (Marrakech ou Casablanca)",
+                                          "items":  [
+                                                        "Transfert à l\u0027aéroport de Marrakech ou de Casablanca selon votre vol"
+                                                    ]
+                                      }
+                                  ]
+                     }
+                 ],
+    "included":  [
+                     "Véhicule confortable climatisé avec chauffeur professionnel (carburant inclus)",
+                     "6 nuits d\u0027hébergement",
+                     "6 petits-déjeuners",
+                     "Guide officiel à Fès",
+                     "Guide officiel à Marrakech",
+                     "Prise en charge à Casablanca, dépose à Casablanca ou Marrakech",
+                     "Qualité de service"
+                 ],
+    "excluded":  [
+                     "Déjeuners",
+                     "Dîners",
+                     "Boissons",
+                     "Pourboires",
+                     "Dépenses personnelles",
+                     "Frais d\u0027entrée des monuments"
+                 ],
+    "faq":  [
+                {
+                    "question":  "Le départ et le retour se font-ils à Casablanca ?",
+                    "answer":  "Le départ est à Casablanca. Le circuit peut se terminer à Casablanca ou à Marrakech selon vos préférences de vol."
+                },
+                {
+                    "question":  "Ce circuit inclut-il la Mosquée Hassan II ?",
+                    "answer":  "La Mosquée Hassan II est incluse dans l\u0027itinéraire 8 jours (Jour 2 : Casablanca → Chefchaouen avec visite de la mosquée). Ce circuit 7 jours peut être adapté sur demande."
+                }
+            ],
+    "gallery":  [
+
+                ],
+    "relatedDestinations": ["marrakech", "fes", "chefchaouen", "casablanca"]
+}

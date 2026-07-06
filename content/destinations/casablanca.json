@@ -1,0 +1,58 @@
+{
+  "slug": "casablanca",
+  "type": "destination",
+  "legacyPath": "/destinations/casablanca",
+  "name": "Casablanca — la métropole océane",
+  "seo": {
+    "title": "Casablanca — mosquée Hassan II, corniche | Voyages Authentiques Maroc",
+    "description": "Découvrez Casablanca, plus grande ville du Maroc : mosquée Hassan II posée sur l'Atlantique, architecture Art déco, corniche animée. Circuits privés au départ de Casablanca vers tout le Maroc."
+  },
+  "hero": {
+    "image": "https://images.unsplash.com/photo-1538230575309-59dfc388ae36?auto=format&fit=crop&w=1280&q=85",
+    "tagline": "La mosquée Hassan II, chef-d'œuvre posé sur l'Atlantique"
+  },
+  "intro": "Capitale économique du Maroc et sa ville la plus peuplée, Casablanca surprend par son mélange d'architecture Art déco coloniale, de tours modernes et de sites historiques. Son emblème incontesté est la mosquée Hassan II, l'une des plus grandes du monde : 25 ans de travaux, 10 000 artisans, un minaret record de 210 mètres et une salle de prière construite en partie au-dessus de l'océan, ouverte à la visite pour les non-musulmans — une rareté au Maroc. Immortalisée par le film de Michael Curtiz avec Humphrey Bogart, la ville cultive aussi une scène gastronomique et artistique en plein essor. Casablanca dispose du principal aéroport international du pays (Mohammed V), ce qui en fait un point de départ ou d'arrivée fréquent pour les circuits : nos itinéraires de 7 à 10 jours au départ de Casablanca couvrent les villes impériales, Chefchaouen et le désert.",
+  "highlights": [
+    {
+      "name": "Mosquée Hassan II",
+      "description": "Troisième plus grande mosquée du monde, construite en partie au-dessus de l'océan, avec un minaret record de 210 mètres."
+    },
+    {
+      "name": "Architecture Art déco",
+      "description": "Le centre-ville conserve un remarquable patrimoine d'immeubles Art déco des années 1920-1930, hérité du protectorat français."
+    },
+    {
+      "name": "Corniche d'Aïn Diab",
+      "description": "Front de mer animé avec restaurants, cafés et plages, très fréquenté par les Casablancais en fin de journée."
+    },
+    {
+      "name": "Ancienne médina",
+      "description": "Plus modeste que celles de Fès ou Marrakech, mais authentique et moins touristique, au cœur du vieux Casablanca."
+    }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "Toute l'année, climat océanique doux, étés moins étouffants que dans les terres",
+    "daysRecommended": "1 journée suffit pour l'essentiel, souvent utilisée comme point de départ ou d'arrivée d'un circuit plus large",
+    "tips": [
+      "Réservez la visite guidée intérieure de la mosquée Hassan II, l'une des rares ouvertes aux non-musulmans",
+      "L'aéroport Mohammed V est le principal hub international : idéal pour débuter ou terminer un circuit",
+      "Prévoir un peu de temps pour flâner dans le quartier Art déco du centre-ville"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Peut-on visiter l'intérieur de la mosquée Hassan II ?",
+      "answer": "Oui — c'est l'une des très rares mosquées du Maroc ouvertes aux non-musulmans. La visite se fait uniquement en visite guidée, à horaires fixes (généralement en matinée et début d'après-midi, en dehors des heures de prière). Une tenue couvrant épaules et genoux est demandée."
+    },
+    {
+      "question": "Casablanca est-elle un bon point de départ pour un circuit au Maroc ?",
+      "answer": "Excellent : l'aéroport Mohammed V est le mieux desservi du pays depuis l'Europe. Nos circuits au départ de Casablanca (7 à 10 jours) enchaînent Rabat, Chefchaouen, Fès, le désert de Merzouga et Marrakech — une boucle complète des incontournables du Royaume, à partir de 830 € par personne."
+    },
+    {
+      "question": "Combien de temps consacrer à Casablanca ?",
+      "answer": "Une journée suffit pour la mosquée Hassan II, le quartier Art déco, la corniche et l'ancienne médina. La plupart de nos voyageurs visitent la ville le jour d'arrivée ou de départ, avant d'enchaîner vers Rabat, Marrakech ou le nord."
+    }
+  ],
+  "gallery": [],
+  "relatedExcursions": ["excursion-casablanca", "rabat-casablanca-3j", "casablanca-marrakech-7j"]
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "chefchaouen",
+  "type": "destination",
+  "legacyPath": "/destinations/chefchaouen",
+  "name": "Chefchaouen — la perle bleue du Rif",
+  "seo": {
+    "title": "Chefchaouen, la ville bleue du Maroc | Voyages Authentiques Maroc",
+    "description": "Découvrez Chefchaouen, la célèbre ville bleue nichée dans les montagnes du Rif : ruelles azur, place Outa el-Hammam, artisanat berbère. Circuits privés au départ de Fès, Tanger ou Rabat."
+  },
+  "hero": {
+    "image": "/images/chefchaouen-ruelle.jpg",
+    "tagline": "Ruelles bleu azur et montagnes du Rif — la ville la plus photogénique du Maroc"
+  },
+  "intro": "Perchée à 600 mètres d'altitude dans les montagnes du Rif, Chefchaouen doit sa renommée mondiale à ses murs peints dans toutes les nuances de bleu, une tradition remontant aux réfugiés juifs des années 1930. Fondée en 1471 comme place forte contre les incursions portugaises, la ville a longtemps été interdite aux étrangers — ce qui explique son atmosphère préservée, unique au Maroc. Plus paisible que les grandes médinas impériales, elle se découvre à pied entre ruelles fleuries, ateliers de tissage berbère et petites places ombragées où l'on sirote un thé à la menthe face aux montagnes. C'est une étape incontournable des circuits du nord, généralement associée à Fès, Meknès, Tanger ou Rabat, et l'une des destinations préférées des photographes du monde entier.",
+  "highlights": [
+    {
+      "name": "Ruelles bleues",
+      "description": "Un camaïeu de bleus sur les murs et portes de la médina, particulièrement lumineux en fin de matinée."
+    },
+    {
+      "name": "Place Outa el-Hammam",
+      "description": "Cœur animé de la médina, bordée de cafés et dominée par la kasbah du XVe siècle et sa grande mosquée octogonale."
+    },
+    {
+      "name": "Artisanat berbère du Rif",
+      "description": "Tissages de laine, babouches et fromages de chèvre locaux, vendus dans de petites échoppes familiales."
+    },
+    {
+      "name": "Randonnées dans le Rif",
+      "description": "Le parc national de Talassemtane, aux portes de la ville, offre sentiers et cascades pour les amateurs de nature."
+    }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "Avril à juin et septembre à octobre, climat plus frais qu'ailleurs au Maroc grâce à l'altitude",
+    "daysRecommended": "1 à 2 jours suffisent, à intégrer dans un circuit du nord (Fès, Tanger, Rabat)",
+    "tips": [
+      "Demandez l'autorisation avant de photographier les habitants",
+      "La lumière est la plus belle pour les photos en fin de matinée et en fin d'après-midi",
+      "Les meilleures vues d'ensemble se prennent depuis le sentier du Ras el-Maa ou de la mosquée espagnole"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Pourquoi Chefchaouen est-elle entièrement peinte en bleu ?",
+      "answer": "Plusieurs traditions coexistent : le bleu aurait été introduit par les réfugiés juifs dans les années 1930, pour qui il symbolise le ciel et la spiritualité ; il éloignerait aussi les moustiques et rafraîchirait les ruelles en été. Aujourd'hui, les habitants repeignent régulièrement leurs façades, entretenant l'identité unique de la ville."
+    },
+    {
+      "question": "Comment se rendre à Chefchaouen ?",
+      "answer": "Chefchaouen n'a ni aéroport ni gare : on y accède par la route, en véhicule privé avec chauffeur. Comptez environ 2h depuis Tanger, 3h30 depuis Fès et 4h depuis Rabat ou Casablanca. Nos circuits du nord combinent généralement Chefchaouen avec Tanger, Fès ou les deux."
+    },
+    {
+      "question": "Combien de temps rester à Chefchaouen ?",
+      "answer": "Une journée complète permet de voir l'essentiel de la médina, mais passer une nuit sur place est vivement conseillé : le matin tôt, avant l'arrivée des excursionnistes, la ville bleue retrouve tout son calme et sa magie — c'est le meilleur moment pour les photos."
+    }
+  ],
+  "gallery": [],
+  "relatedExcursions": ["casablanca-chefchaouen-2j", "fes-chefchaouen-tanger-3j", "marrakech-chefchaouen-4j"]
+}

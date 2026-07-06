@@ -1,0 +1,84 @@
+{
+    "slug":  "rabat-marrakech-5j",
+    "type":  "excursion",
+    "category":  "Circuit villes impériales",
+    "legacyPath":  "/circuits/rabat-marrakech-5j",
+    "name":  "Circuit 5 jours : Rabat → Chefchaouen → Fès → Meknès → Marrakech",
+    "seo":  {
+                "title":  "Circuit 5 jours Rabat Marrakech — Chefchaouen, Fès, Meknès, Volubilis | Voyages Authentiques Maroc",
+                "description":  "Circuit privé 5 jours de Rabat à Marrakech : Chefchaouen (Ville bleue), Fès médiévale avec guide officiel, Meknès et Bab Mansour, Volubilis (UNESCO), Marrakech."
+            },
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1526928878027-1cf28c1405ba?auto=format\u0026fit=crop\u0026w=1280\u0026q=85",
+                 "tagline":  "Rabat → Chefchaouen → Fès → Meknès → Marrakech"
+             },
+    "intro":  "Ce circuit 5 jours au départ de Rabat couvre les principales étapes du nord marocain : Chefchaouen la bleue, Fès la médiévale avec un guide officiel pour la médina, Meknès et ses portes monumentales, Volubilis l\u0027antique. Le circuit se termine à Marrakech, la ville ocre.",
+    "priceFrom": "À partir de 580 € / personne — devis sur mesure",
+    "programs":  [
+                     {
+                         "title":  "Itinéraire 5 jours",
+                         "days":  [
+                                      {
+                                          "label":  "Jour 1 — Rabat → Chefchaouen",
+                                          "items":  [
+                                                        "Départ de Rabat",
+                                                        "Traversée des plaines et premières montagnes du Rif",
+                                                        "Arrivée à Chefchaouen",
+                                                        "Exploration libre de la médina bleue"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 2 — Chefchaouen → Fès",
+                                          "items":  [
+                                                        "Matinée libre à Chefchaouen",
+                                                        "Route vers Fès",
+                                                        "Installation dans la médina"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 3 — Visite guidée de Fès (guide officiel)",
+                                          "items":  [
+                                                        "Al-Quaraouiyine, Medersa Bou Inania",
+                                                        "Tanneries Chourara",
+                                                        "Souks des artisans, Mellah"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 4 — Fès → Meknès → Volubilis → Route vers Marrakech",
+                                          "items":  [
+                                                        "Meknès : Bab Mansour, Mausolée Moulay Ismaïl, Haras royal",
+                                                        "Volubilis (ruines romaines UNESCO)",
+                                                        "Route vers Marrakech (traversée du Moyen Atlas)"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 5 — Arrivée à Marrakech",
+                                          "items":  [
+                                                        "Arrivée à Marrakech",
+                                                        "Temps libre : médina, souks, Jemaa el-Fna"
+                                                    ]
+                                      }
+                                  ]
+                     }
+                 ],
+    "included":  [
+                     "Véhicule climatisé avec chauffeur professionnel (carburant inclus)",
+                     "4 nuits d\u0027hébergement",
+                     "4 petits-déjeuners",
+                     "Guide officiel à Fès",
+                     "Prise en charge à Rabat, dépose à Marrakech",
+                     "Qualité de service"
+                 ],
+    "excluded":  [
+                     "Déjeuners",
+                     "Dîners",
+                     "Boissons",
+                     "Pourboires",
+                     "Dépenses personnelles",
+                     "Frais d\u0027entrée des monuments"
+                 ],
+    "gallery":  [
+
+                ],
+    "relatedDestinations": ["marrakech", "fes", "chefchaouen"]
+}

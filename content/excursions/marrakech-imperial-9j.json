@@ -1,0 +1,137 @@
+{
+  "slug": "marrakech-imperial-9j",
+  "type": "excursion",
+  "category": "Circuit complet",
+  "legacyPath": "/circuits/marrakech-imperial-9j",
+  "name": "Grand Circuit 9 jours : Villes impériales, Sahara & Chefchaouen depuis Marrakech",
+  "seo": {
+    "title": "Circuit 9 jours Maroc Complet — Villes impériales, Sahara & Chefchaouen | Voyages Authentiques Maroc",
+    "description": "Grand tour 9 jours du Maroc depuis Marrakech : Aït Ben Haddou, Merzouga, Fès (guide officiel), Volubilis, Chefchaouen, Casablanca, visite de Marrakech. Circuit privé tout compris."
+  },
+  "hero": {
+    "image": "https://images.unsplash.com/photo-1587974928442-77dc3e0dba72?auto=format&fit=crop&w=1280&q=85",
+    "tagline": "Le grand tour du Maroc en 9 jours"
+  },
+  "intro": "Ce grand circuit de 9 jours est le plus complet au départ de Marrakech : il regroupe les principales villes impériales, le désert du Sahara, la ville bleue de Chefchaouen et Casablanca. Avec des guides officiels à Fès et à Marrakech, deux transferts aéroport et 8 nuits d'hébergement, c'est l'expérience Maroc par excellence. Disponible en français, anglais, espagnol et italien.",
+  "priceFrom": "À partir de 1 290 € / personne — devis sur mesure",
+  "programs": [
+    {
+      "title": "Itinéraire 9 jours",
+      "days": [
+        {
+          "label": "Jour 1 — Arrivée à Marrakech (transfert aéroport inclus)",
+          "items": [
+            "Accueil à l'aéroport de Marrakech",
+            "Transfert vers votre hôtel",
+            "Temps libre"
+          ]
+        },
+        {
+          "label": "Jour 2 — Marrakech → Aït Ben Haddou → Vallée des Dades",
+          "items": [
+            "Traversée du col de Tizi n'Tichka",
+            "Visite du ksar d'Aït Ben Haddou (UNESCO)",
+            "Nuit dans la vallée des Dades"
+          ]
+        },
+        {
+          "label": "Jour 3 — Dades → Gorges du Todra → Merzouga (désert)",
+          "items": [
+            "Visite des gorges du Todra",
+            "Arrivée à Merzouga",
+            "Balade à dromadaire au coucher du soleil",
+            "Nuit sous tente berbère, sandboarding"
+          ]
+        },
+        {
+          "label": "Jour 4 — Merzouga → Midelt → Forêt d'Azrou → Ifrane → Fès",
+          "items": [
+            "Lever de soleil dans le désert",
+            "Route nord via la vallée du Ziz",
+            "Forêt de cèdres d'Azrou (macaques de Barbarie), Ifrane",
+            "Arrivée à Fès"
+          ]
+        },
+        {
+          "label": "Jour 5 — Visite guidée de Fès (guide officiel)",
+          "items": [
+            "Visite guidée complète de la médina de Fès avec guide local officiel",
+            "Université Al-Quaraouiyine (fondée en 859)",
+            "Medersa Bou Inania",
+            "Tanneries Chourara",
+            "Souks et quartier des artisans",
+            "Mellah (ancien quartier juif)"
+          ]
+        },
+        {
+          "label": "Jour 6 — Fès → Volubilis (UNESCO) → Chefchaouen",
+          "items": [
+            "Visite des ruines romaines de Volubilis (UNESCO) — mosaïques, temples, arc de triomphe",
+            "Route vers Chefchaouen",
+            "Arrivée dans la « Perle bleue » des montagnes du Rif"
+          ]
+        },
+        {
+          "label": "Jour 7 — Chefchaouen → Casablanca (Mosquée Hassan II) → Marrakech",
+          "items": [
+            "Départ de Chefchaouen",
+            "Arrêt à Casablanca : extérieur de la Mosquée Hassan II",
+            "Route vers Marrakech",
+            "Arrivée à Marrakech"
+          ]
+        },
+        {
+          "label": "Jour 8 — Visite guidée de Marrakech (guide officiel)",
+          "items": [
+            "Visite guidée de la médina de Marrakech avec guide local officiel",
+            "Mosquée Koutoubia",
+            "Tombeaux Saadiens",
+            "Palais Bahia",
+            "Place Jemaa el-Fna et ses souks"
+          ]
+        },
+        {
+          "label": "Jour 9 — Transfert aéroport (Marrakech ou Casablanca)",
+          "items": [
+            "Transfert vers l'aéroport de Marrakech ou de Casablanca selon votre vol"
+          ]
+        }
+      ]
+    }
+  ],
+  "included": [
+    "Véhicule confortable climatisé avec chauffeur professionnel (carburant inclus)",
+    "8 nuits d'hébergement",
+    "8 petits-déjeuners",
+    "2 dîners (Dades et Merzouga)",
+    "Balade à dromadaire (coucher et lever du soleil — 1 dromadaire par personne)",
+    "Sandboarding",
+    "Guide officiel à Marrakech",
+    "Guide officiel à Fès",
+    "Transfert aéroport arrivée et départ",
+    "Qualité de service"
+  ],
+  "excluded": [
+    "Déjeuners",
+    "Boissons",
+    "Pourboires",
+    "Dépenses personnelles",
+    "Frais d'entrée des monuments"
+  ],
+  "faq": [
+    {
+      "question": "Ce circuit est-il disponible dans d'autres langues que le français ?",
+      "answer": "Oui, ce circuit est disponible en français, anglais, espagnol et italien."
+    },
+    {
+      "question": "Le transfert aéroport est-il inclus aux deux bouts ?",
+      "answer": "Oui, les transferts aéroport à l'arrivée et au départ sont inclus. Le départ peut se faire depuis Marrakech ou Casablanca selon votre vol."
+    },
+    {
+      "question": "Les guides de Fès et Marrakech sont-ils officiels ?",
+      "answer": "Oui, des guides locaux certifiés sont inclus pour les visites de Fès (Jour 5) et de Marrakech (Jour 8)."
+    }
+  ],
+  "gallery": [],
+  "relatedDestinations": ["desert-sahara-merzouga", "marrakech", "fes", "chefchaouen"]
+}

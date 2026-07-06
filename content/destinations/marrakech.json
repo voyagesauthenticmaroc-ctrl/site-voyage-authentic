@@ -1,0 +1,62 @@
+{
+  "slug": "marrakech",
+  "type": "destination",
+  "legacyPath": "/destinations/marrakech",
+  "name": "Marrakech — la ville rouge",
+  "seo": {
+    "title": "Marrakech — Jemaa el-Fna, médina, jardins | Voyages Authentiques Maroc",
+    "description": "Circuits privés à Marrakech : place Jemaa el-Fna, souks de la médina, palais et jardins historiques. Point de départ idéal pour le désert, l'Atlas et les villes impériales."
+  },
+  "hero": {
+    "image": "https://images.unsplash.com/photo-1587974928442-77dc3e0dba72?auto=format&fit=crop&w=1280&q=85",
+    "tagline": "Place Jemaa el-Fna, souks colorés et palais au pied de l'Atlas"
+  },
+  "intro": "Marrakech est la porte d'entrée la plus fréquentée du Maroc et le point de départ naturel de la grande majorité de nos circuits. La ville rouge mêle l'effervescence de la place Jemaa el-Fna, classée patrimoine oral de l'UNESCO, aux ruelles labyrinthiques de la médina, ses souks d'artisans, ses palais du XIXe siècle et ses jardins d'exception. Fondée au XIe siècle par les Almoravides, elle fut à deux reprises capitale d'un empire s'étendant de l'Espagne au Sénégal — un passé impérial qui se lit encore dans la Koutoubia, les tombeaux saadiens ou le palais Bahia. À proximité immédiate : les vallées de l'Atlas et leurs villages berbères, la route du désert vers Merzouga et Zagora, Essaouira et l'Atlantique, ou encore les villes impériales du nord. Que vous restiez deux jours ou une semaine, Marrakech est la base idéale pour composer un voyage sur mesure au Maroc.",
+  "highlights": [
+    {
+      "name": "Jemaa el-Fna",
+      "description": "Place mythique animée du matin au soir : conteurs, musiciens, charmeurs de serpents et étals de jus d'orange, au pied de la Koutoubia."
+    },
+    {
+      "name": "Médina et souks",
+      "description": "Dédale de ruelles couvertes où se côtoient artisans du cuir, du bois, du métal et des tapis, entre échoppes et riads cachés."
+    },
+    {
+      "name": "Jardin Majorelle & palais",
+      "description": "Jardin botanique bleu emblématique et palais historiques (Bahia, Badiaa) témoins de l'âge d'or de l'architecture marocaine."
+    },
+    {
+      "name": "Point de départ stratégique",
+      "description": "Base idéale pour rayonner vers le désert de Merzouga, la vallée de l'Ourika, les cascades d'Ouzoud ou Essaouira en une journée."
+    }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "Mars à mai et septembre à novembre, températures très élevées en été (juin à août)",
+    "daysRecommended": "2 à 3 jours pour la ville seule, davantage si combinée à un circuit désert ou Atlas",
+    "tips": [
+      "Négocier fait partie du jeu dans les souks, restez courtois et souriant",
+      "Prévoir des chaussures confortables : la médina se visite essentiellement à pied",
+      "Les jardins et palais sont plus agréables tôt le matin, avant l'affluence"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Combien de jours faut-il pour visiter Marrakech ?",
+      "answer": "Deux à trois jours permettent de couvrir l'essentiel : la place Jemaa el-Fna, les souks, le palais Bahia, les tombeaux saadiens et le jardin Majorelle. Beaucoup de nos voyageurs combinent ensuite Marrakech avec une excursion à la journée (Ourika, Ouzoud, Essaouira) ou un circuit de 3 jours vers le désert de Merzouga."
+    },
+    {
+      "question": "Quelles excursions à la journée faire depuis Marrakech ?",
+      "answer": "Les plus demandées sont la vallée de l'Ourika et ses villages berbères (à 1h), les cascades d'Ouzoud (2h30), Essaouira et l'Atlantique (2h30) et le ksar d'Aït Ben Haddou classé UNESCO (3h30). Toutes se font en véhicule privé climatisé avec chauffeur francophone, à partir de 45 € par personne."
+    },
+    {
+      "question": "Marrakech est-elle une bonne base pour un circuit dans le désert ?",
+      "answer": "Oui, c'est le point de départ le plus populaire : le circuit classique de 3 jours rejoint les dunes de l'Erg Chebbi à Merzouga en passant par le col du Tichka, Aït Ben Haddou, les gorges du Todra et la vallée du Dadès, avec une nuit en bivouac sous les étoiles."
+    },
+    {
+      "question": "Faut-il un guide pour visiter la médina de Marrakech ?",
+      "answer": "Ce n'est pas obligatoire, mais fortement recommandé pour une première visite : un guide local francophone vous fait découvrir les souks sans vous perdre, vous ouvre les portes de lieux méconnus et vous aide à négocier. Nous l'incluons sur demande dans tous nos programmes."
+    }
+  ],
+  "gallery": [],
+  "relatedExcursions": ["marrakech-merzouga-3j", "marrakech-imperial-9j", "excursion-ourika"]
+}

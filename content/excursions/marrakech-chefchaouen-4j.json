@@ -1,0 +1,89 @@
+{
+  "slug": "marrakech-chefchaouen-4j",
+  "type": "excursion",
+  "category": "Circuit complet",
+  "legacyPath": "/circuits/marrakech-chefchaouen-4j",
+  "name": "Circuit 4 jours : Marrakech → Sahara → Fès → Chefchaouen",
+  "seo": {
+    "title": "Circuit 4 jours Marrakech Sahara Fès Chefchaouen — Villes impériales & Désert | Voyages Authentiques Maroc",
+    "description": "Circuit 4 jours de Marrakech à Chefchaouen : désert de Merzouga, gorges du Dades, gorges du Todra, Fès médiévale, puis Chefchaouen la ville bleue. Transport privé inclus."
+  },
+  "hero": {
+    "image": "/images/chefchaouen-ruelle.jpg",
+    "tagline": "Du Sahara à la Ville Bleue en 4 jours"
+  },
+  "intro": "Ce circuit 4 jours vous fait traverser tout le Maroc, de Marrakech à Chefchaouen en passant par le désert de Merzouga et la cité médiévale de Fès. Un itinéraire parfait pour découvrir la diversité des paysages et des cultures marocaines en peu de temps.",
+  "priceFrom": "À partir de 480 € / personne — devis sur mesure",
+  "programs": [
+    {
+      "title": "Itinéraire 4 jours",
+      "days": [
+        {
+          "label": "Jour 1 — Marrakech → Aït Ben Haddou → Ouarzazate → Dades",
+          "items": [
+            "Départ de Marrakech, traversée du col de Tizi n'Tichka",
+            "Visite du ksar d'Aït Ben Haddou (UNESCO)",
+            "Arrêt à Ouarzazate",
+            "Nuit dans la vallée des Dades"
+          ]
+        },
+        {
+          "label": "Jour 2 — Dades → Gorges du Todra → Erfoud → Merzouga",
+          "items": [
+            "Visite des gorges du Todra",
+            "Route vers Merzouga (Erg Chebbi)",
+            "Balade à dromadaire au coucher du soleil",
+            "Nuit sous tente berbère dans le désert",
+            "Sandboarding"
+          ]
+        },
+        {
+          "label": "Jour 3 — Merzouga → Vallée du Ziz → Midelt → Forêt d'Azrou → Ifrane → Fès",
+          "items": [
+            "Lever de soleil sur les dunes de Merzouga (distance Merzouga-Fès : ~460 km, 7-8h)",
+            "Route nord via la vallée du Ziz et Midelt",
+            "Forêt de cèdres d'Azrou, Ifrane",
+            "Arrivée à Fès le soir"
+          ]
+        },
+        {
+          "label": "Jour 4 — Fès → Montagnes du Rif → Chefchaouen",
+          "items": [
+            "Départ de Fès",
+            "Traversée des montagnes du Rif",
+            "Arrivée à Chefchaouen, la « Perle bleue » du Maroc",
+            "Temps libre pour explorer les ruelles bleues de la médina"
+          ]
+        }
+      ]
+    }
+  ],
+  "included": [
+    "Véhicule confortable climatisé avec chauffeur professionnel (carburant inclus)",
+    "3 nuits (hôtel + tente désert)",
+    "3 dîners",
+    "3 petits-déjeuners",
+    "Balade à dromadaire (coucher et lever du soleil — 1 dromadaire par personne)",
+    "Sandboarding",
+    "Qualité de service"
+  ],
+  "excluded": [
+    "Déjeuners",
+    "Boissons",
+    "Pourboires",
+    "Dépenses personnelles",
+    "Frais d'entrée des monuments"
+  ],
+  "faq": [
+    {
+      "question": "Le circuit se termine à Chefchaouen ?",
+      "answer": "Oui, ce circuit se termine à Chefchaouen. Il peut être prolongé vers Tanger, Fès ou Casablanca selon vos plans de voyage."
+    },
+    {
+      "question": "La Ville bleue de Chefchaouen est-elle visitée avec un guide ?",
+      "answer": "L'exploration libre de Chefchaouen est incluse. Un guide local peut être arrangé sur demande."
+    }
+  ],
+  "gallery": [],
+  "relatedDestinations": ["desert-sahara-merzouga", "marrakech", "fes", "chefchaouen"]
+}

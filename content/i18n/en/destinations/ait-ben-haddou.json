@@ -1,0 +1,27 @@
+{
+  "slug": "ait-ben-haddou",
+  "name": "Ait Ben Haddou — the UNESCO ksar",
+  "seo": {
+    "title": "Ait Ben Haddou — UNESCO ksar near Ouarzazate | Authentic Morocco Tours",
+    "description": "Visit the ksar of Ait Ben Haddou, a UNESCO World Heritage site and legendary film set near Ouarzazate. Private day trip from Marrakech or a stop on the desert route."
+  },
+  "hero": {
+    "tagline": "The most famous ksar in southern Morocco, at the gates of the desert"
+  },
+  "intro": "Listed as a UNESCO World Heritage Site since 1987, the ksar of Ait Ben Haddou is the most impressive fortified earthen settlement in Morocco. Founded in the 11th century on the caravan route linking Sudan to Marrakech, its earthen houses with crenellated corner towers line the slope of a hill overlooking the Ounila Valley. Its spectacular silhouette has served as the backdrop for numerous international films and series — Lawrence of Arabia, Gladiator, Game of Thrones — making it one of the most photographed sites in North Africa. Located about 30 km from Ouarzazate and its film studios, it is an essential stop on the road linking Marrakech to the Merzouga desert, via the Tichka Pass and its High Atlas panoramas.",
+  "highlights": [
+    { "name": "Earthen architecture", "description": "Fortified houses of raw earth with decorated towers, a remarkable example of pre-Saharan architecture, still partly inhabited." },
+    { "name": "Film backdrop", "description": "Location for numerous international productions — the Ouarzazate film studios are just minutes from the site." },
+    { "name": "View from the hilltop", "description": "The climb to the top of the ksar offers a full panorama over the Ounila Valley and the surrounding oasis." },
+    { "name": "Tichka Pass", "description": "The road from Marrakech crosses the High Atlas via this pass, at over 2,260 m altitude, with spectacular scenery." }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "Year-round, with a preference for spring and autumn for crossing the Tichka Pass",
+    "daysRecommended": "Day trip from Marrakech, or a stop on a multi-day tour towards the desert",
+    "tips": [
+      "Morning and sunset light best highlights the site's ochre colours",
+      "Bring good shoes for the steep climb to the top of the ksar",
+      "Combine the visit with the Ouarzazate film studios, right nearby"
+    ]
+  }
+}

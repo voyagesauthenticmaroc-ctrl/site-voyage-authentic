@@ -1,0 +1,27 @@
+{
+  "slug": "marrakech",
+  "name": "Marrakech — la ciudad roja",
+  "seo": {
+    "title": "Marrakech — Jemaa el-Fna, medina, jardines | Viajes Auténticos Marruecos",
+    "description": "Tours privados en Marrakech: plaza Jemaa el-Fna, zocos de la medina, palacios y jardines históricos. Punto de partida ideal para el desierto, el Atlas y las ciudades imperiales."
+  },
+  "hero": {
+    "tagline": "Plaza Jemaa el-Fna, zocos coloridos y palacios a los pies del Atlas"
+  },
+  "intro": "Marrakech es la puerta de entrada más frecuentada de Marruecos y el punto de partida natural de la gran mayoría de nuestros tours. La ciudad roja combina la efervescencia de la plaza Jemaa el-Fna, declarada Patrimonio Oral de la UNESCO, con las callejuelas laberínticas de la medina, sus zocos de artesanos, sus palacios del siglo XIX y sus jardines excepcionales. Fundada en el siglo XI por los almorávides, fue en dos ocasiones capital de un imperio que se extendía desde España hasta Senegal — un pasado imperial que aún se percibe en la Kutubía, las tumbas saadíes o el palacio de la Bahía. Muy cerca: los valles del Atlas y sus pueblos bereberes, la ruta del desierto hacia Merzouga y Zagora, Essaouira y el Atlántico, o las ciudades imperiales del norte. Ya te quedes dos días o una semana, Marrakech es la base ideal para componer un viaje a medida por Marruecos.",
+  "highlights": [
+    { "name": "Jemaa el-Fna", "description": "Plaza mítica animada de la mañana a la noche: cuentacuentos, músicos, encantadores de serpientes y puestos de zumo de naranja, a los pies de la Kutubía." },
+    { "name": "Medina y zocos", "description": "Un laberinto de callejuelas cubiertas donde conviven artesanos del cuero, la madera, el metal y las alfombras, entre tiendas y riads ocultos." },
+    { "name": "Jardín Majorelle y palacios", "description": "El emblemático jardín botánico azul y palacios históricos (Bahía, Badiaa) testigos de la edad de oro de la arquitectura marroquí." },
+    { "name": "Punto de partida estratégico", "description": "Base ideal para excursiones al desierto de Merzouga, al valle del Ourika, a las cascadas de Ouzoud o a Essaouira en un solo día." }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "De marzo a mayo y de septiembre a noviembre, temperaturas muy elevadas en verano (junio a agosto)",
+    "daysRecommended": "2 a 3 días solo para la ciudad, más si se combina con un tour al desierto o al Atlas",
+    "tips": [
+      "Negociar forma parte del juego en los zocos, mantén siempre la cortesía y la sonrisa",
+      "Lleva calzado cómodo: la medina se visita principalmente a pie",
+      "Los jardines y palacios son más agradables a primera hora, antes de la afluencia de gente"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "marrakech",
+  "name": "Marrakech — the red city",
+  "seo": {
+    "title": "Marrakech — Jemaa el-Fna, medina, gardens | Authentic Morocco Tours",
+    "description": "Private tours in Marrakech: Jemaa el-Fna square, medina souks, historic palaces and gardens. Ideal starting point for the desert, the Atlas and the imperial cities."
+  },
+  "hero": {
+    "tagline": "Jemaa el-Fna square, colourful souks and palaces at the foot of the Atlas"
+  },
+  "intro": "Marrakech is Morocco's busiest gateway and the natural starting point for the vast majority of our tours. The red city blends the buzz of Jemaa el-Fna square, listed as UNESCO Intangible Cultural Heritage, with the labyrinthine alleyways of the medina, its craft souks, its 19th-century palaces and its exceptional gardens. Founded in the 11th century by the Almoravids, it was twice the capital of an empire stretching from Spain to Senegal — an imperial past still visible in the Koutoubia, the Saadian Tombs or the Bahia Palace. Nearby: the Atlas valleys and their Berber villages, the desert road to Merzouga and Zagora, Essaouira and the Atlantic, or the imperial cities of the north. Whether you stay two days or a week, Marrakech is the ideal base for building a tailor-made trip to Morocco.",
+  "highlights": [
+    { "name": "Jemaa el-Fna", "description": "A legendary square, lively from morning to night: storytellers, musicians, snake charmers and orange juice stalls, at the foot of the Koutoubia." },
+    { "name": "Medina and souks", "description": "A maze of covered alleyways where leather, wood, metal and carpet craftsmen work alongside hidden shops and riads." },
+    { "name": "Majorelle Garden & palaces", "description": "The iconic blue botanical garden and historic palaces (Bahia, Badiaa) bearing witness to the golden age of Moroccan architecture." },
+    { "name": "Strategic starting point", "description": "An ideal base for day trips to the Merzouga desert, the Ourika Valley, the Ouzoud waterfalls or Essaouira." }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "March to May and September to November, very high temperatures in summer (June to August)",
+    "daysRecommended": "2 to 3 days for the city alone, more if combined with a desert or Atlas tour",
+    "tips": [
+      "Bargaining is part of the game in the souks, stay polite and friendly",
+      "Bring comfortable shoes: the medina is mostly explored on foot",
+      "Gardens and palaces are more pleasant early in the morning, before the crowds"
+    ]
+  }
+}

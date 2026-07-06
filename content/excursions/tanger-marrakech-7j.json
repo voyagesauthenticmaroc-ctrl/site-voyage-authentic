@@ -1,0 +1,104 @@
+{
+    "slug":  "tanger-marrakech-7j",
+    "type":  "excursion",
+    "category":  "Circuit complet",
+    "legacyPath":  "/circuits/tanger-marrakech-7j",
+    "name":  "Circuit 7 jours : Tanger → Chefchaouen → Fès → Meknès → Volubilis → Sahara → Marrakech",
+    "seo":  {
+                "title":  "Circuit 7 jours Tanger Marrakech — Chefchaouen, Fès, Meknès, Volubilis, Sahara | Voyages Authentiques Maroc",
+                "description":  "Circuit privé 7 jours de Tanger à Marrakech : toutes les villes impériales (Chefchaouen, Fès, Meknès), Volubilis (UNESCO), désert Merzouga (Erg Chebbi), Aït Ben Haddou."
+            },
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1527841430192-32adc8530984?auto=format\u0026fit=crop\u0026w=1280\u0026q=85",
+                 "tagline":  "Le grand tour nord-sud : villes impériales + Sahara"
+             },
+    "intro":  "Ce circuit 7 jours est l\u0027itinéraire le plus complet au départ de Tanger. Il inclut toutes les villes impériales du nord (Chefchaouen, Fès avec guide officiel, Meknès, Volubilis) et le désert de Merzouga au sud, avant de traverser les gorges du Todra, Aït Ben Haddou et le col de Tizi n\u0027Tichka pour rejoindre Marrakech.",
+    "priceFrom": "À partir de 850 € / personne — devis sur mesure",
+    "programs":  [
+                     {
+                         "title":  "Itinéraire 7 jours",
+                         "days":  [
+                                      {
+                                          "label":  "Jour 1 — Tanger → Chefchaouen",
+                                          "items":  [
+                                                        "Départ de Tanger",
+                                                        "Arrivée à Chefchaouen, la ville bleue des montagnes du Rif",
+                                                        "Exploration libre"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 2 — Chefchaouen → Volubilis → Meknès → Fès",
+                                          "items":  [
+                                                        "Volubilis : ruines romaines UNESCO",
+                                                        "Meknès : Bab Mansour, Mausolée Moulay Ismaïl",
+                                                        "Arrivée à Fès"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 3 — Visite guidée de Fès (guide officiel)",
+                                          "items":  [
+                                                        "Al-Quaraouiyine (fondée en 859)",
+                                                        "Medersa Bou Inania",
+                                                        "Tanneries Chourara",
+                                                        "Souks et quartier du Mellah"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 4 — Fès → Ifrane → Azrou → Merzouga",
+                                          "items":  [
+                                                        "Ifrane (la « Suisse marocaine »)",
+                                                        "Forêt d\u0027Azrou (macaques de Barbarie)",
+                                                        "Traversée de la vallée du Ziz",
+                                                        "Arrivée à Merzouga",
+                                                        "Balade à dromadaire, nuit sous tente"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 5 — Merzouga → Gorges du Todra → Dades",
+                                          "items":  [
+                                                        "Lever de soleil sur l\u0027Erg Chebbi",
+                                                        "Gorges du Todra",
+                                                        "Vallée des Dades"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 6 — Dades → Vallée des Roses → Ouarzazate → Aït Ben Haddou",
+                                          "items":  [
+                                                        "Vallée des Roses (Kelaat M\u0027Gouna)",
+                                                        "Ouarzazate",
+                                                        "Ksar d\u0027Aït Ben Haddou (UNESCO)"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 7 — Aït Ben Haddou → Tizi n\u0027Tichka → Marrakech",
+                                          "items":  [
+                                                        "Traversée du col de Tizi n\u0027Tichka (2 260 m)",
+                                                        "Arrivée à Marrakech"
+                                                    ]
+                                      }
+                                  ]
+                     }
+                 ],
+    "included":  [
+                     "Véhicule climatisé avec chauffeur professionnel (carburant inclus)",
+                     "6 nuits (riads + camp désert)",
+                     "6 petits-déjeuners",
+                     "2 dîners (camp désert + Dades)",
+                     "Guide officiel à Fès",
+                     "Balade à dromadaire (coucher et lever du soleil)",
+                     "Sandboarding",
+                     "Prise en charge à Tanger, dépose à Marrakech",
+                     "Qualité de service"
+                 ],
+    "excluded":  [
+                     "Déjeuners",
+                     "Boissons",
+                     "Pourboires",
+                     "Dépenses personnelles",
+                     "Frais d\u0027entrée des monuments"
+                 ],
+    "gallery":  [
+
+                ],
+    "relatedDestinations": ["desert-sahara-merzouga", "marrakech", "fes", "chefchaouen"]
+}

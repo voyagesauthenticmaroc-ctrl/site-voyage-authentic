@@ -1,0 +1,35 @@
+{
+  "name": "Voyages Authentiques Maroc",
+  "tagline": "Découvrez le Maroc autrement",
+  "description": "Circuits privés, guides francophones passionnés, hébergements de charme et expériences authentiques. Le Maroc sur mesure, à votre rythme.",
+  "url": "https://www.voyagesauthentiquemaroc.com",
+  "locale": "fr_FR",
+  "agency": {
+    "name": "Voyages Authentiques Maroc",
+    "role": "Opérateur de voyages privés au Maroc",
+    "bio": "Voyages Authentiques Maroc est un opérateur touristique marocain agréé, spécialisé dans les circuits privés et sur mesure à travers le Royaume. Depuis plus de 10 ans, nous accompagnons des voyageurs du monde entier à la découverte d'un Maroc profond, loin des itinéraires standardisés.",
+    "approach": "Notre philosophie : vous offrir une expérience vraie, à votre rythme, avec les meilleures adresses, les rencontres les plus sincères et un service attentif du premier au dernier jour."
+  },
+  "contact": {
+    "email": "[EMAIL : à renseigner]",
+    "phone": "+212 6 18 97 77 36",
+    "phoneRaw": "+212618977736",
+    "whatsapp": "212618977736",
+    "address": "Résidence Soraya, Bloc A, Immeuble M'Hamid 9, Marrakech, Maroc"
+  },
+  "social": {
+    "facebookPageName": "[NOM PAGE FACEBOOK : à renseigner]",
+    "facebookUrl": null,
+    "instagramUrl": null
+  },
+  "languages": ["Français", "Anglais", "Espagnol", "Italien"],
+  "pricingNote": "Toutes les prestations sont proposées sur devis et sur mesure, en fonction de votre programme, du nombre de participants et de votre point de départ. Un acompte est requis pour confirmer la réservation. Contactez-nous pour un devis personnalisé.",
+  "nav": [
+    { "label": "Accueil", "path": "/" },
+    { "label": "Nos circuits", "path": "/circuits" },
+    { "label": "Destinations", "path": "/destinations" },
+    { "label": "À propos", "path": "/a-propos" },
+    { "label": "Avis", "path": "/avis" },
+    { "label": "Contact", "path": "/contact" }
+  ]
+}

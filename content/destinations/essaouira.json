@@ -1,0 +1,58 @@
+{
+  "slug": "essaouira",
+  "type": "destination",
+  "legacyPath": "/destinations/essaouira",
+  "name": "Essaouira — la cité des alizés",
+  "seo": {
+    "title": "Essaouira (Mogador) — médina UNESCO, port, plage | Voyages Authentiques Maroc",
+    "description": "Découvrez Essaouira, ancienne Mogador : médina fortifiée classée UNESCO, port de pêche animé, plage venteuse et arganeraie. Excursion privée à la journée depuis Marrakech."
+  },
+  "hero": {
+    "image": "https://images.unsplash.com/photo-1555686367-56d5186965d5?auto=format&fit=crop&w=1280&q=85",
+    "tagline": "Remparts face à l'Atlantique et médina bohème classée UNESCO"
+  },
+  "intro": "Ancienne Mogador, Essaouira est une cité portuaire fortifiée au charme immédiat : remparts du XVIIIe siècle battus par les vagues, médina blanchie à la chaux inscrite à l'UNESCO, port de pêche coloré et plage à perte de vue. Dessinée par l'ingénieur français Théodore Cornut sur ordre du sultan Mohammed ben Abdallah, la ville fut longtemps le premier port de commerce du Maroc et un carrefour des cultures arabe, berbère, juive et européenne — un héritage qui se lit dans son architecture et son artisanat de marqueterie en bois de thuya. Réputée capitale mondiale du windsurf et du kitesurf grâce à ses alizés constants, prisée des artistes depuis le passage d'Orson Welles et de Jimi Hendrix, elle se visite aisément en excursion d'une journée depuis Marrakech, à travers la réserve de biosphère UNESCO des arganiers.",
+  "highlights": [
+    {
+      "name": "Remparts et Skala de la Ville",
+      "description": "Fortifications du XVIIIe siècle dessinées par des ingénieurs européens, offrant une vue spectaculaire sur l'Atlantique et ses canons anciens."
+    },
+    {
+      "name": "Médina UNESCO",
+      "description": "Ruelles blanches et bleues, galeries d'art, ateliers de marqueterie en bois de thuya et boutiques d'artisans."
+    },
+    {
+      "name": "Port de pêche traditionnel",
+      "description": "Barques bleues, criée animée et poissons grillés à déguster sur le port, ambiance authentique loin du tourisme de masse."
+    },
+    {
+      "name": "Route des arganiers",
+      "description": "Le trajet depuis Marrakech traverse la réserve de biosphère UNESCO des arganeraies, arbre endémique du sud-ouest marocain."
+    }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "Toute l'année, climat océanique tempéré même en été ; venteux presque en permanence",
+    "daysRecommended": "1 journée en excursion depuis Marrakech, ou 1 à 2 nuits pour profiter de la plage et de l'ambiance",
+    "tips": [
+      "Prévoir un coupe-vent même en été, les alizés soufflent presque toute l'année",
+      "La baignade est possible mais souvent déconseillée en raison du vent et des courants",
+      "Réservez votre déjeuner de poisson directement auprès des étals du port pour l'authenticité"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Combien de temps dure le trajet Marrakech – Essaouira ?",
+      "answer": "Environ 2h30 à 3h de route par un axe direct et confortable, à travers les plantations d'arganiers. En excursion privée à la journée, le départ se fait vers 7h30-8h de Marrakech pour un retour en soirée, avec 5 à 6 heures sur place — à partir de 65 € par personne."
+    },
+    {
+      "question": "Que voir à Essaouira en une journée ?",
+      "answer": "L'essentiel se concentre dans un périmètre piéton : la Skala de la Ville et ses remparts face à l'océan, la médina UNESCO et ses galeries d'art, le port de pêche et ses barques bleues, puis un déjeuner de poisson frais. S'il reste du temps : la plage, les coopératives d'huile d'argan sur la route du retour."
+    },
+    {
+      "question": "Essaouira vaut-elle une nuit sur place ?",
+      "answer": "Si votre planning le permet, oui : le soir, quand les excursionnistes repartent, la médina retrouve son rythme local et les couchers de soleil depuis les remparts sont superbes. Une nuit sur place permet aussi de profiter de la plage le matin, avant que le vent ne se lève."
+    }
+  ],
+  "gallery": [],
+  "relatedExcursions": ["excursion-essaouira"]
+}

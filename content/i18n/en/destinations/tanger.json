@@ -1,0 +1,27 @@
+{
+  "slug": "tangier",
+  "name": "Tangier & the North — between two seas",
+  "seo": {
+    "title": "Tangier — gateway to Africa, bay and medina | Authentic Morocco Tours",
+    "description": "Discover Tangier, the legendary city where the Mediterranean meets the Atlantic: medina, Grand Socco, legendary cafés. Private tours from Tangier to Chefchaouen and Fes."
+  },
+  "hero": {
+    "tagline": "The gateway to Africa, between the Mediterranean and the Atlantic"
+  },
+  "intro": "Long an international city favoured by artists and writers, Tangier occupies a unique position at the northern tip of Morocco, just 14 km from Spain across the Strait of Gibraltar. Its white medina overlooking the bay, its legendary cafés once frequented by Matisse, Delacroix, Paul Bowles and the writers of the Beat Generation, and its cosmopolitan atmosphere make it an unusual and fascinating gateway to Morocco. Served by an international airport and ferries from Spain, the city has undergone a spectacular revival over the past twenty years: a modern marina, a restored medina, a lively cultural scene. It is the ideal starting point to explore blue Chefchaouen (2 hours), Asilah and its murals, Andalusian Tetouan, or to begin a grand tour towards Fes, the desert and Marrakech.",
+  "highlights": [
+    { "name": "Medina and Kasbah", "description": "White alleyways overlooking the Strait of Gibraltar, with simultaneous views of the Mediterranean and Atlantic from Cape Spartel." },
+    { "name": "Grand Socco", "description": "A lively square connecting the medina to the new town, a traditional meeting point for Tangier locals." },
+    { "name": "Literary cafés", "description": "Café Hafa and Petit Socco hosted a generation of international writers and artists in the 20th century." },
+    { "name": "Caves of Hercules", "description": "Natural rock formations a few kilometres from the centre, opening onto the Atlantic Ocean." }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "Year-round, mild Mediterranean climate, summers less overwhelming than in the south",
+    "daysRecommended": "1 to 2 days, often as a starting or ending point for a tour towards Chefchaouen and Fes",
+    "tips": [
+      "Cape Spartel offers the most spectacular view of the meeting of the two seas",
+      "Allow some time to wander aimlessly through the human-scale medina",
+      "The port also offers quick connections to Spain for a cross-border day trip"
+    ]
+  }
+}

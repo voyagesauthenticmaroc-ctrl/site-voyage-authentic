@@ -1,0 +1,59 @@
+{
+    "slug":  "excursion-ourika",
+    "type":  "excursion",
+    "category":  "Excursion à la journée",
+    "legacyPath":  "/circuits/excursion-ourika",
+    "name":  "Excursion 1 jour : Vallée de l\u0027Ourika \u0026 Atlas depuis Marrakech",
+    "seo":  {
+                "title":  "Excursion Vallée de l\u0027Ourika depuis Marrakech — Atlas \u0026 Setti Fatma | Voyages Authentiques Maroc",
+                "description":  "Excursion privée d\u0027une journée depuis Marrakech dans la vallée de l\u0027Ourika : rivière, villages berbères, marchés locaux, cascades de Setti Fatma, jardin de Nectarome."
+            },
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1443904364754-fb9a64fe19e5?auto=format\u0026fit=crop\u0026w=1280\u0026q=85",
+                 "tagline":  "La vallée berbère de l\u0027Ourika, à 30 km de Marrakech"
+             },
+    "intro":  "À seulement 30 km de Marrakech, la vallée de l\u0027Ourika offre un dépaysement total : rivière aux eaux claires, villages berbères accrochés aux pentes du Haut Atlas, marchés traditionnels et les cascades de Setti Fatma. Une excursion idéale pour découvrir la vie rurale berbère et la nature sauvage de l\u0027Atlas en une journée.",
+    "priceFrom": "À partir de 45 € / personne — devis sur mesure",
+    "programs":  [
+                     {
+                         "title":  "Programme de la journée",
+                         "description":  "Départ de Marrakech. Montée dans la vallée de l\u0027Ourika le long de la rivière. Visites des villages berbères. Jardin de Nectarome (plantes aromatiques et médicinales). Marché local. Déjeuner dans un restaurant berbère. Balade jusqu\u0027aux cascades de Setti Fatma. Retour à Marrakech.",
+                         "items":  [
+                                       "Départ de Marrakech (environ 9h)",
+                                       "Route le long de la rivière Ourika avec panoramas sur l\u0027Atlas",
+                                       "Visite du jardin de Nectarome (plantes aromatiques et médicinales) — optionnel",
+                                       "Village de Setti Fatma",
+                                       "Marché berbère local (le lundi est le jour de souk)",
+                                       "Déjeuner dans un restaurant berbère au bord de la rivière",
+                                       "Balade jusqu\u0027aux 7 cascades de Setti Fatma (environ 30 min de marche)",
+                                       "Retour à Marrakech (arrivée en fin d\u0027après-midi)"
+                                   ]
+                     }
+                 ],
+    "included":  [
+                     "Véhicule climatisé avec chauffeur professionnel (carburant inclus)",
+                     "Prise en charge et retour à Marrakech",
+                     "Qualité de service"
+                 ],
+    "excluded":  [
+                     "Déjeuner",
+                     "Boissons",
+                     "Entrée au jardin de Nectarome",
+                     "Pourboires",
+                     "Dépenses personnelles"
+                 ],
+    "faq":  [
+                {
+                    "question":  "Quel est le meilleur jour pour visiter la vallée de l\u0027Ourika ?",
+                    "answer":  "Le lundi est le jour de souk à Setti Fatma, ce qui ajoute une dimension très vivante à la visite. Les autres jours, la vallée est plus calme et propice à la randonnée."
+                },
+                {
+                    "question":  "Les cascades nécessitent-elles de la marche ?",
+                    "answer":  "Oui, la montée aux cascades nécessite environ 30 minutes de marche sur un sentier parfois escarpé. Des chaussures fermées sont recommandées."
+                }
+            ],
+    "gallery":  [
+
+                ],
+    "relatedDestinations": ["marrakech", "vallees-atlas"]
+}

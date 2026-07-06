@@ -1,0 +1,140 @@
+{
+    "slug":  "or-rose-desert-8j",
+    "type":  "excursion",
+    "category":  "Circuit luxe",
+    "legacyPath":  "/circuits/or-rose-desert-8j",
+    "name":  "L\u0027Or Rose du Désert — Circuit Luxe 8 jours : Ouarzazate → Sahara → Vallée des Roses",
+    "seo":  {
+                "title":  "Circuit Luxe 8 jours L\u0027Or Rose du Désert — Ouarzazate, Sahara, Vallée des Roses | Voyages Authentiques Maroc",
+                "description":  "Circuit luxe 8 jours au Maroc : Ouarzazate, Aït Ben Haddou, Skoura, Vallée des Roses, Merzouga (Beldi Luxury Camp), Rissani, hammam et cours de cuisine berbère. Sur mesure."
+            },
+    "hero":  {
+                 "image":  "/images/riad-patio.jpg",
+                 "tagline":  "L\u0027Or Rose du Désert — l\u0027expérience Maroc la plus authentique"
+             },
+    "intro":  "« L\u0027Or Rose du Désert » est notre circuit phare haut de gamme, conçu pour une immersion totale dans les paysages et la culture du sud marocain. En 8 jours, vous découvrez Ouarzazate (Hollywood du désert), les kasbahs de l\u0027Anti-Atlas, la Vallée des Roses (Kelaat M\u0027Gouna), les dunes de Merzouga avec nuit au Beldi Luxury Camp, Rissani et son souk, les gorges du Todra, et un cours de cuisine berbère. Chaque étape a été pensée pour combiner authenticité, confort et émerveillement.",
+    "priceFrom": "À partir de 1 190 € / personne — devis sur mesure",
+    "programs":  [
+                     {
+                         "title":  "Itinéraire 8 jours — L\u0027Or Rose du Désert",
+                         "days":  [
+                                      {
+                                          "label":  "Jour 1 — Arrivée à Ouarzazate",
+                                          "items":  [
+                                                        "Accueil à l\u0027aéroport de Ouarzazate ou transfert depuis Marrakech",
+                                                        "Installation dans votre hébergement",
+                                                        "Découverte des ruelles de Ouarzazate",
+                                                        "Dîner de bienvenue"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 2 — Ouarzazate → Aït Ben Haddou → Skoura",
+                                          "items":  [
+                                                        "Visite guidée du ksar d\u0027Aït Ben Haddou (UNESCO) — ksar berbère du XIe siècle",
+                                                        "Oasis de Skoura : palmeraie et Kasbah Amridil (XVIIe s.)",
+                                                        "Nuit à Skoura"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 3 — Skoura → Kelaat M\u0027Gouna → Vallée des Roses",
+                                          "items":  [
+                                                        "Kelaat M\u0027Gouna : capitale de la rose au Maroc (festival de la rose en mai)",
+                                                        "Coopérative de distillation de l\u0027eau de rose",
+                                                        "Promenade dans les champs de roses",
+                                                        "Hammam traditionnel",
+                                                        "Nuit à Kelaat M\u0027Gouna"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 4 — Vallée des Roses → Gorges du Todra → Merzouga",
+                                          "items":  [
+                                                        "Gorges du Todra : falaises de calcaire de 300 m de hauteur",
+                                                        "Route vers Merzouga",
+                                                        "Arrivée au Beldi Luxury Camp",
+                                                        "Balade à dromadaire au coucher du soleil sur l\u0027Erg Chebbi",
+                                                        "Dîner sous les étoiles"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 5 — Désert de Merzouga : immersion complète",
+                                          "items":  [
+                                                        "Lever de soleil depuis les dunes",
+                                                        "Excursion en 4×4 : lac Dayet Srji (oasis du désert, flamants roses en saison), familles nomades touareg",
+                                                        "Khamlia : musique Gnawa (Berbères noirs)",
+                                                        "Souk de Rissani : marché ancestral de caravanes",
+                                                        "Sandboarding",
+                                                        "Nuit au camp luxe"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 6 — Rissani → Draa → Route du Sud → Ouarzazate",
+                                          "items":  [
+                                                        "Rissani : ancienne capitale des Alaouites",
+                                                        "Traversée de la vallée du Draa (palmeraies, villages de terre)",
+                                                        "Arrivée à Ouarzazate en soirée"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 7 — Ouarzazate : culture et détente",
+                                          "items":  [
+                                                        "Studios de cinéma de Ouarzazate (films tournés ici : Lawrence d\u0027Arabie, Gladiator, Game of Thrones)",
+                                                        "Cours de cuisine berbère : tajine, couscous et pâtisseries marocaines",
+                                                        "Après-midi libre, shopping artisanal",
+                                                        "Dîner de gala"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 8 — Départ",
+                                          "items":  [
+                                                        "Petit-déjeuner dans votre riad",
+                                                        "Transfert à l\u0027aéroport de Ouarzazate ou vers Marrakech (col de Tizi n\u0027Tichka)"
+                                                    ]
+                                      }
+                                  ]
+                     }
+                 ],
+    "included":  [
+                     "Véhicule de luxe avec chauffeur professionnel (carburant inclus)",
+                     "7 nuits d\u0027hébergement (riads de charme + Beldi Luxury Camp)",
+                     "7 petits-déjeuners",
+                     "4 dîners",
+                     "Balade à dromadaire au coucher et lever du soleil",
+                     "Excursion en 4×4 au désert (nomades, Khamlia, Rissani)",
+                     "Sandboarding",
+                     "Hammam traditionnel (Jour 3)",
+                     "Cours de cuisine berbère (Jour 7)",
+                     "Guide local à Aït Ben Haddou",
+                     "Visite de la coopérative de la rose à Kelaat M\u0027Gouna",
+                     "Qualité de service haut de gamme"
+                 ],
+    "excluded":  [
+                     "Déjeuners",
+                     "Boissons",
+                     "Pourboires",
+                     "Frais d\u0027entrée des studios de cinéma",
+                     "Dépenses personnelles",
+                     "Vols"
+                 ],
+    "faq":  [
+                {
+                    "question":  "Ce circuit peut-il commencer à Marrakech plutôt qu\u0027à Ouarzazate ?",
+                    "answer":  "Oui. Le départ peut s\u0027effectuer depuis Marrakech, en ajoutant la traversée du col de Tizi n\u0027Tichka (environ 3h de route supplémentaires). Contactez-nous pour adapter l\u0027itinéraire."
+                },
+                {
+                    "question":  "Qu\u0027est-ce que le Beldi Luxury Camp à Merzouga ?",
+                    "answer":  "Le Beldi Luxury Camp est un camp de luxe en plein cœur des dunes de l\u0027Erg Chebbi, avec des tentes équipées de lits confortables, douches chaudes et terrasses privées face aux dunes. C\u0027est l\u0027hébergement premium que nous proposons pour cette nuit dans le désert."
+                },
+                {
+                    "question":  "La Vallée des Roses est-elle en fleurs toute l\u0027année ?",
+                    "answer":  "Non. Les roses de Damas (Rosa damascena) fleurissent en mai. Le reste de l\u0027année, la vallée reste très belle et les coopératives de distillation fonctionnent toute l\u0027année. Nous conseillons mai pour les voyageurs qui souhaitent voir les champs en fleurs."
+                },
+                {
+                    "question":  "Ce circuit est-il adapté aux familles avec enfants ?",
+                    "answer":  "Oui, ce circuit convient aux familles. Les dromadaires et le 4×4 plaisent aux enfants. Nous pouvons adapter le rythme et les hébergements selon les âges."
+                }
+            ],
+    "gallery":  [
+
+                ],
+    "relatedDestinations": ["desert-sahara-merzouga", "marrakech", "ait-ben-haddou"]
+}

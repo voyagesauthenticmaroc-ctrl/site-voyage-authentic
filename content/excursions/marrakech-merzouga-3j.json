@@ -1,0 +1,84 @@
+{
+  "slug": "marrakech-merzouga-3j",
+  "type": "excursion",
+  "category": "Circuit désert",
+  "legacyPath": "/circuits/marrakech-merzouga-3j",
+  "name": "Circuit 3 jours : Marrakech → Merzouga → Marrakech (aller-retour)",
+  "seo": {
+    "title": "Circuit 3 jours Marrakech Merzouga aller-retour — Sahara & Kasbahs | Voyages Authentiques Maroc",
+    "description": "Circuit privé 3 jours Marrakech-Merzouga : Aït Ben Haddou, palmeraie de Skoura, Vallée des Roses, gorges du Dades, gorges du Todra, désert de l'Erg Chebbi. Retour via Ouarzazate."
+  },
+  "hero": {
+    "image": "/images/desert-caravane.jpg",
+    "tagline": "Aller-retour Marrakech — Aït Ben Haddou — Dades — Merzouga"
+  },
+  "intro": "Ce circuit 3 jours en boucle au départ et à destination de Marrakech vous fait découvrir le meilleur du Sud marocain : la route des kasbahs, la palmeraie de Skoura, la Vallée des Roses, les gorges du Dades, les gorges du Todra et le désert de l'Erg Chebbi à Merzouga.",
+  "priceFrom": "À partir de 320 € / personne — devis sur mesure",
+  "programs": [
+    {
+      "title": "Itinéraire 3 jours",
+      "days": [
+        {
+          "label": "Jour 1 — Marrakech → Aït Ben Haddou → Ouarzazate → Palmeraie de Skoura → Vallée des Roses → Dades",
+          "items": [
+            "Départ de Marrakech, traversée du col de Tizi n'Tichka",
+            "Visite du ksar d'Aït Ben Haddou (UNESCO)",
+            "Arrêt à Ouarzazate",
+            "Palmeraie de Skoura",
+            "Vallée des Roses (Kelaat M'Gouna)",
+            "Nuit dans la vallée des Dades"
+          ]
+        },
+        {
+          "label": "Jour 2 — Dades → Gorges du Todra → Erfoud → Merzouga (Erg Chebbi)",
+          "items": [
+            "Visite des gorges du Todra",
+            "Route vers Erfoud/Rissani",
+            "Arrivée à Merzouga en fin d'après-midi",
+            "Balade à dromadaire au coucher du soleil sur l'Erg Chebbi",
+            "Dîner et nuit sous la tente berbère",
+            "Sandboarding"
+          ]
+        },
+        {
+          "label": "Jour 3 — Merzouga → Ouarzazate → Tizi n'Tichka → Marrakech",
+          "items": [
+            "Lever de soleil sur les dunes",
+            "Retour vers Ouarzazate via la route de votre choix",
+            "Traversée du col de Tizi n'Tichka",
+            "Arrivée à Marrakech en soirée"
+          ]
+        }
+      ]
+    }
+  ],
+  "included": [
+    "Véhicule confortable climatisé avec chauffeur professionnel (carburant inclus)",
+    "1 nuit à l'hôtel (Dades ou Tinghir)",
+    "1 nuit sous tente désert",
+    "2 dîners",
+    "2 petits-déjeuners",
+    "Balade à dromadaire (coucher et lever du soleil — 1 dromadaire par personne)",
+    "Sandboarding",
+    "Qualité de service"
+  ],
+  "excluded": [
+    "Déjeuners",
+    "Boissons",
+    "Pourboires",
+    "Dépenses personnelles",
+    "Frais d'entrée des monuments"
+  ],
+  "faq": [
+    {
+      "question": "Le circuit est-il en boucle depuis Marrakech ?",
+      "answer": "Oui, ce circuit est en boucle : départ et retour à Marrakech en 3 jours."
+    },
+    {
+      "question": "Quelle est la distance Marrakech → Merzouga ?",
+      "answer": "Environ 560 km, parcourus en 2 jours (arrêt la première nuit dans la vallée des Dades ou à Tinghir)."
+    }
+  ],
+  "gallery": [],
+  "relatedDestinations": ["desert-sahara-merzouga", "marrakech", "ait-ben-haddou"]
+}

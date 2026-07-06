@@ -1,0 +1,76 @@
+{
+    "slug":  "rabat-fes-2j",
+    "type":  "excursion",
+    "category":  "Circuit villes impériales",
+    "legacyPath":  "/circuits/rabat-fes-2j",
+    "name":  "Circuit 2 jours : Rabat → Meknès → Volubilis → Fès",
+    "seo":  {
+                "title":  "Circuit 2 jours Rabat → Fès — Meknès \u0026 Volubilis | Voyages Authentiques Maroc",
+                "description":  "Circuit privé 2 jours de Rabat à Fès : Meknès (Bab Mansour, Haras royal), Moulay Idriss (ville sainte), ruines romaines de Volubilis (UNESCO), arrivée à Fès. Guide inclus."
+            },
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1760095888026-df3eeee6f302?auto=format\u0026fit=crop\u0026w=1280\u0026q=85",
+                 "tagline":  "Rabat → Meknès → Volubilis → Fès : les villes impériales du nord"
+             },
+    "intro":  "Ce circuit 2 jours relie Rabat à Fès en traversant deux étapes historiques majeures : Meknès, la ville impériale d\u0027Ismaïl avec son imposant Bab Mansour et son haras royal, et Volubilis, l\u0027ancienne cité romaine inscrite au patrimoine UNESCO. Un itinéraire idéal pour découvrir le nord du Maroc entre histoire romaine et splendeurs chérifiennes.",
+    "priceFrom": "À partir de 180 € / personne — devis sur mesure",
+    "programs":  [
+                     {
+                         "title":  "Itinéraire 2 jours",
+                         "days":  [
+                                      {
+                                          "label":  "Jour 1 — Rabat → Meknès → Moulay Idriss → Volubilis",
+                                          "items":  [
+                                                        "Départ de Rabat",
+                                                        "Meknès : Bab Mansour (porte monumentale du XVIIe s.), Mausolée Moulay Ismaïl, Haras royal",
+                                                        "Moulay Idriss Zerhoun (ville sainte, fondée au VIIIe s.)",
+                                                        "Volubilis : ruines romaines UNESCO — arc de triomphe, mosaïques, capitole",
+                                                        "Route vers Fès",
+                                                        "Nuit à Fès"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 2 — Visite guidée de Fès (guide officiel)",
+                                          "items":  [
+                                                        "Université Al-Quaraouiyine (fondée en 859 — la plus ancienne au monde)",
+                                                        "Medersa Bou Inania",
+                                                        "Tanneries Chourara",
+                                                        "Souk des tisserands (soie, laine, coton)",
+                                                        "Quartier du Mellah",
+                                                        "Poterie de Fès (zellij)"
+                                                    ]
+                                      }
+                                  ]
+                     }
+                 ],
+    "included":  [
+                     "Véhicule climatisé avec chauffeur professionnel (carburant inclus)",
+                     "1 nuit d\u0027hébergement à Fès",
+                     "1 petit-déjeuner",
+                     "Guide officiel à Fès (Jour 2)",
+                     "Prise en charge à Rabat, dépose à Fès",
+                     "Qualité de service"
+                 ],
+    "excluded":  [
+                     "Déjeuners",
+                     "Dîners",
+                     "Boissons",
+                     "Pourboires",
+                     "Dépenses personnelles",
+                     "Frais d\u0027entrée des monuments"
+                 ],
+    "faq":  [
+                {
+                    "question":  "Ce circuit peut-il commencer à Casablanca plutôt qu\u0027à Rabat ?",
+                    "answer":  "Oui, la prise en charge peut s\u0027effectuer à Casablanca. Le trajet Casablanca → Meknès est légèrement plus long mais tout à fait possible."
+                },
+                {
+                    "question":  "Moulay Idriss est-elle une destination accessible aux non-musulmans ?",
+                    "answer":  "Oui, Moulay Idriss est désormais accessible aux visiteurs non-musulmans. Seules certaines parties proches du mausolée restent réservées aux fidèles."
+                }
+            ],
+    "gallery":  [
+
+                ],
+    "relatedDestinations": ["fes"]
+}

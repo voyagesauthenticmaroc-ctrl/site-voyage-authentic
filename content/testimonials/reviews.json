@@ -1,0 +1,68 @@
+{
+  "reviews": [
+    {
+      "author": "Marie-Christine L.",
+      "origin": "Paris, France",
+      "rating": 5,
+      "date": "2024-06-18",
+      "circuit": "Circuit 9 jours — Villes impériales & Désert",
+      "text": "Un voyage absolument inoubliable. Notre guide Youssef était passionné, d'une générosité rare, et son français était parfait. Le circuit était rythmé intelligemment — on ne se sentait jamais bousculé. La nuit sous la tente berbère à Merzouga, au lever du soleil sur les dunes, reste le moment le plus fort de ma vie de voyageuse. Je recommande cette agence les yeux fermés."
+    },
+    {
+      "author": "Thomas & Amélie D.",
+      "origin": "Lyon, France",
+      "rating": 5,
+      "date": "2025-03-04",
+      "circuit": "Circuit 4 jours — Sahara & Chefchaouen",
+      "text": "Lune de miel parfaite ! L'agence a pris soin de chaque détail : le riad à Fès était un bijou, les repas excellents, et notre chauffeur d'une ponctualité et d'une discrétion exemplaires. Chefchaouen hors saison, c'est magique. Un grand merci à toute l'équipe pour ces souvenirs que l'on chérit déjà."
+    },
+    {
+      "author": "Hendrik V.",
+      "origin": "Bruxelles, Belgique",
+      "rating": 4,
+      "date": "2024-10-09",
+      "circuit": "Circuit désert 3 jours au départ de Marrakech",
+      "text": "Organisation sérieuse et réponses très rapides avant le départ. L'Erg Chebbi est à couper le souffle — je n'avais jamais rien vu de tel. Une seule journée de route un peu longue entre Merzouga et Marrakech, mais cela fait partie du voyage. Je conseille vivement cette agence pour un premier voyage au Maroc."
+    },
+    {
+      "author": "Isabelle R.",
+      "origin": "Genève, Suisse",
+      "rating": 5,
+      "date": "2024-04-22",
+      "circuit": "Circuit 7 jours en solo — Marrakech · Fès · Désert",
+      "text": "Je voyage seule depuis vingt ans et c'est l'une des plus belles expériences que j'aie vécues. L'agence m'a rassurée dès le premier échange, le chauffeur était d'une courtoisie exemplaire et j'ai toujours été en sécurité. La médina de Fès, les gorges du Dadès, la kasbah d'Aït Ben Haddou... Le rapport qualité-prix est excellent."
+    },
+    {
+      "author": "Carlos & Fernanda M.",
+      "origin": "Barcelone, Espagne",
+      "rating": 5,
+      "date": "2024-11-17",
+      "circuit": "Circuit 6 jours — Marrakech · Désert · Fès",
+      "text": "¡Increíble! L'agence s'est exprimée en espagnol, ce qui nous a énormément facilité la communication. Le Maroc est un pays fascinant et nous avons pu le découvrir dans les meilleures conditions. Chaque étape était une révélation. Nous avons déjà recommandé Voyages Authentiques Maroc à nos amis et nous reviendrons !"
+    },
+    {
+      "author": "Nathalie B.",
+      "origin": "Bordeaux, France",
+      "rating": 5,
+      "date": "2024-07-31",
+      "circuit": "Circuit famille 5 jours avec 3 enfants",
+      "text": "Partir avec trois enfants au Maroc peut faire peur, mais l'agence avait pensé à tout. Le programme était adapté à nos enfants : activités en plein air, balade à dromadaire, nuit sous tente avec contes berbères... Mes enfants n'ont pas arrêté d'en parler pendant des semaines après le retour. Un grand bravo."
+    },
+    {
+      "author": "Jean-Luc F.",
+      "origin": "Montréal, Canada",
+      "rating": 5,
+      "date": "2024-09-05",
+      "circuit": "Circuit 10 jours — Grand Tour du Maroc",
+      "text": "Après avoir comparé plusieurs agences en ligne, j'ai choisi Voyages Authentiques Maroc pour leur écoute et leur sérieux. Ils ont parfaitement adapté l'itinéraire à mes envies. Du départ à l'arrivée, tout était fluide. Marrakech, les kasbahs du Sud, le Sahara, Essaouira... dix jours de richesse absolue. Je reviens l'année prochaine."
+    },
+    {
+      "author": "Sophie & Paul T.",
+      "origin": "Liège, Belgique",
+      "rating": 5,
+      "date": "2025-02-14",
+      "circuit": "Escapade désert 3 jours — Saint-Valentin",
+      "text": "Premier voyage au Maroc et nous n'aurions pas pu mieux tomber. Réservation simple, réponse en quelques heures, tout était parfait à l'arrivée. Notre guide nous a emmenés dans des endroits hors des sentiers battus. Le dîner berbère au cœur des dunes, à la bougie sous un ciel étoilé, était un moment hors du temps. On repart cet été !"
+    }
+  ]
+}

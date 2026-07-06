@@ -1,0 +1,27 @@
+{
+  "slug": "ait-ben-haddou",
+  "name": "Ait Ben Haddou — el ksar UNESCO",
+  "seo": {
+    "title": "Ait Ben Haddou — ksar UNESCO cerca de Ouarzazate | Viajes Auténticos Marruecos",
+    "description": "Visita el ksar de Ait Ben Haddou, Patrimonio de la Humanidad por la UNESCO y mítico escenario de cine cerca de Ouarzazate. Excursión privada desde Marrakech o parada en la ruta del desierto."
+  },
+  "hero": {
+    "tagline": "El ksar más famoso del sur marroquí, a las puertas del desierto"
+  },
+  "intro": "Declarado Patrimonio de la Humanidad por la UNESCO desde 1987, el ksar de Ait Ben Haddou es el conjunto de arquitectura fortificada de tierra más impresionante de Marruecos. Fundado en el siglo XI en la ruta caravanera que unía Sudán con Marrakech, sus casas de adobe con torres angulares almenadas se alinean en la ladera de una colina que domina el valle del Ounila. Su silueta espectacular ha servido de escenario a numerosas películas y series internacionales — Lawrence de Arabia, Gladiator, Juego de Tronos — convirtiéndolo en uno de los lugares más fotografiados del norte de África. Situado a unos 30 km de Ouarzazate y sus estudios de cine, es una parada imprescindible en la ruta que une Marrakech con el desierto de Merzouga, vía el puerto de montaña de Tichka y sus panorámicas del Alto Atlas.",
+  "highlights": [
+    { "name": "Arquitectura de adobe", "description": "Casas fortificadas de tierra cruda con torres decoradas, un notable ejemplo de arquitectura presahariana, aún parcialmente habitada." },
+    { "name": "Escenario de cine", "description": "Rodaje de numerosas producciones internacionales — los estudios de cine de Ouarzazate están a solo minutos del lugar." },
+    { "name": "Vista desde la colina", "description": "La subida hasta lo alto del ksar ofrece una panorámica completa del valle del Ounila y del oasis circundante." },
+    { "name": "Puerto de Tizi n'Tichka", "description": "La carretera desde Marrakech atraviesa el Alto Atlas por este puerto de más de 2.260 m de altitud, con paisajes espectaculares." }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "Todo el año, con preferencia por la primavera y el otoño para cruzar el puerto de Tizi n'Tichka",
+    "daysRecommended": "Excursión de un día desde Marrakech, o parada en un tour de varios días hacia el desierto",
+    "tips": [
+      "La luz de la mañana y del atardecer resalta mejor los colores ocres del lugar",
+      "Lleva calzado adecuado para la subida hasta lo alto del ksar",
+      "Combina la visita con los estudios de cine de Ouarzazate, muy cerca"
+    ]
+  }
+}

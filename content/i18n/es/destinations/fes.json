@@ -1,0 +1,27 @@
+{
+  "slug": "fez",
+  "name": "Fez — la capital espiritual",
+  "seo": {
+    "title": "Fez — medina UNESCO, curtidurías, artesanía | Viajes Auténticos Marruecos",
+    "description": "Descubre Fez, la medina habitada más antigua del mundo: curtidurías tradicionales, universidad Al Quaraouiyine, zocos de artesanía. Tours privados desde Marrakech, Rabat o Casablanca."
+  },
+  "hero": {
+    "tagline": "La medina más antigua del mundo, entre artesanía centenaria y espiritualidad"
+  },
+  "intro": "Fundada en el siglo IX, Fez está considerada la capital espiritual e intelectual de Marruecos. Su medina, Fez el-Bali, declarada por la UNESCO, es la mayor zona peatonal habitada del mundo: más de 9.000 callejuelas donde conviven artesanos del cuero, la madera y el metal, en un ambiente que apenas ha cambiado en siglos. Allí se encuentra la universidad Al Quaraouiyine, fundada en el año 859 por Fátima al-Fihri, considerada una de las instituciones de enseñanza superior en activo más antiguas del mundo. Menos turística que Marrakech, Fez ofrece una inmersión más cruda y auténtica en el Marruecos tradicional: llamadas a la oración resonando en las terrazas, arrieros cargados de pieles abriéndose camino hacia las curtidurías, madrasas con deslumbrantes zellijes. La ciudad es también un excelente punto de partida hacia el desierto de Merzouga (6h de carretera), Chefchaouen, Mequinez y las ruinas romanas de Volubilis.",
+  "highlights": [
+    { "name": "Curtidurías Chouara", "description": "Las curtidurías más antiguas del mundo árabe, donde el cuero se sigue tratando y tiñendo según métodos tradicionales milenarios." },
+    { "name": "Universidad Al Quaraouiyine", "description": "Fundada en el año 859 por Fátima al-Fihri, está reconocida como uno de los centros de enseñanza superior en activo más antiguos del mundo." },
+    { "name": "Madrasa Bou Inania", "description": "Obra maestra de la arquitectura meriní del siglo XIV, célebre por sus zellijes, sus maderas talladas y su gran reloj de agua." },
+    { "name": "Zocos de artesanía", "description": "Cerámica azul de Fez, calderería, tejeduría y marroquinería: una de las escenas artesanales más ricas del país." }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "De marzo a mayo y de septiembre a noviembre, inviernos frescos y veranos calurosos",
+    "daysRecommended": "2 días mínimo para explorar tranquilamente la medina, a menudo combinado con un tour hacia el desierto vía Ifrane y Azrou",
+    "tips": [
+      "Se recomienda encarecidamente un guía local: la medina es un auténtico laberinto sin plano claro",
+      "Las curtidurías se visitan mejor a primera hora de la mañana para evitar el calor y el olor más fuerte",
+      "Reserva tiempo suficiente: Fez el-Bali no se visita en pocas horas"
+    ]
+  }
+}

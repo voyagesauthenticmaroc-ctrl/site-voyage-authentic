@@ -1,0 +1,58 @@
+{
+  "slug": "tanger",
+  "type": "destination",
+  "legacyPath": "/destinations/tanger",
+  "name": "Tanger & le Nord — entre deux mers",
+  "seo": {
+    "title": "Tanger — porte de l'Afrique, baie et médina | Voyages Authentiques Maroc",
+    "description": "Découvrez Tanger, ville mythique où se rencontrent Méditerranée et Atlantique : médina, grand socco, cafés légendaires. Circuits privés au départ de Tanger vers Chefchaouen et Fès."
+  },
+  "hero": {
+    "image": "https://images.unsplash.com/photo-1582919534700-acf2374f10d3?auto=format&fit=crop&w=1280&q=85",
+    "tagline": "La porte de l'Afrique, entre Méditerranée et Atlantique"
+  },
+  "intro": "Longtemps ville internationale prisée des artistes et écrivains, Tanger occupe une position unique à la pointe nord du Maroc, à seulement 14 km de l'Espagne à travers le détroit de Gibraltar. Sa médina blanche surplombant la baie, ses cafés légendaires ayant accueilli Matisse, Delacroix, Paul Bowles ou les écrivains de la Beat Generation, et son atmosphère cosmopolite en font une porte d'entrée atypique et fascinante vers le Maroc. Desservie par un aéroport international et par les ferries d'Espagne, la ville connaît depuis vingt ans une renaissance spectaculaire : marina moderne, médina restaurée, scène culturelle vivante. C'est le point de départ idéal pour rayonner vers Chefchaouen la bleue (2h), Asilah et ses fresques, Tétouan l'andalouse, ou entamer un grand circuit vers Fès, le désert et Marrakech.",
+  "highlights": [
+    {
+      "name": "Médina et Kasbah",
+      "description": "Ruelles blanches surplombant le détroit de Gibraltar, avec vue simultanée sur la Méditerranée et l'Atlantique depuis le Cap Spartel."
+    },
+    {
+      "name": "Grand Socco",
+      "description": "Place animée reliant la médina à la ville nouvelle, point de rencontre traditionnel des Tangérois."
+    },
+    {
+      "name": "Cafés littéraires",
+      "description": "Le Café Hafa et le Petit Socco ont accueilli une génération d'écrivains et artistes internationaux au XXe siècle."
+    },
+    {
+      "name": "Grottes d'Hercule",
+      "description": "Formations rocheuses naturelles à quelques kilomètres du centre, ouvrant sur l'océan Atlantique."
+    }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "Toute l'année, climat méditerranéen doux, étés moins écrasants que dans le sud",
+    "daysRecommended": "1 à 2 jours, souvent en point de départ ou d'arrivée d'un circuit vers Chefchaouen et Fès",
+    "tips": [
+      "Le Cap Spartel offre la vue la plus spectaculaire sur la rencontre des deux mers",
+      "Prévoir un peu de temps pour flâner sans but précis dans la médina, à taille humaine",
+      "Le port permet également des liaisons rapides vers l'Espagne pour les envies d'excursion transfrontalière"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Que voir à Tanger en une journée ?",
+      "answer": "Le circuit classique : la kasbah et son musée, la médina et le Petit Socco, un thé au Café Hafa face au détroit, puis le Cap Spartel et les grottes d'Hercule en fin d'après-midi. Avec une soirée sur place, ajoutez la corniche et la marina pour le coucher de soleil sur la baie."
+    },
+    {
+      "question": "Peut-on commencer un circuit au Maroc par Tanger ?",
+      "answer": "Oui, c'est même une excellente option : l'aéroport international Ibn Battouta et les ferries d'Espagne (Tarifa, Algésiras) en font une porte d'entrée pratique. Nos circuits au départ de Tanger (4 à 7 jours, dès 470 €/pers) descendent vers Chefchaouen, Fès, le désert de Merzouga et Marrakech."
+    },
+    {
+      "question": "Combien de temps faut-il pour aller de Tanger à Chefchaouen ?",
+      "answer": "Environ 2h de route à travers les paysages verdoyants du Rif. C'est l'étape la plus naturelle depuis Tanger : la plupart de nos itinéraires du nord enchaînent Tanger → Chefchaouen (nuit sur place conseillée) → Volubilis → Fès."
+    }
+  ],
+  "gallery": [],
+  "relatedExcursions": ["tanger-marrakech-4j", "tanger-marrakech-6j", "tanger-marrakech-7j"]
+}

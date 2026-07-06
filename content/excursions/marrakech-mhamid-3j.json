@@ -1,0 +1,83 @@
+{
+    "slug":  "marrakech-mhamid-3j",
+    "type":  "excursion",
+    "category":  "Circuit désert",
+    "legacyPath":  "/circuits/marrakech-mhamid-3j",
+    "name":  "Circuit 3 jours : Marrakech → Erg Chigaga \u0026 M\u0027Hamid El Ghizlane (4×4)",
+    "seo":  {
+                "title":  "Circuit 3 jours Marrakech M\u0027Hamid Erg Chigaga — Désert sauvage 4×4 | Voyages Authentiques Maroc",
+                "description":  "Circuit 3 jours en 4×4 au départ de Marrakech : Aït Ben Haddou, vallée du Draa, M\u0027Hamid El Ghizlane et les dunes sauvages de l\u0027Erg Chigaga. Nuit en camp désert sous les étoiles."
+            },
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1613169620329-6785c004d900?auto=format\u0026fit=crop\u0026w=1280\u0026q=85",
+                 "tagline":  "Les dunes sauvages de l\u0027Erg Chigaga en 4×4"
+             },
+    "intro":  "Ce circuit 3 jours en 4×4 vous conduit jusqu\u0027aux dunes isolées de l\u0027Erg Chigaga, l\u0027un des plus grands ergs du Maroc, accessible uniquement en 4×4 depuis M\u0027Hamid El Ghizlane. Un itinéraire idéal pour les voyageurs en quête d\u0027aventure et de désert authentique, loin des circuits touristiques classiques.",
+    "priceFrom": "À partir de 340 € / personne — devis sur mesure",
+    "programs":  [
+                     {
+                         "title":  "Itinéraire 3 jours",
+                         "days":  [
+                                      {
+                                          "label":  "Jour 1 — Marrakech → Aït Ben Haddou → Vallée du Draa → M\u0027Hamid El Ghizlane",
+                                          "items":  [
+                                                        "Départ de Marrakech, traversée du col de Tizi n\u0027Tichka",
+                                                        "Visite du ksar d\u0027Aït Ben Haddou (UNESCO)",
+                                                        "Descente dans la vallée du Draa",
+                                                        "Arrivée à M\u0027Hamid El Ghizlane — nuit en lodge"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 2 — M\u0027Hamid → Erg Chigaga (4×4) → Coucher de soleil → Camp berbère",
+                                          "items":  [
+                                                        "Départ en 4×4 vers les dunes de l\u0027Erg Chigaga",
+                                                        "Balade à dromadaire au coucher du soleil",
+                                                        "Installation au camp désert berbère",
+                                                        "Dîner sous les étoiles",
+                                                        "Sandboarding"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 3 — Lever de soleil → Retour en 4×4 → Marrakech",
+                                          "items":  [
+                                                        "Lever de soleil sur les dunes de l\u0027Erg Chigaga",
+                                                        "Retour en dromadaire puis en 4×4 vers M\u0027Hamid",
+                                                        "Route de retour vers Marrakech",
+                                                        "Arrivée en soirée"
+                                                    ]
+                                      }
+                                  ]
+                     }
+                 ],
+    "included":  [
+                     "Véhicule 4×4 avec chauffeur professionnel (carburant inclus)",
+                     "1 nuit en lodge à M\u0027Hamid",
+                     "1 nuit en camp désert",
+                     "2 dîners",
+                     "2 petits-déjeuners",
+                     "Balade à dromadaire (coucher et lever du soleil)",
+                     "Sandboarding",
+                     "Qualité de service"
+                 ],
+    "excluded":  [
+                     "Déjeuners",
+                     "Boissons",
+                     "Pourboires",
+                     "Dépenses personnelles",
+                     "Frais d\u0027entrée des monuments"
+                 ],
+    "faq":  [
+                {
+                    "question":  "Pourquoi ce circuit utilise-t-il un 4×4 ?",
+                    "answer":  "L\u0027Erg Chigaga est accessible uniquement en 4×4 depuis M\u0027Hamid El Ghizlane. Les pistes de sable nécessitent un véhicule tout-terrain adapté."
+                },
+                {
+                    "question":  "Quelle est la différence entre l\u0027Erg Chigaga et l\u0027Erg Chebbi ?",
+                    "answer":  "L\u0027Erg Chigaga est plus isolé et moins touristique que l\u0027Erg Chebbi (Merzouga). C\u0027est le choix idéal pour une expérience désert plus authentique et sauvage."
+                }
+            ],
+    "gallery":  [
+
+                ],
+    "relatedDestinations": ["desert-sahara-merzouga", "marrakech", "ait-ben-haddou"]
+}

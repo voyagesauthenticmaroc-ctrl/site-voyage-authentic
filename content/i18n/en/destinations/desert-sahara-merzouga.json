@@ -1,0 +1,27 @@
+{
+  "slug": "sahara-desert-merzouga",
+  "name": "Sahara Desert — Merzouga & Erg Chebbi",
+  "seo": {
+    "title": "Sahara Desert in Merzouga — Erg Chebbi, camp, camels | Authentic Morocco Tours",
+    "description": "Discover Morocco's Sahara desert in Merzouga: Erg Chebbi dunes, a night in a desert camp under the stars, camel rides, gnawa music. Private tours from Marrakech or Fes."
+  },
+  "hero": {
+    "tagline": "Golden dunes, starry nights and endless silence at the gates of the Sahara"
+  },
+  "intro": "Erg Chebbi, in Merzouga, is the most spectacular accessible dune field in Morocco: some peaks rise over 150 metres. This is where the quintessential Saharan experience happens — a camel ride at sunset, a night in a desert camp under a sky saturated with stars, and encounters with nomadic families and the gnawa music of Khamlia village. 9 hours' drive from Marrakech or 6 hours from Fes, Merzouga is best reached over 2 to 3 days, with stops in the Atlas and the Ziz Valley. Along the way, the road crosses some of the Kingdom's most varied landscapes: the Tichka Pass or Middle Atlas cedar forests, the Todra Gorges, the Dades Valley and its kasbahs, the Skoura palm groves. It is this constant contrast — mountain, oasis, stone and sand — that makes the desert tour Morocco's most popular itinerary, for couples and families alike.",
+  "highlights": [
+    { "name": "Erg Chebbi", "description": "Morocco's tallest dune field, between 40 and 150 m, famous for its changing colours at sunrise and sunset." },
+    { "name": "Camp under the stars", "description": "A night in a Berber tent in the open desert, a traditional dinner and an exceptionally clear sky, far from any light pollution." },
+    { "name": "Khamlia and gnawa music", "description": "A small village south of Merzouga, known for its gnawa musicians descended from sub-Saharan slaves and their mesmerising percussion." },
+    { "name": "Ziz Valley", "description": "On the road to Merzouga, a palm grove and spectacular gorges to cross, with panoramic views over the oasis." }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "March to May and September to November (extreme heat in summer, cool nights in winter)",
+    "daysRecommended": "2 to 3 days minimum from Marrakech or Fes, to enjoy at least one night in a desert camp",
+    "tips": [
+      "Bring warm clothes for the night, even in strong daytime heat",
+      "The camel ride is usually done at sunset and/or sunrise",
+      "Prefer a private camp over a shared campsite for more peace and quiet"
+    ]
+  }
+}

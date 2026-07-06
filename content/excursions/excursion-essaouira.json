@@ -1,0 +1,60 @@
+{
+    "slug":  "excursion-essaouira",
+    "type":  "excursion",
+    "category":  "Excursion à la journée",
+    "legacyPath":  "/circuits/excursion-essaouira",
+    "name":  "Excursion 1 jour : Essaouira (Mogador) depuis Marrakech",
+    "seo":  {
+                "title":  "Excursion Essaouira depuis Marrakech — Mogador, médina, port | Voyages Authentiques Maroc",
+                "description":  "Excursion privée d\u0027une journée depuis Marrakech à Essaouira (ancienne Mogador) : médina UNESCO, port de pêche, arganiers, remparts. Aller-retour en véhicule privé."
+            },
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1555686367-56d5186965d5?auto=format\u0026fit=crop\u0026w=1280\u0026q=85",
+                 "tagline":  "Essaouira — la cité des alizés depuis Marrakech"
+             },
+    "intro":  "Essaouira, l\u0027ancienne Mogador, est une ville côtière au charme unique : médina inscrite à l\u0027UNESCO, remparts du XVIIIe siècle, port de pêche animé, ruelles blanchies à la chaux et boutiques d\u0027artisans. À 2h30 de Marrakech, c\u0027est l\u0027excursion idéale pour une journée de dépaysement entre l\u0027Atlantique et la culture berbère.",
+    "priceFrom": "À partir de 65 € / personne — devis sur mesure",
+    "programs":  [
+                     {
+                         "title":  "Programme de la journée",
+                         "description":  "Départ matinal de Marrakech. Route à travers l\u0027arrière-pays avec les arganiers. Arrivée à Essaouira pour la matinée. Déjeuner libre (poissons frais recommandés). Après-midi libre. Retour à Marrakech.",
+                         "items":  [
+                                       "Départ de Marrakech (environ 7h30)",
+                                       "Route à travers les plantations d\u0027arganiers",
+                                       "Arrivée à Essaouira",
+                                       "Remparts et Skala de la Ville (vue sur l\u0027Atlantique)",
+                                       "Médina d\u0027Essaouira (UNESCO) — ruelles, souks, galeries d\u0027art",
+                                       "Port de pêche traditionnel",
+                                       "Déjeuner libre (spécialité : poissons et fruits de mer frais)",
+                                       "Après-midi libre : plage, artisans, thé",
+                                       "Retour à Marrakech (arrivée en soirée)"
+                                   ]
+                     }
+                 ],
+    "included":  [
+                     "Véhicule climatisé avec chauffeur professionnel (carburant inclus)",
+                     "Prise en charge et retour à Marrakech",
+                     "Qualité de service"
+                 ],
+    "excluded":  [
+                     "Déjeuner",
+                     "Boissons",
+                     "Frais d\u0027entrée des monuments",
+                     "Pourboires",
+                     "Dépenses personnelles"
+                 ],
+    "faq":  [
+                {
+                    "question":  "Peut-on se baigner à Essaouira ?",
+                    "answer":  "La plage d\u0027Essaouira est longue et belle mais ventée (Essaouira est la capitale mondiale du windsurf et du kitesurf). La baignade est possible mais déconseillée par fort vent."
+                },
+                {
+                    "question":  "Qu\u0027est-ce que l\u0027huile d\u0027argan ?",
+                    "answer":  "L\u0027arganier est un arbre endémique du Maroc, dont les fruits produisent une huile précieuse utilisée en cuisine et en cosmétique. Sur la route d\u0027Essaouira, vous traversez la forêt d\u0027arganiers classée Réserve de biosphère UNESCO."
+                }
+            ],
+    "gallery":  [
+
+                ],
+    "relatedDestinations": ["marrakech", "essaouira"]
+}

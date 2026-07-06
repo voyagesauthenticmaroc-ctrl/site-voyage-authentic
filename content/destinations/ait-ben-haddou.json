@@ -1,0 +1,58 @@
+{
+  "slug": "ait-ben-haddou",
+  "type": "destination",
+  "legacyPath": "/destinations/ait-ben-haddou",
+  "name": "Aït Ben Haddou — le ksar UNESCO",
+  "seo": {
+    "title": "Aït Ben Haddou — ksar UNESCO près d'Ouarzazate | Voyages Authentiques Maroc",
+    "description": "Visitez le ksar d'Aït Ben Haddou, patrimoine mondial UNESCO et décor de cinéma mythique près d'Ouarzazate. Excursion privée depuis Marrakech ou étape sur la route du désert."
+  },
+  "hero": {
+    "image": "https://images.unsplash.com/photo-1569531955316-bb271f9c4531?auto=format&fit=crop&w=1280&q=85",
+    "tagline": "Le ksar le plus célèbre du Sud marocain, aux portes du désert"
+  },
+  "intro": "Classé au patrimoine mondial de l'UNESCO depuis 1987, le ksar d'Aït Ben Haddou est le plus impressionnant ensemble d'habitat fortifié en terre du Maroc. Fondé au XIe siècle sur la route caravanière reliant le Soudan à Marrakech, il aligne ses maisons en pisé aux tours d'angle crénelées sur le flanc d'une colline dominant la vallée de l'Ounila. Sa silhouette spectaculaire a servi de décor à de nombreux films et séries internationales — Lawrence d'Arabie, Gladiator, Game of Thrones — faisant de lui l'un des sites les plus photographiés d'Afrique du Nord. Situé à environ 30 km d'Ouarzazate et de ses studios de cinéma, il constitue une étape incontournable sur la route reliant Marrakech au désert de Merzouga, via le col du Tichka et ses panoramas du Haut Atlas.",
+  "highlights": [
+    {
+      "name": "Architecture en pisé",
+      "description": "Maisons fortifiées en terre crue aux tours décorées, exemple remarquable d'architecture pré-saharienne toujours habitée en partie."
+    },
+    {
+      "name": "Décor de cinéma",
+      "description": "Tournage de nombreuses productions internationales — les studios de cinéma d'Ouarzazate sont à quelques minutes du site."
+    },
+    {
+      "name": "Vue depuis la colline",
+      "description": "La montée jusqu'au sommet du ksar offre un panorama complet sur la vallée de l'Ounila et l'oasis environnante."
+    },
+    {
+      "name": "Col du Tichka",
+      "description": "La route depuis Marrakech traverse le Haut Atlas par ce col à plus de 2 260 m d'altitude, aux paysages spectaculaires."
+    }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "Toute l'année, avec une préférence pour le printemps et l'automne pour la traversée du col du Tichka",
+    "daysRecommended": "Excursion à la journée depuis Marrakech, ou étape sur un circuit de plusieurs jours vers le désert",
+    "tips": [
+      "La lumière du matin et du coucher de soleil met le mieux en valeur les couleurs ocre du site",
+      "Prévoir de bonnes chaussures pour la montée en pente jusqu'au sommet du ksar",
+      "Combinez la visite avec les studios de cinéma d'Ouarzazate, à proximité immédiate"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Peut-on visiter Aït Ben Haddou en une journée depuis Marrakech ?",
+      "answer": "Oui : comptez environ 3h30 à 4h de route par trajet à travers le col du Tichka (2 260 m). L'excursion privée à la journée part tôt le matin, inclut la visite du ksar et, selon le temps disponible, les studios de cinéma d'Ouarzazate, avec retour à Marrakech en soirée. À partir de 75 € par personne."
+    },
+    {
+      "question": "Quels films ont été tournés à Aït Ben Haddou ?",
+      "answer": "Parmi les plus célèbres : Lawrence d'Arabie (1962), La Momie, Gladiator, Le Royaume des Cieux, Prince of Persia et la série Game of Thrones, où le ksar figure la ville de Yunkaï. Les studios Atlas d'Ouarzazate, à 30 minutes, complètent la visite pour les amateurs de cinéma."
+    },
+    {
+      "question": "Le ksar d'Aït Ben Haddou est-il encore habité ?",
+      "answer": "Oui, quelques familles vivent toujours dans l'enceinte du ksar, principalement d'artisanat et de tourisme, tandis que la majorité des habitants s'est installée dans le village moderne de l'autre côté de l'oued. C'est ce qui fait d'Aït Ben Haddou un site vivant et non un simple musée."
+    }
+  ],
+  "gallery": [],
+  "relatedExcursions": ["excursion-ait-ben-haddou", "or-rose-desert-8j", "marrakech-merzouga-4j"]
+}

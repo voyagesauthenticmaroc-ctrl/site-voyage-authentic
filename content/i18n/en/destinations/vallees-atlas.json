@@ -1,0 +1,27 @@
+{
+  "slug": "atlas-valleys",
+  "name": "Atlas Valleys — Ourika & Ouzoud",
+  "seo": {
+    "title": "Atlas Valleys — Ourika, Ouzoud waterfalls | Authentic Morocco Tours",
+    "description": "Discover the Atlas valleys near Marrakech: the Ourika Valley and its Berber villages, the Ouzoud waterfalls with a 110-metre drop. Private day trips from Marrakech."
+  },
+  "hero": {
+    "tagline": "Spectacular waterfalls, Berber villages and snow-capped peaks an hour from Marrakech"
+  },
+  "intro": "Less than two hours from Marrakech, the foothills of the High Atlas offer a total change of scenery: the Ourika Valley with its terraced Berber villages, the Setti Fatma waterfalls, or the Ouzoud waterfalls, 110 metres high and among the most beautiful in North Africa. These day trips are ideal for combining nature, encounters with Berber communities and fresh mountain air — a striking contrast to the bustle of the red city, especially welcome in summer when the valley is 10 degrees cooler than Marrakech. Along the way, weekly Berber markets, women's argan oil cooperatives and traditional earthen houses punctuate the road, offering a glimpse of rural Morocco that few travellers take the time to discover.",
+  "highlights": [
+    { "name": "Ourika Valley", "description": "A lush valley along the Ourika river, dotted with Berber villages, traditional mills and cultivated terraces." },
+    { "name": "Setti Fatma waterfalls", "description": "Seven waterfalls accessible by a hiking trail at the heart of the Ourika Valley, very popular in summer." },
+    { "name": "Ouzoud waterfalls", "description": "A 110-metre waterfall, one of the tallest in Morocco, surrounded by olive trees and often crossed by rainbows." },
+    { "name": "Berber villages", "description": "Traditional earthen dwellings on the mountainside, a rural way of life still close to Amazigh traditions." }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "April to October to fully enjoy the waterfalls, snow-capped in winter at higher altitudes",
+    "daysRecommended": "1 day per excursion (Ourika or Ouzoud), the two sites are hard to combine in a single day",
+    "tips": [
+      "Bring walking shoes for the trails around the waterfalls",
+      "Swimming is possible at Ouzoud and Setti Fatma in the warm season",
+      "Barbary macaques are frequently seen at the Ouzoud site"
+    ]
+  }
+}

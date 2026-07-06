@@ -1,0 +1,95 @@
+{
+    "slug":  "marrakech-fes-nomades-4j",
+    "type":  "excursion",
+    "category":  "Circuit désert",
+    "legacyPath":  "/circuits/marrakech-fes-nomades-4j",
+    "name":  "Circuit 4 jours : Marrakech → Merzouga + Journée Nomades → Fès",
+    "seo":  {
+                "title":  "Circuit 4 jours Marrakech Merzouga Fès — Sahara \u0026 Familles Nomades | Voyages Authentiques Maroc",
+                "description":  "Circuit privé 4 jours de Marrakech à Fès : Aït Ben Haddou, Dades, Todra, désert Merzouga avec journée d\u0027immersion nomade (4×4, familles nomades), forêt de cèdres, Ifrane."
+            },
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1757307046224-4f91157d1578?auto=format\u0026fit=crop\u0026w=1280\u0026q=85",
+                 "tagline":  "Marrakech → Sahara → Familles nomades → Fès"
+             },
+    "intro":  "Ce circuit 4 jours enrichit l\u0027itinéraire classique Marrakech-Fès d\u0027une journée entière d\u0027exploration du désert de Merzouga : visite en 4×4 des familles nomades du désert, musique Gnawa de Khamlia, sandboarding. Une immersion complète entre villes impériales, paysages de l\u0027Atlas et vie du Sahara.",
+    "priceFrom": "À partir de 460 € / personne — devis sur mesure",
+    "programs":  [
+                     {
+                         "title":  "Itinéraire 4 jours",
+                         "days":  [
+                                      {
+                                          "label":  "Jour 1 — Marrakech → Aït Ben Haddou → Ouarzazate → Vallée des Dades",
+                                          "items":  [
+                                                        "Départ de Marrakech, traversée de Tizi n\u0027Tichka",
+                                                        "Visite du ksar d\u0027Aït Ben Haddou (UNESCO)",
+                                                        "Arrêt à Ouarzazate",
+                                                        "Nuit dans la vallée des Dades"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 2 — Dades → Gorges du Todra → Erfoud → Merzouga",
+                                          "items":  [
+                                                        "Visite des gorges du Todra",
+                                                        "Route vers Erfoud et Merzouga",
+                                                        "Installation à l\u0027hôtel",
+                                                        "Balade à dromadaire au coucher du soleil sur l\u0027Erg Chebbi",
+                                                        "Nuit sous tente berbère",
+                                                        "Sandboarding"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 3 — Journée d\u0027exploration du désert de Merzouga",
+                                          "items":  [
+                                                        "Lever de soleil sur les dunes",
+                                                        "Excursion en 4×4 : visite de familles nomades du désert",
+                                                        "Village de Khamlia — musique Gnawa (Berbers noirs du Sahara)",
+                                                        "Sandboarding",
+                                                        "Exploration des oasis et villages berbères environnants"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 4 — Merzouga → Vallée du Ziz → Midelt → Forêt d\u0027Azrou → Ifrane → Fès",
+                                          "items":  [
+                                                        "Départ vers le nord via la vallée du Ziz",
+                                                        "Arrêt à Midelt",
+                                                        "Forêt de cèdres d\u0027Azrou (macaques de Barbarie)",
+                                                        "Passage par Ifrane",
+                                                        "Arrivée à Fès en soirée"
+                                                    ]
+                                      }
+                                  ]
+                     }
+                 ],
+    "included":  [
+                     "Véhicule confortable climatisé avec chauffeur professionnel (carburant inclus)",
+                     "3 nuits (hôtel + tente désert)",
+                     "3 dîners",
+                     "3 petits-déjeuners",
+                     "Balade à dromadaire (coucher et lever du soleil — 1 dromadaire par personne)",
+                     "Sandboarding",
+                     "Excursion en 4×4 pour la visite des nomades (Jour 3)",
+                     "Qualité de service"
+                 ],
+    "excluded":  [
+                     "Déjeuners",
+                     "Boissons",
+                     "Pourboires",
+                     "Dépenses personnelles",
+                     "Frais d\u0027entrée des monuments"
+                 ],
+    "faq":  [
+                {
+                    "question":  "Qu\u0027est-ce que la journée nomades inclut ?",
+                    "answer":  "Le Jour 3, vous explorez le désert autour de Merzouga en 4×4 : visite de familles nomades, découverte du village de Khamlia avec sa musique Gnawa, sandboarding, et exploration d\u0027oasis."
+                },
+                {
+                    "question":  "Ce circuit se termine à Fès ?",
+                    "answer":  "Oui, le circuit se termine à Fès. Il peut aussi être proposé dans le sens inverse (départ Fès, arrivée Marrakech)."
+                }
+            ],
+    "gallery":  [
+
+                ],
+    "relatedDestinations": ["desert-sahara-merzouga", "marrakech", "fes", "ait-ben-haddou"]
+}

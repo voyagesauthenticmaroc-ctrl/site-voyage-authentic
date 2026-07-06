@@ -1,0 +1,85 @@
+{
+    "slug":  "marrakech-merzouga-4j",
+    "type":  "excursion",
+    "category":  "Circuit désert",
+    "legacyPath":  "/circuits/marrakech-merzouga-4j",
+    "name":  "Circuit 4 jours : Marrakech → Merzouga → Marrakech (aller-retour complet)",
+    "seo":  {
+                "title":  "Circuit 4 jours Marrakech Merzouga aller-retour — Route des Kasbahs \u0026 Sahara | Voyages Authentiques Maroc",
+                "description":  "Circuit privé 4 jours Marrakech-Merzouga : route des 1000 kasbahs, Dades, Todra, Erg Chebbi avec option Draa ou nuit supplémentaire Merzouga. Retour via Tizi n\u0027Tichka."
+            },
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1544517333-3ceafba4d01b?auto=format\u0026fit=crop\u0026w=1280\u0026q=85",
+                 "tagline":  "La Route des 1000 Kasbahs jusqu\u0027au Sahara"
+             },
+    "intro":  "Ce circuit 4 jours en boucle au départ et à destination de Marrakech offre le plus complet des itinéraires vers le désert de Merzouga. Vous parcourez la célèbre Route des 1000 Kasbahs, les gorges du Dades, les gorges du Todra et les dunes de l\u0027Erg Chebbi, avec une option de retour via la vallée du Draa ou une nuit supplémentaire à Merzouga (musique Gnawa à Khamlia, sandboarding, village nomade).",
+    "priceFrom": "À partir de 440 € / personne — devis sur mesure",
+    "programs":  [
+                     {
+                         "title":  "Itinéraire 4 jours",
+                         "days":  [
+                                      {
+                                          "label":  "Jour 1 — Marrakech → Aït Ben Haddou → Route des 1000 Kasbahs → Dades",
+                                          "items":  [
+                                                        "Départ de Marrakech, traversée du col de Tizi n\u0027Tichka",
+                                                        "Visite du ksar d\u0027Aït Ben Haddou (UNESCO)",
+                                                        "Route des 1000 Kasbahs via Ouarzazate",
+                                                        "Nuit dans la vallée des Dades"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 2 — Dades → Gorges du Todra → Erfoud/Rissani → Merzouga",
+                                          "items":  [
+                                                        "Visite des gorges du Todra",
+                                                        "Route vers Erfoud ou Rissani",
+                                                        "Arrivée à Merzouga",
+                                                        "Balade à dromadaire au coucher du soleil sur l\u0027Erg Chebbi",
+                                                        "Nuit sous tente berbère",
+                                                        "Sandboarding"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 3 — Option A ou B",
+                                          "items":  [
+                                                        "Option A — Retour via Ouarzazate : Merzouga → Draa → Ouarzazate (nuit)",
+                                                        "Option B — Nuit supplémentaire à Merzouga : musique Gnawa de Khamlia, sandboarding, visite de village nomade en 4×4 (optionnel)"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 4 — Retour à Marrakech",
+                                          "items":  [
+                                                        "Depuis Ouarzazate (Option A) ou depuis Merzouga (Option B)",
+                                                        "Traversée du col de Tizi n\u0027Tichka",
+                                                        "Arrivée à Marrakech en soirée"
+                                                    ]
+                                      }
+                                  ]
+                     }
+                 ],
+    "included":  [
+                     "Véhicule confortable climatisé avec chauffeur professionnel (carburant inclus)",
+                     "3 nuits (hôtel + tente désert)",
+                     "3 dîners",
+                     "3 petits-déjeuners",
+                     "Balade à dromadaire (coucher et lever du soleil — 1 dromadaire par personne)",
+                     "Sandboarding",
+                     "Qualité de service"
+                 ],
+    "excluded":  [
+                     "Déjeuners",
+                     "Boissons",
+                     "Pourboires",
+                     "Dépenses personnelles",
+                     "Frais d\u0027entrée des monuments"
+                 ],
+    "faq":  [
+                {
+                    "question":  "Quelle est la différence entre l\u0027Option A et l\u0027Option B au Jour 3 ?",
+                    "answer":  "L\u0027Option A vous fait dormir à Ouarzazate pour un retour plus direct. L\u0027Option B vous offre une nuit supplémentaire dans le désert avec des activités : musique Gnawa à Khamlia, sandboarding, visite de familles nomades en 4×4."
+                }
+            ],
+    "gallery":  [
+
+                ],
+    "relatedDestinations": ["desert-sahara-merzouga", "marrakech", "ait-ben-haddou"]
+}

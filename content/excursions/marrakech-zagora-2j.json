@@ -1,0 +1,78 @@
+{
+    "slug":  "marrakech-zagora-2j",
+    "type":  "excursion",
+    "category":  "Circuit désert",
+    "legacyPath":  "/circuits/marrakech-zagora-2j",
+    "name":  "Circuit 2 jours : Marrakech → Désert de Zagora via Aït Ben Haddou",
+    "seo":  {
+                "title":  "Circuit 2 jours Marrakech Zagora — Désert \u0026 Aït Ben Haddou | Voyages Authentiques Maroc",
+                "description":  "Circuit privé 2 jours depuis Marrakech : Aït Ben Haddou (UNESCO), vallée du Draa, désert de Zagora. Nuit sous la tente berbère, balade à dromadaire au coucher du soleil."
+            },
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1489749798305-4fea3ae63d43?auto=format\u0026fit=crop\u0026w=1280\u0026q=85",
+                 "tagline":  "Aït Ben Haddou, Ouarzazate \u0026 les dunes de Zagora"
+             },
+    "intro":  "Ce circuit 2 jours vous emmène de Marrakech aux portes du désert de Zagora, à environ 360 km (7h) de la Cité Rouge. La route traverse les sommets du Haut Atlas via Tizi n\u0027Tichka, le ksar d\u0027Aït Ben Haddou classé UNESCO, puis descend dans la magnifique vallée du Draa parsemée de palmeraies et de kasbahs.",
+    "priceFrom": "À partir de 165 € / personne — devis sur mesure",
+    "programs":  [
+                     {
+                         "title":  "Jour 1 — Marrakech → Aït Ben Haddou → Ouarzazate → Zagora",
+                         "days":  [
+                                      {
+                                          "label":  "Jour 1",
+                                          "items":  [
+                                                        "Départ de Marrakech en direction du col de Tizi n\u0027Tichka (2 260 m)",
+                                                        "Visite du ksar d\u0027Aït Ben Haddou, patrimoine mondial UNESCO (décor de nombreux films internationaux)",
+                                                        "Passage par Ouarzazate, la porte du désert",
+                                                        "Route vers Agdez et la vallée du Draa",
+                                                        "Arrivée à Zagora — installation au camp du désert",
+                                                        "Balade à dromadaire au coucher du soleil",
+                                                        "Dîner et nuit sous la tente berbère"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 2",
+                                          "items":  [
+                                                        "Lever de soleil sur les dunes",
+                                                        "Départ vers la vallée du Draa et Agdez (Kasbah Tamnouggalte)",
+                                                        "Retour par Ouarzazate et Tizi n\u0027Tichka",
+                                                        "Arrivée à Marrakech en soirée"
+                                                    ]
+                                      }
+                                  ]
+                     }
+                 ],
+    "included":  [
+                     "Véhicule confortable climatisé avec chauffeur professionnel (carburant inclus)",
+                     "1 nuit en camp désert (tente berbère)",
+                     "1 dîner",
+                     "1 petit-déjeuner",
+                     "Balade à dromadaire (coucher et lever du soleil)",
+                     "Qualité de service"
+                 ],
+    "excluded":  [
+                     "Déjeuners",
+                     "Boissons",
+                     "Pourboires",
+                     "Dépenses personnelles",
+                     "Frais d\u0027entrée des monuments"
+                 ],
+    "faq":  [
+                {
+                    "question":  "Combien de temps dure le trajet Marrakech → Zagora ?",
+                    "answer":  "Zagora se trouve à environ 360 km de Marrakech, soit 7h de route environ. Le trajet est l\u0027occasion d\u0027admirer des paysages variés : l\u0027Atlas, la vallée de l\u0027Ounila et la vallée du Draa."
+                },
+                {
+                    "question":  "Ce circuit est-il privé ou en groupe ?",
+                    "answer":  "Vous pouvez choisir un circuit privé pour votre groupe ou un circuit en groupe partagé selon vos préférences."
+                },
+                {
+                    "question":  "La balade à dromadaire est-elle incluse ?",
+                    "answer":  "Oui, la balade à dromadaire au coucher et au lever du soleil (1 dromadaire par personne) est incluse dans le circuit."
+                }
+            ],
+    "gallery":  [
+
+                ],
+    "relatedDestinations": ["desert-sahara-merzouga", "marrakech", "ait-ben-haddou"]
+}

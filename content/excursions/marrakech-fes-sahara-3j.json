@@ -1,0 +1,86 @@
+{
+    "slug":  "marrakech-fes-sahara-3j",
+    "type":  "excursion",
+    "category":  "Circuit désert",
+    "legacyPath":  "/circuits/marrakech-fes-sahara-3j",
+    "name":  "Circuit 3 jours : Marrakech → Sahara → Fès via Dades \u0026 Merzouga",
+    "seo":  {
+                "title":  "Circuit 3 jours Marrakech Fès via Sahara — Merzouga, Dades, Todra | Voyages Authentiques Maroc",
+                "description":  "Circuit privé 3 jours de Marrakech à Fès : Aït Ben Haddou (UNESCO), gorges du Dades, gorges de Todra, désert de Merzouga (Erg Chebbi). Nuit sous les étoiles du Sahara."
+            },
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1670406071586-d6c619eab22b?auto=format\u0026fit=crop\u0026w=1280\u0026q=85",
+                 "tagline":  "De la montagne au désert : Marrakech → Merzouga → Fès"
+             },
+    "intro":  "Ce circuit 3 jours relie Marrakech à Fès en traversant les paysages les plus spectaculaires du Maroc : le col de Tizi n\u0027Tichka, le ksar d\u0027Aït Ben Haddou, la vallée des Dades, les gorges du Todra et les dunes dorées de l\u0027Erg Chebbi à Merzouga. Parfait pour découvrir le Sud marocain avant de remonter vers la cité impériale de Fès.",
+    "priceFrom": "À partir de 350 € / personne — devis sur mesure",
+    "programs":  [
+                     {
+                         "title":  "Itinéraire 3 jours",
+                         "days":  [
+                                      {
+                                          "label":  "Jour 1 — Marrakech → Aït Ben Haddou → Ouarzazate → Vallée des Dades",
+                                          "items":  [
+                                                        "Départ de Marrakech, traversée du col de Tizi n\u0027Tichka",
+                                                        "Visite du ksar d\u0027Aït Ben Haddou (patrimoine UNESCO)",
+                                                        "Arrêt à Ouarzazate",
+                                                        "Route vers la vallée des Dades ou Tinghir",
+                                                        "Dîner et nuit à l\u0027hôtel"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 2 — Vallée des Dades → Gorges du Todra → Merzouga (Erg Chebbi)",
+                                          "items":  [
+                                                        "Visite des gorges du Todra (canyon spectaculaire)",
+                                                        "Route vers Erfoud puis Merzouga",
+                                                        "Installation à l\u0027hôtel en lisière de dunes",
+                                                        "Balade à dromadaire au coucher du soleil sur les dunes de l\u0027Erg Chebbi",
+                                                        "Dîner et nuit sous la tente berbère (camp désert)",
+                                                        "Sandboarding en option"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 3 — Merzouga → Vallée du Ziz → Midelt → Forêt de cèdres → Ifrane → Fès",
+                                          "items":  [
+                                                        "Lever de soleil sur les dunes de l\u0027Erg Chebbi",
+                                                        "Route vers le nord via la vallée du Ziz",
+                                                        "Arrêt à Midelt et forêt de cèdres d\u0027Azrou (macaques de Barbarie)",
+                                                        "Passage par Ifrane, la « Suisse marocaine »",
+                                                        "Arrivée à Fès en fin de journée"
+                                                    ]
+                                      }
+                                  ]
+                     }
+                 ],
+    "included":  [
+                     "Véhicule confortable climatisé avec chauffeur professionnel (carburant inclus)",
+                     "1 nuit à l\u0027hôtel",
+                     "1 nuit sous tente désert",
+                     "2 dîners",
+                     "2 petits-déjeuners",
+                     "Balade à dromadaire (coucher et lever du soleil — 1 dromadaire par personne)",
+                     "Sandboarding",
+                     "Qualité de service"
+                 ],
+    "excluded":  [
+                     "Déjeuners",
+                     "Boissons",
+                     "Pourboires",
+                     "Dépenses personnelles",
+                     "Frais d\u0027entrée des monuments"
+                 ],
+    "faq":  [
+                {
+                    "question":  "Le circuit commence à Marrakech et finit à Fès ?",
+                    "answer":  "Oui, c\u0027est un circuit en sens unique. Vous êtes pris en charge à Marrakech et déposé à Fès (ou l\u0027inverse sur demande)."
+                },
+                {
+                    "question":  "La forêt de cèdres avec les singes est-elle au programme ?",
+                    "answer":  "Oui, le Jour 3 inclut un arrêt dans la forêt de cèdres d\u0027Azrou où vivent les macaques de Barbarie."
+                }
+            ],
+    "gallery":  [
+
+                ],
+    "relatedDestinations": ["desert-sahara-merzouga", "marrakech", "fes", "ait-ben-haddou"]
+}

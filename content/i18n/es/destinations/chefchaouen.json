@@ -1,0 +1,27 @@
+{
+  "slug": "chefchaouen",
+  "name": "Chefchaouen — la perla azul del Rif",
+  "seo": {
+    "title": "Chefchaouen, la ciudad azul de Marruecos | Viajes Auténticos Marruecos",
+    "description": "Descubre Chefchaouen, la célebre ciudad azul enclavada en las montañas del Rif: callejuelas azules, plaza Outa el-Hammam, artesanía bereber. Tours privados desde Fez, Tánger o Rabat."
+  },
+  "hero": {
+    "tagline": "Callejuelas de azul intenso y montañas del Rif — la ciudad más fotogénica de Marruecos"
+  },
+  "intro": "Encaramada a 600 metros de altitud en las montañas del Rif, Chefchaouen debe su fama mundial a sus muros pintados en todas las tonalidades de azul, una tradición que se remonta a los refugiados judíos de los años 1930. Fundada en 1471 como plaza fuerte contra las incursiones portuguesas, la ciudad estuvo largo tiempo vedada a los extranjeros, lo que explica su ambiente preservado, único en Marruecos. Más tranquila que las grandes medinas imperiales, se descubre a pie entre callejuelas floridas, talleres de tejido bereber y pequeñas plazas sombreadas donde se puede tomar un té a la menta frente a las montañas. Es una parada imprescindible en los tours del norte, generalmente combinada con Fez, Mequinez, Tánger o Rabat, y uno de los destinos preferidos de los fotógrafos de todo el mundo.",
+  "highlights": [
+    { "name": "Callejuelas azules", "description": "Una gama de azules en los muros y puertas de la medina, especialmente luminosa a última hora de la mañana." },
+    { "name": "Plaza Outa el-Hammam", "description": "Corazón animado de la medina, bordeado de cafés y dominado por la kasbah del siglo XV y su gran mezquita octogonal." },
+    { "name": "Artesanía bereber del Rif", "description": "Tejidos de lana, babuchas y quesos de cabra locales, vendidos en pequeñas tiendas familiares." },
+    { "name": "Senderismo en el Rif", "description": "El parque nacional de Talassemtane, a las puertas de la ciudad, ofrece senderos y cascadas para los amantes de la naturaleza." }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "De abril a junio y de septiembre a octubre, clima más fresco que el resto de Marruecos gracias a la altitud",
+    "daysRecommended": "1 a 2 días son suficientes, para integrar en un tour por el norte (Fez, Tánger, Rabat)",
+    "tips": [
+      "Pide permiso antes de fotografiar a los habitantes",
+      "La luz es más bonita para las fotos a última hora de la mañana y al final de la tarde",
+      "Las mejores vistas panorámicas se obtienen desde el sendero de Ras el-Maa o la mezquita española"
+    ]
+  }
+}

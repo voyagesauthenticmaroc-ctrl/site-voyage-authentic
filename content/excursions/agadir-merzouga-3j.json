@@ -1,0 +1,86 @@
+{
+    "slug":  "agadir-merzouga-3j",
+    "type":  "excursion",
+    "category":  "Circuit désert",
+    "legacyPath":  "/circuits/agadir-merzouga-3j",
+    "name":  "Circuit 3 jours : Agadir → Aït Ben Haddou → Merzouga → Marrakech (ou Fès)",
+    "seo":  {
+                "title":  "Circuit 3 jours Agadir Merzouga — Aït Ben Haddou, Ouarzazate, Erg Chebbi | Voyages Authentiques Maroc",
+                "description":  "Circuit privé 3 jours depuis Agadir : Aït Ben Haddou (UNESCO), Ouarzazate, Gorges du Dadès, désert de Merzouga (Erg Chebbi), retour à Marrakech ou Fès."
+            },
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1710092538995-4af0c11a3f3c?auto=format\u0026fit=crop\u0026w=1280\u0026q=85",
+                 "tagline":  "Agadir → Sahara → Marrakech : le grand Sud en 3 jours"
+             },
+    "intro":  "Ce circuit 3 jours au départ d\u0027Agadir permet de découvrir les paysages emblématiques du sud marocain : Aït Ben Haddou (ksar inscrit à l\u0027UNESCO), les studios de cinéma d\u0027Ouarzazate, les gorges du Dadès et les dunes de sable de l\u0027Erg Chebbi à Merzouga. Le circuit peut se terminer à Marrakech ou à Fès selon votre itinéraire.",
+    "priceFrom": "À partir de 360 € / personne — devis sur mesure",
+    "programs":  [
+                     {
+                         "title":  "Itinéraire 3 jours",
+                         "days":  [
+                                      {
+                                          "label":  "Jour 1 — Agadir → Aït Ben Haddou → Ouarzazate",
+                                          "items":  [
+                                                        "Départ d\u0027Agadir tôt le matin",
+                                                        "Route à travers les paysages de l\u0027Anti-Atlas",
+                                                        "Visite du ksar d\u0027Aït Ben Haddou (UNESCO) avec guide local",
+                                                        "Ouarzazate (studios de cinéma — optionnel)",
+                                                        "Nuit à Ouarzazate ou en route vers Merzouga"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 2 — Ouarzazate → Gorges du Dadès → Merzouga",
+                                          "items":  [
+                                                        "Route de la Kasbah",
+                                                        "Gorges du Dadès",
+                                                        "Vallée du Draa ou des Roses selon l\u0027itinéraire choisi",
+                                                        "Arrivée à Merzouga en fin d\u0027après-midi",
+                                                        "Balade à dromadaire au coucher du soleil (Erg Chebbi)",
+                                                        "Nuit sous tente berbère, sandboarding"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 3 — Merzouga → Marrakech (ou Fès)",
+                                          "items":  [
+                                                        "Lever de soleil sur les dunes",
+                                                        "Petit-déjeuner au camp",
+                                                        "Route vers Marrakech via Tizi n\u0027Tichka (ou vers Fès via Ifrane et Azrou)",
+                                                        "Arrivée en fin de journée"
+                                                    ]
+                                      }
+                                  ]
+                     }
+                 ],
+    "included":  [
+                     "Véhicule climatisé avec chauffeur professionnel (carburant inclus)",
+                     "2 nuits (hôtel + camp désert)",
+                     "2 dîners",
+                     "2 petits-déjeuners",
+                     "Balade à dromadaire (coucher et lever du soleil — 1 dromadaire par personne)",
+                     "Sandboarding",
+                     "Guide local à Aït Ben Haddou",
+                     "Prise en charge à Agadir, dépose à Marrakech ou Fès",
+                     "Qualité de service"
+                 ],
+    "excluded":  [
+                     "Déjeuners",
+                     "Boissons",
+                     "Pourboires",
+                     "Dépenses personnelles",
+                     "Frais d\u0027entrée des monuments"
+                 ],
+    "faq":  [
+                {
+                    "question":  "Puis-je terminer ce circuit à Fès plutôt qu\u0027à Marrakech ?",
+                    "answer":  "Oui, ce circuit est flexible. Le Jour 3 peut vous conduire vers Fès en passant par la vallée du Ziz et la forêt d\u0027Azrou."
+                },
+                {
+                    "question":  "Combien de temps dure le trajet Agadir → Aït Ben Haddou ?",
+                    "answer":  "Environ 3 à 4 heures selon la route empruntée. Le départ doit se faire tôt pour arriver confortablement."
+                }
+            ],
+    "gallery":  [
+
+                ],
+    "relatedDestinations": ["desert-sahara-merzouga", "marrakech", "fes", "ait-ben-haddou"]
+}

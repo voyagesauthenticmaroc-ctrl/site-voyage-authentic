@@ -1,0 +1,27 @@
+{
+  "slug": "casablanca",
+  "name": "Casablanca — la metrópoli oceánica",
+  "seo": {
+    "title": "Casablanca — mezquita Hassan II, Corniche | Viajes Auténticos Marruecos",
+    "description": "Descubre Casablanca, la ciudad más grande de Marruecos: la mezquita Hassan II asomada al Atlántico, arquitectura Art Déco, animada Corniche. Tours privados con salida desde Casablanca a todo Marruecos."
+  },
+  "hero": {
+    "tagline": "La mezquita Hassan II, una obra maestra frente al Atlántico"
+  },
+  "intro": "Capital económica de Marruecos y su ciudad más poblada, Casablanca sorprende por su mezcla de arquitectura Art Déco colonial, torres modernas y sitios históricos. Su emblema indiscutible es la mezquita Hassan II, una de las más grandes del mundo: 25 años de obras, 10.000 artesanos, un minarete récord de 210 metros y una sala de oración construida en parte sobre el océano, abierta a las visitas para no musulmanes — una rareza en Marruecos. Inmortalizada por la película de Michael Curtiz protagonizada por Humphrey Bogart, la ciudad cultiva además una escena gastronómica y artística en plena expansión. Casablanca cuenta con el principal aeropuerto internacional del país (Mohammed V), lo que la convierte en un punto de partida o llegada frecuente para los tours: nuestros itinerarios de 7 a 10 días desde Casablanca recorren las ciudades imperiales, Chefchaouen y el desierto.",
+  "highlights": [
+    { "name": "Mezquita Hassan II", "description": "Tercera mezquita más grande del mundo, construida en parte sobre el océano, con un minarete récord de 210 metros." },
+    { "name": "Arquitectura Art Déco", "description": "El centro de la ciudad conserva un notable patrimonio de edificios Art Déco de los años 1920-1930, herencia del protectorado francés." },
+    { "name": "Corniche de Ain Diab", "description": "Animado paseo marítimo con restaurantes, cafés y playas, muy frecuentado por los casablanqueses al final del día." },
+    { "name": "Medina antigua", "description": "Más modesta que las de Fez o Marrakech, pero auténtica y menos turística, en el corazón del antiguo Casablanca." }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "Todo el año, clima oceánico suave, veranos menos agobiantes que en el interior",
+    "daysRecommended": "1 día es suficiente para lo esencial, a menudo utilizado como punto de partida o llegada de un tour más amplio",
+    "tips": [
+      "Reserva la visita guiada al interior de la mezquita Hassan II, una de las pocas abiertas a no musulmanes",
+      "El aeropuerto Mohammed V es el principal centro internacional: ideal para empezar o terminar un tour",
+      "Reserva algo de tiempo para pasear por el barrio Art Déco del centro"
+    ]
+  }
+}

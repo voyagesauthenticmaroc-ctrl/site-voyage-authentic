@@ -1,0 +1,521 @@
+{
+  "common": {
+    "skipToContent": "Skip to main content",
+    "requestQuote": "Get a free quote",
+    "requestQuoteShort": "Get a quote",
+    "seeMore": "View",
+    "from": "From",
+    "perPerson": "/pers.",
+    "freeQuote24h": "Free quote · 24h",
+    "responseIn24h": "Guaranteed reply within 24 h · No commitment",
+    "home": "Home",
+    "breadcrumbLabel": "Breadcrumb"
+  },
+  "nav": {
+    "home": "Home",
+    "tours": "Our tours",
+    "destinations": "Destinations",
+    "about": "About us",
+    "reviews": "Reviews",
+    "contact": "Contact",
+    "callAgency": "Call the agency",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "contactWhatsApp": "Contact us on WhatsApp",
+    "language": "Language"
+  },
+  "footer": {
+    "toursHeading": "Tours",
+    "allTours": "All tours",
+    "desertTours": "Desert tours",
+    "imperialCities": "Imperial cities",
+    "fullTours": "Grand tours",
+    "dayTrips": "Day trips",
+    "infoHeading": "Information",
+    "about": "About us",
+    "customerReviews": "Customer reviews",
+    "blog": "Blog",
+    "contactQuote": "Contact & quote",
+    "legalNotice": "Legal notice",
+    "contactHeading": "Contact",
+    "writeOnWhatsApp": "Write on WhatsApp",
+    "allRightsReserved": "All rights reserved.",
+    "siteMapLabel": "Site map",
+    "usefulLinksLabel": "Useful links"
+  },
+  "contactForm": {
+    "nameLabel": "Your name *",
+    "namePlaceholder": "Jane Smith",
+    "emailLabel": "Email *",
+    "emailPlaceholder": "jane@example.com",
+    "messageLabel": "Your trip *",
+    "messagePlaceholder": "Preferred dates, number of travellers, destinations, questions…",
+    "sendViaWhatsApp": "Send via WhatsApp",
+    "sentTitle": "Message sent on WhatsApp!",
+    "sentSubtitle": "Our team will get back to you shortly.",
+    "sendAnother": "Send another request",
+    "responseNote": "Guaranteed reply within 24 h · No commitment",
+    "whatsappGreeting": "Hello!\n\nMy name is {name} ({email}).\n\n{message}\n\nThank you!"
+  },
+  "filters": {
+    "departureCity": "Departure city",
+    "allCities": "All cities",
+    "numberOfDays": "Number of days",
+    "min": "Min",
+    "max": "Max",
+    "allDurations": "Any duration",
+    "dayCount": "{count, plural, one {# day} other {# days}}",
+    "dayRange": "{min} to {max} days",
+    "tourType": "Tour type",
+    "all": "All",
+    "toursFound": "{count, plural, one {# tour} other {# tours}}",
+    "departingFrom": "departing from",
+    "clearFilters": "Clear filters",
+    "resetFilters": "Reset filters",
+    "noMatch": "No tour matches your filters",
+    "tryChanging": "Try adjusting your filters.",
+    "minDaysAria": "Minimum number of days",
+    "maxDaysAria": "Maximum number of days",
+    "duration": "Duration",
+    "surMesure": "Tailor-made",
+    "departure": "From"
+  },
+  "quoteForm": {
+    "ariaLabel": "Quote request form",
+    "fullNameLabel": "Full name",
+    "fullNamePlaceholder": "Jane Smith",
+    "emailLabel": "Email",
+    "emailPlaceholder": "jane@example.com",
+    "phoneLabel": "Phone / WhatsApp",
+    "optional": "(optional)",
+    "phonePlaceholder": "+1 555 XXX XXXX",
+    "travellersLabel": "Number of travellers",
+    "datesLabel": "Planned travel dates",
+    "datesPlaceholder": "e.g. October 15–25, 2025",
+    "tripTypeLabel": "Trip type",
+    "tripTypePlaceholder": "Select a type...",
+    "tripTypes": {
+      "cultural": "Cultural tour (imperial cities)",
+      "desert": "Desert & dunes tour",
+      "beach": "Seaside & relaxation",
+      "grand": "Grand tour (10+ days)",
+      "custom": "Tailor-made trip",
+      "transfer": "Airport transfer",
+      "other": "Other"
+    },
+    "messageLabel": "Your message",
+    "messagePlaceholder": "Tell us about your trip: wishes, questions, must-sees...",
+    "errName": "Please enter your name.",
+    "errEmail": "Please enter your email.",
+    "errEmailFormat": "Invalid email format.",
+    "errMessage": "Please describe your trip.",
+    "errServer": "Something went wrong.",
+    "errNetwork": "Could not reach the server. Please contact us on WhatsApp.",
+    "sending": "Sending…",
+    "submit": "Send my quote request",
+    "consentNote": "By submitting this form you agree to be contacted about your trip. Guaranteed reply within 24 h · No commitment.",
+    "successTitle": "Request sent!",
+    "successText": "Our team has received your message and will get back to you within 24 hours by email or phone.",
+    "alsoWhatsApp": "Also reachable on WhatsApp",
+    "whatsappFollowUp": "Hello, I just sent a quote request for a trip to Morocco.",
+    "sendAnother": "Send another request"
+  },
+  "circuitsPage": {
+    "breadcrumb": "Tours",
+    "title": "Our private Morocco tours",
+    "titleFrom": "Tours departing from {city}",
+    "subtitle": "From the Merzouga desert to the imperial cities and blue Chefchaouen: {count} private itineraries with your own driver",
+    "fromPrice": "from €{price} per person",
+    "allToursHeading": "All our tours",
+    "ctaTitle": "Build your tailor-made tour",
+    "ctaText": "Can't find the perfect itinerary? We design fully personalised trips around your dates, wishes and budget. Free quote within 24 h."
+  },
+  "meta": {
+    "siteTagline": "Discover Morocco differently",
+    "home": {
+      "title": "Authentic Morocco Tours — Private & Tailor-Made Trips",
+      "description": "Private tours in Morocco with English-speaking drivers: Merzouga desert, imperial cities, Chefchaouen. 100% tailor-made trips, free quote within 24 h."
+    },
+    "circuits": {
+      "title": "Morocco Tours — Sahara Desert, Imperial Cities & Tailor-Made",
+      "description": "Discover all our private Morocco tours: Merzouga desert, imperial cities (Fes, Marrakech, Chefchaouen), departures from Casablanca, Tangier, Rabat, Agadir. Free quote."
+    },
+    "destinations": {
+      "title": "Morocco Destinations — Sahara, Imperial Cities, Atlantic Coast",
+      "description": "Discover Morocco's most beautiful destinations: Merzouga desert, Marrakech, Chefchaouen, Fes, Ait Ben Haddou, Essaouira. Private tailor-made tours to every destination."
+    },
+    "contact": {
+      "title": "Contact & Quote — Tailor-Made Trips to Morocco",
+      "description": "Contact Authentic Morocco Tours for a free quote within 24 h: private tours, desert, imperial cities, day trips. Marrakech-based agency, fast reply in English."
+    },
+    "about": {
+      "title": "About Us — Your Travel Agency in Morocco",
+      "description": "Authentic Morocco Tours: licensed Moroccan operator, over 10 years of experience, private tailor-made tours with English-speaking drivers across Morocco."
+    },
+    "reviews": {
+      "title": "Customer Reviews — They Travelled With Us",
+      "description": "Read reviews from our travellers: desert tours, imperial cities, day trips. Over 500 travellers guided across Morocco, 5/5 average rating."
+    },
+    "faq": {
+      "title": "FAQ — Frequently Asked Questions About Our Morocco Trips",
+      "description": "All the answers to your questions: booking, deposit, cancellation, private tours, desert, accommodation, best time to visit Morocco."
+    },
+    "blog": {
+      "title": "Blog — Morocco Travel Tips and Stories",
+      "description": "Practical tips, itineraries and stories to plan your trip to Morocco: Merzouga desert, Marrakech, imperial cities, best seasons and local advice."
+    },
+    "legalNotice": {
+      "title": "Legal Notice",
+      "description": "Legal notice of the Authentic Morocco Tours website: publisher, hosting, intellectual property, personal data."
+    }
+  },
+  "agency": {
+    "bio": "Authentic Morocco Tours is a licensed Moroccan tour operator specialising in private, tailor-made tours across the Kingdom. For over 10 years, we have guided travellers from all over the world through a deeper Morocco, far from standardised itineraries.",
+    "approach": "Our philosophy: offering you a true experience, at your own pace, with the best addresses, the most genuine encounters and attentive service from the first day to the last.",
+    "description": "Private tours, passionate local guides, charming accommodation and authentic experiences. Morocco tailor-made, at your own pace.",
+    "pricingNote": "All our services are quoted individually and tailor-made, depending on your programme, the number of participants and your departure point. A deposit is required to confirm the booking. Contact us for a personalised quote."
+  },
+  "homePage": {
+    "heroEyebrow": "Private tailor-made trips",
+    "heroTitle1": "Discover",
+    "heroTitle2": "Morocco",
+    "heroTitleScript": "differently",
+    "heroImageAlt": "Alleyway in the Marrakech medina leading to the Koutoubia",
+    "ctaTours": "Discover our tours",
+    "ctaContact": "Contact us",
+    "socialProof": "500+ travellers have already trusted us",
+    "starsAria": "5 out of 5 stars",
+    "trust": {
+      "guides": "English-speaking guides",
+      "private": "100% private tours",
+      "assistance": "24/7 assistance",
+      "payment": "Secure payment"
+    },
+    "stats": {
+      "travellers": "Travellers guided",
+      "experience": "Years of experience",
+      "languages": "Languages spoken",
+      "custom": "Private tailor-made tours",
+      "guaranteeNum": "Guaranteed",
+      "guarantee": "Peace of mind & safety"
+    },
+    "marquee": "Sahara|Marrakech|Chefchaouen|Fes|Essaouira|Ait Ben Haddou|Atlas|Casablanca|Tangier|Valley of Roses",
+    "agencyEyebrow": "Who are we?",
+    "agencyTitle1": "A local agency,",
+    "agencyTitle2": "a shared",
+    "agencyTitleScript": "passion",
+    "agencyTitle3": "",
+    "agencyBadges": {
+      "licensed": "Licensed Moroccan operator",
+      "languages": "Service in 4 languages",
+      "groups": "Private tours & groups"
+    },
+    "agencyMore": "Learn more about us",
+    "featuredEyebrow": "Our flagship tours",
+    "featuredTitle": "Unforgettable journeys",
+    "seeAllTours": "See all tours",
+    "perPerson": "/ person",
+    "featured": {
+      "merzouga": {
+        "badge": "Desert tour",
+        "title": "Marrakech – Merzouga",
+        "duration": "3 days / 2 nights",
+        "desc": "A desert escape, a night in a charming camp and breathtaking scenery.",
+        "price": "From €320"
+      },
+      "grandTour": {
+        "badge": "Grand tour",
+        "title": "Grand Tour of Morocco",
+        "duration": "9 days / 8 nights",
+        "desc": "Imperial cities, the Sahara, the Atlas mountains and Atlantic coasts.",
+        "price": "From €1,290"
+      },
+      "chefchaouen": {
+        "badge": "Imperial tour",
+        "title": "Marrakech – Chefchaouen",
+        "duration": "4 days / 3 nights",
+        "desc": "Cultural immersion and the pearls of northern Morocco.",
+        "price": "From €480"
+      }
+    },
+    "destEyebrow": "Our flagship destinations",
+    "destTitle1": "Morocco in all its",
+    "destTitleScript": "splendour",
+    "dest": {
+      "sahara": {
+        "label": "Sahara Desert",
+        "sub": "Merzouga · Erg Chebbi"
+      },
+      "chefchaouen": {
+        "label": "Chefchaouen",
+        "sub": "The blue pearl of the Rif"
+      },
+      "marrakech": {
+        "label": "Marrakech",
+        "sub": "The red city"
+      },
+      "aitBenHaddou": {
+        "label": "Ait Ben Haddou",
+        "sub": "Kasbahs & southern valleys"
+      }
+    },
+    "bannerScript": "The desert is calling…",
+    "bannerTitle": "Experience the magic of a night under the Sahara stars",
+    "bannerText": "A charming camp in the heart of the dunes, a Berber dinner by the fire and the endless silence of Erg Chebbi. An experience you will never forget.",
+    "bannerCta": "Book my desert tour",
+    "reviewsEyebrow": "They trusted us",
+    "reviewsTitle": "Unforgettable experiences",
+    "onGoogle": "on Google",
+    "basedOn": "Based on 87 verified reviews",
+    "readAllReviews": "Read all reviews",
+    "contactEyebrow": "Let's plan your trip",
+    "contactTitle1": "Your journey starts",
+    "contactTitleScript": "here",
+    "contactSub": "Free personalised quote — we reply to every message within 24 h.",
+    "formTitle": "Tell us about your trip",
+    "writeWhatsApp": "Write on WhatsApp",
+    "checklist": [
+      "Personalised reply within 24 h",
+      "Free, no-obligation quote",
+      "Programme adjustable to your wishes",
+      "Assistance throughout your stay"
+    ],
+    "engagements": {
+      "guides": {
+        "title": "English-speaking guides",
+        "sub": "passionate"
+      },
+      "lodging": {
+        "title": "Charming accommodation",
+        "sub": "hand-picked"
+      },
+      "experiences": {
+        "title": "Authentic experiences",
+        "sub": "and exclusive"
+      },
+      "assistance": {
+        "title": "24/7 assistance",
+        "sub": "throughout your trip"
+      },
+      "payment": {
+        "title": "Secure payment",
+        "sub": "and flexible"
+      }
+    }
+  },
+  "excursionTemplate": {
+    "home": "Home",
+    "tours": "Tours",
+    "duration": "Duration:",
+    "price": "Price:",
+    "level": "Level:",
+    "availability": "Availability:",
+    "availabilityValue": "Year-round — on reservation",
+    "presentation": "Overview",
+    "processEyebrow": "Itinerary",
+    "programsAvailable": "Available programmes",
+    "programSingle": "Day programme",
+    "dayTripsFrom": "From {category}",
+    "dayTripsTitle": "Day trips",
+    "optionsTitle": "Available options",
+    "includedTitle": "What's included",
+    "includedIn": "Included in the price",
+    "notIncluded": "Not included",
+    "faqEyebrow": "Frequently asked questions",
+    "faqTitle": "Everything about {name}",
+    "reviewsEyebrow": "Testimonials",
+    "reviewsTitle": "They trust us",
+    "readAllReviews": "Read all reviews →",
+    "bookTitle": "Book — {name}",
+    "bookText": "Tailor-made programme, free quote within 24 h. English-speaking driver available year-round.",
+    "bookWhatsApp": "Book via WhatsApp",
+    "relatedDestinations": "Related destinations"
+  },
+  "destinationTemplate": {
+    "home": "Home",
+    "destinations": "Destinations",
+    "badge": "Destination",
+    "heroAlt": "{name} — private guided visit",
+    "whyVisit": "Why visit {name}?",
+    "exceptional": "{name}, an exceptional destination",
+    "discover": "Discover {name}",
+    "mustSeeEyebrow": "Must-sees",
+    "mustSeeTitle": "What to see in {name}",
+    "mustSeeSub": "The sites and monuments to discover with your local guide.",
+    "programsEyebrow": "Tailor-made programmes",
+    "toursTo": "Our tours to {name}",
+    "viewProgram": "View programme →",
+    "picturesEyebrow": "In pictures",
+    "photosTitle": "{name} in photos",
+    "photosSub": "A few moments captured during private guided visits in {name}.",
+    "photoAlt": "{name} — private guided visit",
+    "tipsEyebrow": "Guide's tips",
+    "practicalInfo": "Practical information",
+    "bestPeriod": "Best time to visit",
+    "recommendedDuration": "Recommended duration",
+    "guideTips": "Guide's tips",
+    "faqEyebrow": "Your questions",
+    "faqTitle": "Frequently asked questions about {name}",
+    "ctaTitle": "Visit {name} with an expert guide",
+    "ctaText": "Tailor-made programme, transport included, local guide. Free quote within 24 h.",
+    "whatsapp": "WhatsApp →",
+    "otherDestinations": "Explore other destinations"
+  },
+  "destinationsPage": {
+    "breadcrumb": "Destinations",
+    "eyebrow": "Where do you want to go?",
+    "title1": "Our",
+    "titleScript": "destinations",
+    "title2": "in Morocco",
+    "heroText": "From the Sahara to the imperial cities, from the Atlas to the Atlantic: every destination can be visited on a private tour, at your own pace.",
+    "citiesEyebrow": "Tours by departure city",
+    "citiesTitle1": "Where are you",
+    "citiesTitleScript": "departing",
+    "citiesTitle2": "from?",
+    "citiesText": "Click on your departure city to discover in one click all the tours and day trips leaving from it.",
+    "cityLabel": "Departure city",
+    "tourCount": "{count, plural, one {# tour} other {# tours}}",
+    "viewTours": "See the tours",
+    "gridEyebrow": "Exceptional places",
+    "gridTitle1": "Our most beautiful",
+    "gridTitleScript": "destinations",
+    "gridText": "Sahara, imperial cities, Atlantic coast: the must-see places our tours take you to discover.",
+    "discover": "Discover",
+    "ctaScript": "Something specific in mind?",
+    "ctaTitle": "We create the itinerary that suits you",
+    "ctaQuote": "Get a free quote",
+    "ctaAllTours": "See all tours",
+    "cards": {
+      "desert-sahara-merzouga": {
+        "name": "Sahara Desert",
+        "sub": "Merzouga · Erg Chebbi",
+        "desc": "Golden dunes as far as the eye can see, nights in a camp under the stars and an unforgettable sunrise on camelback."
+      },
+      "marrakech": {
+        "name": "Marrakech",
+        "sub": "The red city",
+        "desc": "Jemaa el-Fna, colourful souks, palaces and gardens: the most vibrant imperial city in the Kingdom."
+      },
+      "chefchaouen": {
+        "name": "Chefchaouen",
+        "sub": "The blue pearl of the Rif",
+        "desc": "Azure alleyways, Rif mountains and a gentle pace of life: Morocco's most photogenic town."
+      },
+      "ait-ben-haddou": {
+        "name": "Ait Ben Haddou",
+        "sub": "UNESCO Heritage",
+        "desc": "The most famous ksar in southern Morocco, a legendary film set at the gates of the desert."
+      },
+      "fes": {
+        "name": "Fes",
+        "sub": "Spiritual capital",
+        "desc": "The world's oldest medina, its centuries-old tanneries and exceptional craftsmanship."
+      },
+      "essaouira": {
+        "name": "Essaouira",
+        "sub": "The city of trade winds",
+        "desc": "A blue fishing port, ramparts facing the ocean and a UNESCO-listed bohemian medina."
+      },
+      "casablanca": {
+        "name": "Casablanca",
+        "sub": "The ocean metropolis",
+        "desc": "The Hassan II Mosque, a masterpiece set on the Atlantic, and the lively corniche."
+      },
+      "vallees-atlas": {
+        "name": "Atlas Valleys",
+        "sub": "Ourika · Ouzoud",
+        "desc": "Spectacular waterfalls, Berber villages and snow-capped peaks an hour from Marrakech."
+      },
+      "tanger": {
+        "name": "Tangier & the North",
+        "sub": "Between two seas",
+        "desc": "The gateway to Africa, its legendary cafés and the bay where the Mediterranean meets the Atlantic."
+      }
+    }
+  },
+  "contactPage": {
+    "breadcrumb": "Contact",
+    "eyebrow": "Contact us",
+    "title": "Get a free quote",
+    "heroText": "Tell us about your trip and our team will reply within 24 hours with a tailor-made programme and a personalised quote.",
+    "badge24h": "Guaranteed reply within 24h · No commitment",
+    "formTitle": "Quote request form",
+    "directContact": "Direct contact",
+    "phoneWhatsApp": "Phone & WhatsApp",
+    "available": "Available 7 days a week, 8am to 8pm",
+    "writeWhatsApp": "Write on WhatsApp",
+    "email": "Email",
+    "emailNote": "Guaranteed reply within 24 hours",
+    "address": "Address",
+    "hoursTitle": "Availability hours",
+    "monFri": "Monday – Friday",
+    "satSun": "Saturday – Sunday",
+    "hours": "8am – 8pm",
+    "localTime": "Moroccan local time (UTC+1)",
+    "languagesTitle": "Languages spoken",
+    "mapTitle": "Agency location in Marrakech",
+    "pricingTitle": "Pricing"
+  },
+  "aboutPage": {
+    "breadcrumb": "About us",
+    "agencyCardSub": "Travel agency · Morocco",
+    "historyEyebrow": "Our story",
+    "historyTitle": "Your travel partner in Morocco",
+    "badgeLicensed": "Licensed Moroccan operator",
+    "badgeExperience": "Over 10 years of experience",
+    "valuesEyebrow": "What sets us apart",
+    "valuesTitle": "Our values",
+    "values": {
+      "private": {
+        "title": "100% private trips",
+        "detail": "Exclusively for you",
+        "description": "All our tours are strictly private: you travel only with your loved ones, without sharing your vehicle or itinerary with other groups."
+      },
+      "authentic": {
+        "title": "Local authenticity",
+        "detail": "At the heart of the real Morocco",
+        "description": "Characterful accommodation, encounters with Berber families, local gastronomy: we favour experiences off the beaten tourist track."
+      },
+      "languages": {
+        "title": "Service in 4 languages",
+        "detail": "FR · EN · ES · IT",
+        "description": "Our team assists you in French, English, Spanish and Italian. Professional drivers and certified official guides available year-round."
+      },
+      "flexible": {
+        "title": "Total flexibility",
+        "detail": "100% tailor-made",
+        "description": "Every itinerary can be adjusted to your pace, wishes and budget. No fixed programme: we design your trip around your expectations."
+      }
+    },
+    "ctaTitle": "Ready to discover Morocco with us?",
+    "ctaQuote": "Get a free quote",
+    "ctaTours": "See our tours"
+  },
+  "reviewsPage": {
+    "breadcrumb": "Customer reviews",
+    "title": "What our clients say",
+    "avgAria": "Average rating: {avg} out of 5",
+    "reviewsCount": "{count, plural, one {# review} other {# reviews}}",
+    "listTitle": "Customer reviews list",
+    "ratingAria": "Rating: {rating} out of 5",
+    "ctaTitle": "Ready to live your own Moroccan adventure?",
+    "ctaText": "Join our satisfied clients and create your own unforgettable memories.",
+    "ctaQuote": "Get a free quote"
+  },
+  "faqPage": {
+    "breadcrumb": "FAQ",
+    "title": "Frequently asked questions",
+    "heroText": "Everything you need to know before booking your Morocco tour with Authentic Morocco Tours.",
+    "ctaTitle": "Can't find your question?",
+    "ctaText": "Contact us directly. We reply to every message within 24 hours.",
+    "ctaContact": "Contact us",
+    "ctaTours": "See our tours"
+  },
+  "notFound": {
+    "code": "Error 404",
+    "title": "This page doesn't exist",
+    "text": "The page you're looking for may have been moved or no longer exists. Explore our tours or return to the homepage.",
+    "ctaTours": "See our tours",
+    "ctaHome": "Back to home"
+  }
+}

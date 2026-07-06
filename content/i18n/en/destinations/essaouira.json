@@ -1,0 +1,27 @@
+{
+  "slug": "essaouira",
+  "name": "Essaouira — the city of trade winds",
+  "seo": {
+    "title": "Essaouira (Mogador) — UNESCO medina, port, beach | Authentic Morocco Tours",
+    "description": "Discover Essaouira, former Mogador: UNESCO-listed fortified medina, lively fishing port, windy beach and argan forest. Private day trip from Marrakech."
+  },
+  "hero": {
+    "tagline": "Ramparts facing the Atlantic and a UNESCO-listed bohemian medina"
+  },
+  "intro": "Former Mogador, Essaouira is a fortified port city of immediate charm: 18th-century ramparts battered by waves, a whitewashed UNESCO-listed medina, a colourful fishing port and a beach stretching as far as the eye can see. Designed by French engineer Théodore Cornut on the orders of Sultan Mohammed ben Abdallah, the town was long Morocco's leading trading port and a crossroads of Arab, Berber, Jewish and European cultures — a legacy visible in its architecture and thuya wood marquetry craftsmanship. Renowned as the world capital of windsurfing and kitesurfing thanks to its constant trade winds, and favoured by artists since the visits of Orson Welles and Jimi Hendrix, it is easily visited on a day trip from Marrakech, through the UNESCO argan biosphere reserve.",
+  "highlights": [
+    { "name": "Ramparts and Skala de la Ville", "description": "18th-century fortifications designed by European engineers, offering a spectacular view over the Atlantic and its old cannons." },
+    { "name": "UNESCO medina", "description": "White and blue alleyways, art galleries, thuya wood marquetry workshops and craft shops." },
+    { "name": "Traditional fishing port", "description": "Blue boats, a lively fish auction and grilled fish to enjoy on the harbour, an authentic atmosphere far from mass tourism." },
+    { "name": "Argan tree route", "description": "The road from Marrakech crosses the UNESCO biosphere reserve of argan forests, a tree endemic to southwestern Morocco." }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "Year-round, temperate oceanic climate even in summer; windy almost constantly",
+    "daysRecommended": "1 day as a day trip from Marrakech, or 1 to 2 nights to enjoy the beach and atmosphere",
+    "tips": [
+      "Bring a windbreaker even in summer, the trade winds blow almost year-round",
+      "Swimming is possible but often not advised due to wind and currents",
+      "Book your fish lunch directly at the harbour stalls for the most authentic experience"
+    ]
+  }
+}

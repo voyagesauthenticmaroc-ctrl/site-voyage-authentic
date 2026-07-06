@@ -1,0 +1,60 @@
+{
+    "slug":  "excursion-casablanca",
+    "type":  "excursion",
+    "category":  "Excursion à la journée",
+    "legacyPath":  "/circuits/excursion-casablanca",
+    "name":  "Excursion 1 jour : Casablanca depuis Marrakech",
+    "seo":  {
+                "title":  "Excursion Casablanca depuis Marrakech — Mosquée Hassan II, Corniche | Voyages Authentiques Maroc",
+                "description":  "Excursion privée d\u0027une journée depuis Marrakech à Casablanca : Mosquée Hassan II (3e plus grande au monde), quartier Art Déco, ancienne médina, Corniche. Aller-retour inclus."
+            },
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1538230575309-59dfc388ae36?auto=format\u0026fit=crop\u0026w=1280\u0026q=85",
+                 "tagline":  "Casablanca \u0026 la Mosquée Hassan II depuis Marrakech"
+             },
+    "intro":  "Casablanca, capitale économique du Maroc, abrite la Mosquée Hassan II — la troisième plus grande mosquée du monde avec son minaret de 210 mètres dominant l\u0027Atlantique. Cette excursion d\u0027une journée depuis Marrakech vous permet de découvrir la métropole moderne du Maroc, son quartier Art Déco unique au monde, son ancienne médina et sa Corniche.",
+    "priceFrom": "À partir de 85 € / personne — devis sur mesure",
+    "programs":  [
+                     {
+                         "title":  "Programme de la journée",
+                         "description":  "Départ tôt le matin de Marrakech. Route vers Casablanca (environ 2h30). Visite de la Mosquée Hassan II (extérieur et intérieur avec guide). Déjeuner libre. Quartier Art Déco, ancienne médina, Corniche. Retour à Marrakech.",
+                         "items":  [
+                                       "Départ de Marrakech (environ 7h30)",
+                                       "Arrivée à Casablanca",
+                                       "Mosquée Hassan II : 3e plus grande mosquée au monde, minaret de 210 m, terrasse surplombant l\u0027Atlantique (visite extérieure ; intérieure avec guide optionnel)",
+                                       "Quartier Art Déco (architecture coloniale des années 1930, unique au monde)",
+                                       "Ancienne médina de Casablanca",
+                                       "Déjeuner libre (restaurant de la Corniche ou du centre-ville)",
+                                       "Place Mohammed V et Boulevard Mohammed V",
+                                       "Retour à Marrakech (arrivée en soirée)"
+                                   ]
+                     }
+                 ],
+    "included":  [
+                     "Véhicule climatisé avec chauffeur professionnel (carburant inclus)",
+                     "Prise en charge et retour à Marrakech",
+                     "Qualité de service"
+                 ],
+    "excluded":  [
+                     "Déjeuner",
+                     "Boissons",
+                     "Entrée à la Mosquée Hassan II (visite intérieure)",
+                     "Guide à Casablanca (en option)",
+                     "Pourboires",
+                     "Dépenses personnelles"
+                 ],
+    "faq":  [
+                {
+                    "question":  "Peut-on visiter l\u0027intérieur de la Mosquée Hassan II ?",
+                    "answer":  "Oui, la Mosquée Hassan II est l\u0027une des rares mosquées au Maroc ouverte aux non-musulmans (intérieur). Des visites guidées sont organisées plusieurs fois par jour. Les frais d\u0027entrée sont à la charge du visiteur."
+                },
+                {
+                    "question":  "Casablanca ressemble-t-elle à la ville du film « Casablanca » ?",
+                    "answer":  "Le film Casablanca (1942) a été tourné en studio à Hollywood — aucune scène n\u0027a été tournée à Casablanca. La ville réelle est une métropole moderne de 4 millions d\u0027habitants, très différente de l\u0027image cinématographique."
+                }
+            ],
+    "gallery":  [
+
+                ],
+    "relatedDestinations": ["marrakech", "casablanca"]
+}

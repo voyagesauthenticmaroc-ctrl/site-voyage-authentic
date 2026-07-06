@@ -1,0 +1,59 @@
+{
+    "slug":  "excursion-ouzoud",
+    "type":  "excursion",
+    "category":  "Excursion à la journée",
+    "legacyPath":  "/circuits/excursion-ouzoud",
+    "name":  "Excursion 1 jour : Cascades d\u0027Ouzoud depuis Marrakech",
+    "seo":  {
+                "title":  "Excursion Cascades d\u0027Ouzoud depuis Marrakech — Singes \u0026 Cascades | Voyages Authentiques Maroc",
+                "description":  "Excursion privée d\u0027une journée depuis Marrakech aux cascades d\u0027Ouzoud (110 m de hauteur), les plus hautes du Maroc. Singes magots, balade en barque, arc-en-ciel."
+            },
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1585213303822-f19214012600?auto=format\u0026fit=crop\u0026w=1280\u0026q=85",
+                 "tagline":  "Les plus grandes cascades du Maroc à 2h30 de Marrakech"
+             },
+    "intro":  "Les cascades d\u0027Ouzoud sont les plus hautes du Maroc avec leurs 110 mètres de chute. Situées à environ 150 km au nord-est de Marrakech, elles se déversent en plusieurs bras dans un décor de verdure exceptionnelle. Vous y rencontrerez les singes magots (macaques de Barbarie) en liberté, pourrez descendre au pied des chutes à pied ou en barque et profiter des arcs-en-ciel permanents créés par les embruns.",
+    "priceFrom": "À partir de 55 € / personne — devis sur mesure",
+    "programs":  [
+                     {
+                         "title":  "Programme de la journée",
+                         "description":  "Départ de Marrakech. Route à travers les paysages du Moyen Atlas. Arrivée aux cascades d\u0027Ouzoud. Descente à pied (environ 20 min) jusqu\u0027au pied des chutes. Déjeuner dans un restaurant local. Retour à Marrakech.",
+                         "items":  [
+                                       "Départ de Marrakech (environ 8h)",
+                                       "Route à travers les paysages berbères du Moyen Atlas",
+                                       "Arrivée aux cascades d\u0027Ouzoud",
+                                       "Descente à pied jusqu\u0027au pied des chutes (sentier facile)",
+                                       "Rencontre avec les singes magots (macaques de Barbarie)",
+                                       "Balade en barque optionnelle au pied des cascades",
+                                       "Déjeuner dans un restaurant local avec vue sur les cascades",
+                                       "Retour à Marrakech (arrivée en soirée)"
+                                   ]
+                     }
+                 ],
+    "included":  [
+                     "Véhicule climatisé avec chauffeur professionnel (carburant inclus)",
+                     "Prise en charge et retour à Marrakech",
+                     "Qualité de service"
+                 ],
+    "excluded":  [
+                     "Déjeuner",
+                     "Boissons",
+                     "Balade en barque (sur place, payante)",
+                     "Pourboires",
+                     "Dépenses personnelles"
+                 ],
+    "faq":  [
+                {
+                    "question":  "La descente aux cascades est-elle difficile ?",
+                    "answer":  "Non, le sentier est accessible à la plupart des voyageurs. Il faut compter environ 20-30 minutes de descente à pied sur un chemin aménagé. Des sandales ou chaussures fermées sont recommandées."
+                },
+                {
+                    "question":  "Les singes sont-ils dangereux ?",
+                    "answer":  "Les macaques de Barbarie d\u0027Ouzoud sont habitués aux visiteurs mais restent des animaux sauvages. Il ne faut pas les nourrir avec de la nourriture apportée de l\u0027extérieur et éviter les gestes brusques."
+                }
+            ],
+    "gallery":  [
+
+                ],
+    "relatedDestinations": ["marrakech", "vallees-atlas"]
+}

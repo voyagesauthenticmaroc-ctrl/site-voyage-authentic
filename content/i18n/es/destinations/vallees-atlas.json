@@ -1,0 +1,27 @@
+{
+  "slug": "valles-atlas",
+  "name": "Valles del Atlas — Ourika y Ouzoud",
+  "seo": {
+    "title": "Valles del Atlas — Ourika, cascadas de Ouzoud | Viajes Auténticos Marruecos",
+    "description": "Descubre los valles del Atlas cerca de Marrakech: el valle del Ourika y sus pueblos bereberes, las cascadas de Ouzoud con 110 metros de caída. Excursiones privadas de un día desde Marrakech."
+  },
+  "hero": {
+    "tagline": "Cascadas espectaculares, pueblos bereberes y cumbres nevadas a una hora de Marrakech"
+  },
+  "intro": "A menos de dos horas de Marrakech, las estribaciones del Alto Atlas ofrecen un cambio de aires total: el valle del Ourika y sus pueblos bereberes en terrazas, las cascadas de Setti Fatma, o las cascadas de Ouzoud, de 110 metros de altura y entre las más bellas del norte de África. Estas excursiones de un día son ideales para combinar naturaleza, encuentro con las comunidades bereberes y aire fresco de montaña — un contraste sorprendente con el bullicio de la ciudad roja, especialmente bienvenido en verano cuando el valle ofrece 10 grados menos que Marrakech. Por el camino, mercados semanales bereberes, cooperativas femeninas de aceite de argán y casas tradicionales de adobe jalonan la ruta, ofreciendo una visión del Marruecos rural que pocos viajeros se toman el tiempo de descubrir.",
+  "highlights": [
+    { "name": "Valle del Ourika", "description": "Valle exuberante a lo largo del río Ourika, salpicado de pueblos bereberes, molinos tradicionales y terrazas cultivadas." },
+    { "name": "Cascadas de Setti Fatma", "description": "Siete cascadas accesibles por un sendero de senderismo en el corazón del valle del Ourika, muy populares en verano." },
+    { "name": "Cascadas de Ouzoud", "description": "Caída de agua de 110 metros, una de las más altas de Marruecos, rodeada de olivos y a menudo atravesada por arcoíris." },
+    { "name": "Pueblos bereberes", "description": "Hábitat tradicional de adobe en ladera de montaña, un modo de vida rural que permanece fiel a las tradiciones amazigh." }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "De abril a octubre para disfrutar plenamente de las cascadas, nevado en invierno en las cumbres",
+    "daysRecommended": "1 día por excursión (Ourika u Ouzoud), los dos sitios son difíciles de combinar en el mismo día",
+    "tips": [
+      "Lleva calzado de senderismo para los caminos alrededor de las cascadas",
+      "Es posible bañarse en Ouzoud y Setti Fatma en temporada cálida",
+      "Los monos macacos de Berbería se avistan con frecuencia en el paraje de Ouzoud"
+    ]
+  }
+}

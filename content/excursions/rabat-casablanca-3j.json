@@ -1,0 +1,69 @@
+{
+    "slug":  "rabat-casablanca-3j",
+    "type":  "excursion",
+    "category":  "Circuit villes impériales",
+    "legacyPath":  "/circuits/rabat-casablanca-3j",
+    "name":  "Circuit 3 jours : Rabat → Chefchaouen → Fès → Casablanca",
+    "seo":  {
+                "title":  "Circuit 3 jours Rabat → Chefchaouen → Fès → Casablanca | Voyages Authentiques Maroc",
+                "description":  "Circuit privé 3 jours depuis Rabat : Chefchaouen (Ville bleue), Fès médiévale avec guide officiel, retour à Casablanca. Transport et hébergement inclus."
+            },
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1577147443647-81856d5151af?auto=format\u0026fit=crop\u0026w=1280\u0026q=85",
+                 "tagline":  "Rabat → Chefchaouen → Fès → Casablanca"
+             },
+    "intro":  "Ce circuit 3 jours relie Rabat à Casablanca en traversant Chefchaouen et Fès. En deux étapes principales, vous découvrez la magie de la Ville bleue et la richesse médiévale de Fès avec un guide officiel. Idéal pour un long week-end ou en début/fin de séjour.",
+    "priceFrom": "À partir de 320 € / personne — devis sur mesure",
+    "programs":  [
+                     {
+                         "title":  "Itinéraire 3 jours",
+                         "days":  [
+                                      {
+                                          "label":  "Jour 1 — Rabat → Chefchaouen",
+                                          "items":  [
+                                                        "Départ de Rabat",
+                                                        "Route vers les montagnes du Rif",
+                                                        "Arrivée à Chefchaouen",
+                                                        "Exploration libre des ruelles bleues"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 2 — Chefchaouen → Fès",
+                                          "items":  [
+                                                        "Visite de Fès el-Bali avec guide officiel",
+                                                        "Al-Quaraouiyine, tanneries, souks, médersas",
+                                                        "Nuit à Fès"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 3 — Fès → Casablanca",
+                                          "items":  [
+                                                        "Départ de Fès",
+                                                        "Arrêt possible à Meknès ou Volubilis en route",
+                                                        "Arrivée à Casablanca"
+                                                    ]
+                                      }
+                                  ]
+                     }
+                 ],
+    "included":  [
+                     "Véhicule climatisé avec chauffeur professionnel (carburant inclus)",
+                     "2 nuits d\u0027hébergement",
+                     "2 petits-déjeuners",
+                     "Guide officiel à Fès",
+                     "Prise en charge à Rabat, dépose à Casablanca",
+                     "Qualité de service"
+                 ],
+    "excluded":  [
+                     "Déjeuners",
+                     "Dîners",
+                     "Boissons",
+                     "Pourboires",
+                     "Dépenses personnelles",
+                     "Frais d\u0027entrée des monuments"
+                 ],
+    "gallery":  [
+
+                ],
+    "relatedDestinations": ["fes", "chefchaouen", "casablanca"]
+}

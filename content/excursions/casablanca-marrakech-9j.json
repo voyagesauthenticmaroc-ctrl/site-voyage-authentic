@@ -1,0 +1,112 @@
+{
+    "slug":  "casablanca-marrakech-9j",
+    "type":  "excursion",
+    "category":  "Circuit complet",
+    "legacyPath":  "/circuits/casablanca-marrakech-9j",
+    "name":  "Circuit 9 jours : Casablanca → Chefchaouen → Tanger → Fès → Sahara → Marrakech",
+    "seo":  {
+                "title":  "Circuit 9 jours Casablanca Marrakech — Chefchaouen, Tanger, Fès, Sahara | Voyages Authentiques Maroc",
+                "description":  "Circuit privé 9 jours depuis Casablanca : Chefchaouen, Tanger, retour via Fès (guide), Merzouga Sahara, Todra, Dades, Aït Ben Haddou, Marrakech (guide). Le plus complet."
+            },
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1706793989566-6d495109f5f5?auto=format\u0026fit=crop\u0026w=1280\u0026q=85",
+                 "tagline":  "Le grand tour complet du Maroc en 9 jours"
+             },
+    "intro":  "Ce circuit 9 jours au départ de Casablanca est le plus complet de la gamme : il inclut Chefchaouen et Tanger au nord, Fès et ses médersas, le désert de Merzouga et ses dunes de l\u0027Erg Chebbi, les gorges du Todra, la Vallée des Dades, Aït Ben Haddou et Marrakech avec guide officiel. Deux guides locaux inclus.",
+    "priceFrom": "À partir de 1 090 € / personne — devis sur mesure",
+    "programs":  [
+                     {
+                         "title":  "Itinéraire 9 jours",
+                         "days":  [
+                                      {
+                                          "label":  "Jour 1 — Casablanca : arrivée",
+                                          "items":  [
+                                                        "Accueil à l\u0027aéroport Mohammed V",
+                                                        "Transfert à l\u0027hôtel"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 2 — Casablanca → Chefchaouen",
+                                          "items":  [
+                                                        "Départ vers les montagnes du Rif",
+                                                        "Arrivée à Chefchaouen"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 3 — Chefchaouen → Tanger",
+                                          "items":  [
+                                                        "Exploration matinale de Chefchaouen",
+                                                        "Route vers Tanger",
+                                                        "Médina de Tanger, Cap Spartel (où se rejoignent Atlantique et Méditerranée)"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 4 — Tanger → Volubilis → Meknès → Fès",
+                                          "items":  [
+                                                        "Volubilis (ruines romaines UNESCO)",
+                                                        "Meknès : Bab Mansour, Mausolée Moulay Ismaïl",
+                                                        "Arrivée à Fès"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 5 — Visite guidée de Fès (guide officiel)",
+                                          "items":  [
+                                                        "Al-Quaraouiyine, Medersa Bou Inania, tanneries Chourara, Mellah"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 6 — Fès → Ifrane → Merzouga",
+                                          "items":  [
+                                                        "Ifrane, forêt d\u0027Azrou, vallée du Ziz",
+                                                        "Arrivée à Merzouga, balade à dromadaire, nuit sous tente"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 7 — Merzouga → Gorges du Todra → Dades",
+                                          "items":  [
+                                                        "Lever de soleil, sandboarding",
+                                                        "Gorges du Todra, Vallée des Dades"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 8 — Dades → Vallée des Roses → Ouarzazate → Aït Ben Haddou",
+                                          "items":  [
+                                                        "Vallée des Roses, Ouarzazate",
+                                                        "Ksar d\u0027Aït Ben Haddou (UNESCO)"
+                                                    ]
+                                      },
+                                      {
+                                          "label":  "Jour 9 — Tizi n\u0027Tichka → Marrakech (guide officiel)",
+                                          "items":  [
+                                                        "Col de Tizi n\u0027Tichka",
+                                                        "Arrivée à Marrakech",
+                                                        "Visite guidée : Koutoubia, Bahia, Tombeaux Saadiens, Jemaa el-Fna"
+                                                    ]
+                                      }
+                                  ]
+                     }
+                 ],
+    "included":  [
+                     "Véhicule climatisé avec chauffeur professionnel (carburant inclus)",
+                     "8 nuits d\u0027hébergement",
+                     "8 petits-déjeuners",
+                     "2 dîners (désert + Dades)",
+                     "Guide officiel à Fès",
+                     "Guide officiel à Marrakech",
+                     "Balade à dromadaire (coucher et lever du soleil — 1 dromadaire par personne)",
+                     "Sandboarding",
+                     "Prise en charge à Casablanca, dépose à Marrakech ou Casablanca",
+                     "Qualité de service"
+                 ],
+    "excluded":  [
+                     "Déjeuners",
+                     "Boissons",
+                     "Pourboires",
+                     "Dépenses personnelles",
+                     "Frais d\u0027entrée des monuments"
+                 ],
+    "gallery":  [
+
+                ],
+    "relatedDestinations": ["desert-sahara-merzouga", "marrakech", "fes", "chefchaouen"]
+}

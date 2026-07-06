@@ -1,0 +1,62 @@
+{
+  "slug": "desert-sahara-merzouga",
+  "type": "destination",
+  "legacyPath": "/destinations/desert-sahara-merzouga",
+  "name": "Désert du Sahara — Merzouga & Erg Chebbi",
+  "seo": {
+    "title": "Désert du Sahara à Merzouga — Erg Chebbi, bivouac, dromadaires | Voyages Authentiques Maroc",
+    "description": "Découvrez le désert du Sahara marocain à Merzouga : dunes de l'Erg Chebbi, nuit en bivouac sous les étoiles, balade à dos de dromadaire, musique gnawa. Circuits privés depuis Marrakech ou Fès."
+  },
+  "hero": {
+    "image": "/images/desert-marcheur.jpg",
+    "tagline": "Dunes dorées, nuits étoilées et silence infini aux portes du Sahara"
+  },
+  "intro": "L'Erg Chebbi, à Merzouga, est le plus spectaculaire ensemble de dunes accessibles du Maroc : certaines culminent à plus de 150 mètres. C'est ici que se vit l'expérience saharienne par excellence — traversée à dos de dromadaire au coucher du soleil, nuit en bivouac sous un ciel saturé d'étoiles, et rencontre avec les familles nomades et la musique gnawa du village de Khamlia. À 9h de route de Marrakech ou 6h de Fès, Merzouga se rejoint idéalement en 2 à 3 jours de circuit avec étapes dans l'Atlas et la vallée du Ziz. En chemin, la route traverse des paysages parmi les plus variés du Royaume : col du Tichka ou forêts de cèdres du Moyen Atlas, gorges du Todra, vallée du Dadès et ses kasbahs, palmeraies de Skoura. C'est ce contraste permanent — montagne, oasis, pierre et sable — qui fait du circuit désert l'itinéraire le plus demandé du Maroc, autant par les couples que par les familles avec enfants.",
+  "highlights": [
+    {
+      "name": "Erg Chebbi",
+      "description": "Le plus haut massif de dunes du Maroc, entre 40 et 150 m, célèbre pour ses couleurs changeantes au lever et au coucher du soleil."
+    },
+    {
+      "name": "Bivouac sous les étoiles",
+      "description": "Nuit sous tente berbère en plein désert, dîner traditionnel et ciel exceptionnellement pur, loin de toute pollution lumineuse."
+    },
+    {
+      "name": "Khamlia et la musique gnawa",
+      "description": "Petit village au sud de Merzouga, connu pour ses musiciens gnawa descendants d'esclaves subsahariens et leurs percussions envoûtantes."
+    },
+    {
+      "name": "Vallée du Ziz",
+      "description": "Sur la route de Merzouga, palmeraie et gorges spectaculaires à traverser, avec points de vue panoramiques sur l'oasis."
+    }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "Mars à mai et septembre à novembre (chaleur extrême en été, nuits fraîches en hiver)",
+    "daysRecommended": "2 à 3 jours minimum au départ de Marrakech ou Fès, pour profiter d'au moins une nuit en bivouac",
+    "tips": [
+      "Prévoir des vêtements chauds pour la nuit, même en cas de forte chaleur diurne",
+      "La balade à dos de dromadaire se fait généralement au coucher et/ou au lever du soleil",
+      "Privilégiez un bivouac privé plutôt qu'un campement collectif pour plus de tranquillité"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Combien de jours faut-il pour aller dans le désert de Merzouga depuis Marrakech ?",
+      "answer": "Le minimum est de 3 jours et 2 nuits depuis Marrakech (environ 560 km par trajet, avec les étapes d'Aït Ben Haddou, des gorges du Todra et de la vallée du Dadès). Depuis Fès, 2 jours suffisent car la route est plus courte. Pour un rythme plus confortable avec davantage de visites, comptez 4 jours."
+    },
+    {
+      "question": "La nuit en bivouac dans le désert est-elle confortable ?",
+      "answer": "Oui : nos bivouacs disposent de vraies tentes équipées de lits, de couvertures épaisses et, selon la formule, de sanitaires privés. Le dîner et le petit-déjeuner sont préparés sur place. Prévoyez simplement des vêtements chauds, car les nuits sahariennes sont fraîches, surtout d'octobre à avril."
+    },
+    {
+      "question": "Le circuit désert convient-il aux enfants ?",
+      "answer": "Tout à fait. La balade en dromadaire dure environ une heure et les enfants l'adorent ; il est aussi possible de rejoindre le bivouac en 4×4. Nos circuits étant 100 % privés, le rythme, les pauses et les horaires s'adaptent entièrement à votre famille."
+    },
+    {
+      "question": "Quelle est la meilleure période pour visiter le Sahara marocain ?",
+      "answer": "Les meilleures saisons sont le printemps (mars à mai) et l'automne (septembre à novembre) : journées douces et nuits agréables. L'été est très chaud (souvent plus de 45 °C en journée) et l'hiver offre de belles journées mais des nuits proches de 0 °C."
+    }
+  ],
+  "gallery": [],
+  "relatedExcursions": ["marrakech-merzouga-3j", "fes-merzouga-2j", "agadir-merzouga-3j"]
+}

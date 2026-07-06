@@ -1,0 +1,62 @@
+{
+  "slug": "fes",
+  "type": "destination",
+  "legacyPath": "/destinations/fes",
+  "name": "Fès — la capitale spirituelle",
+  "seo": {
+    "title": "Fès — médina UNESCO, tanneries, artisanat | Voyages Authentiques Maroc",
+    "description": "Découvrez Fès, la plus ancienne médina du monde encore habitée : tanneries traditionnelles, université Al Quaraouiyine, souks d'artisanat. Circuits privés depuis Marrakech, Rabat ou Casablanca."
+  },
+  "hero": {
+    "image": "https://images.unsplash.com/photo-1742434790127-55e03b30455e?auto=format&fit=crop&w=1280&q=85",
+    "tagline": "La plus ancienne médina du monde, entre artisanat séculaire et spiritualité"
+  },
+  "intro": "Fondée au IXe siècle, Fès est considérée comme la capitale spirituelle et intellectuelle du Maroc. Sa médina, Fès el-Bali, classée UNESCO, est la plus grande zone piétonne habitée du monde : plus de 9 000 ruelles où se côtoient artisans du cuir, du bois et du métal, dans une atmosphère restée quasiment inchangée depuis des siècles. On y trouve l'université Al Quaraouiyine, fondée en 859 par Fatima al-Fihriya, considérée comme l'un des plus anciens établissements d'enseignement encore en activité au monde. Moins touristique que Marrakech, Fès offre une immersion plus brute et plus authentique dans le Maroc traditionnel : appels à la prière résonnant sur les toits-terrasses, muletiers chargés de peaux se frayant un chemin vers les tanneries, médersas aux zelliges éblouissants. La ville est aussi un excellent point de départ pour le désert de Merzouga (6h de route), Chefchaouen, Meknès et les ruines romaines de Volubilis.",
+  "highlights": [
+    {
+      "name": "Tanneries Chouara",
+      "description": "Les plus anciennes tanneries du monde arabe, où le cuir est encore traité et teint selon des méthodes traditionnelles millénaires."
+    },
+    {
+      "name": "Université Al Quaraouiyine",
+      "description": "Fondée en 859 par Fatima al-Fihriya, elle est reconnue comme l'un des plus anciens centres d'enseignement supérieur toujours en activité."
+    },
+    {
+      "name": "Médersa Bou Inania",
+      "description": "Chef-d'œuvre d'architecture mérinide du XIVe siècle, célèbre pour ses zelliges, ses boiseries sculptées et sa grande horloge à eau."
+    },
+    {
+      "name": "Souks d'artisanat",
+      "description": "Poterie bleue de Fès, dinanderie, tissage et maroquinerie : une des scènes artisanales les plus riches du pays."
+    }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "Mars à mai et septembre à novembre, hivers frais et étés chauds",
+    "daysRecommended": "2 jours minimum pour explorer sereinement la médina, souvent combiné à un circuit vers le désert via Ifrane et Azrou",
+    "tips": [
+      "Un guide local est vivement recommandé : la médina est un vrai labyrinthe sans plan clair",
+      "Les tanneries se visitent tôt le matin pour éviter la chaleur et l'odeur la plus forte",
+      "Prévoir suffisamment de temps : Fès el-Bali ne se visite pas en quelques heures"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Fès ou Marrakech : quelle ville choisir pour son voyage au Maroc ?",
+      "answer": "Les deux se complètent plus qu'elles ne s'opposent : Marrakech est plus animée, festive et pratique comme base d'excursions ; Fès est plus authentique, artisanale et spirituelle. L'idéal est de les combiner dans un même circuit — par exemple notre itinéraire de 6 jours Fès → désert de Merzouga → Marrakech, qui traverse les plus beaux paysages du pays."
+    },
+    {
+      "question": "Comment se rendre de Fès au désert de Merzouga ?",
+      "answer": "Comptez environ 6h de route à travers le Moyen Atlas : Ifrane la « Suisse marocaine », les forêts de cèdres d'Azrou et leurs singes magots, puis la vallée du Ziz et ses palmeraies. Notre circuit de 2 jours permet de dormir en bivouac dans les dunes de l'Erg Chebbi et de rentrer le lendemain, à partir de 190 € par personne."
+    },
+    {
+      "question": "La visite des tanneries de Fès est-elle gratuite ?",
+      "answer": "Les tanneries Chouara s'observent depuis les terrasses des boutiques de cuir qui les entourent : l'accès est en principe gratuit ou contre un petit pourboire, avec souvent un brin de menthe offert pour atténuer l'odeur. Avec un guide local, vous accédez aux meilleures terrasses sans sollicitations."
+    },
+    {
+      "question": "Peut-on visiter la médina de Fès sans guide ?",
+      "answer": "C'est possible mais déconseillé pour une première visite : avec plus de 9 000 ruelles souvent sans nom, Fès el-Bali est réputée être le plus grand labyrinthe urbain du monde. Un guide francophone vous fait gagner du temps, raconte l'histoire des lieux et vous ouvre des ateliers d'artisans fermés au public."
+    }
+  ],
+  "gallery": [],
+  "relatedExcursions": ["rabat-fes-2j", "fes-marrakech-6j", "marrakech-fes-nomades-4j"]
+}

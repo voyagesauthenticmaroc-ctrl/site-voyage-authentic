@@ -1,0 +1,27 @@
+{
+  "slug": "casablanca",
+  "name": "Casablanca — the ocean metropolis",
+  "seo": {
+    "title": "Casablanca — Hassan II Mosque, Corniche | Authentic Morocco Tours",
+    "description": "Discover Casablanca, Morocco's largest city: the Hassan II Mosque set on the Atlantic, Art Deco architecture, lively Corniche. Private tours departing from Casablanca across Morocco."
+  },
+  "hero": {
+    "tagline": "The Hassan II Mosque, a masterpiece set on the Atlantic"
+  },
+  "intro": "Morocco's economic capital and most populous city, Casablanca surprises with its blend of colonial Art Deco architecture, modern towers and historic sites. Its unrivalled landmark is the Hassan II Mosque, one of the largest in the world: 25 years of work, 10,000 craftsmen, a record 210-metre minaret and a prayer hall built partly over the ocean, open to non-Muslim visitors — a rarity in Morocco. Immortalised by Michael Curtiz's film starring Humphrey Bogart, the city also boasts a thriving food and art scene. Casablanca has the country's main international airport (Mohammed V), making it a frequent starting or ending point for tours: our 7 to 10-day itineraries from Casablanca cover the imperial cities, Chefchaouen and the desert.",
+  "highlights": [
+    { "name": "Hassan II Mosque", "description": "The world's third-largest mosque, built partly over the ocean, with a record 210-metre minaret." },
+    { "name": "Art Deco architecture", "description": "The city centre retains a remarkable heritage of Art Deco buildings from the 1920s-1930s, inherited from the French protectorate." },
+    { "name": "Ain Diab Corniche", "description": "A lively seafront with restaurants, cafés and beaches, popular with Casablancans in the late afternoon." },
+    { "name": "Old medina", "description": "More modest than those of Fes or Marrakech, but authentic and less touristy, at the heart of old Casablanca." }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "Year-round, mild oceanic climate, summers less stifling than inland",
+    "daysRecommended": "1 day is enough for the essentials, often used as a starting or ending point for a wider tour",
+    "tips": [
+      "Book the guided interior tour of the Hassan II Mosque, one of the few open to non-Muslims",
+      "Mohammed V Airport is the main international hub: ideal to start or end a tour",
+      "Allow some time to stroll through the Art Deco district downtown"
+    ]
+  }
+}

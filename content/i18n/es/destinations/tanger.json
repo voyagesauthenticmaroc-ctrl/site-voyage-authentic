@@ -1,0 +1,27 @@
+{
+  "slug": "tanger",
+  "name": "Tánger y el Norte — entre dos mares",
+  "seo": {
+    "title": "Tánger — puerta de África, bahía y medina | Viajes Auténticos Marruecos",
+    "description": "Descubre Tánger, ciudad mítica donde se encuentran el Mediterráneo y el Atlántico: medina, Gran Zoco, cafés legendarios. Tours privados desde Tánger hacia Chefchaouen y Fez."
+  },
+  "hero": {
+    "tagline": "La puerta de África, entre el Mediterráneo y el Atlántico"
+  },
+  "intro": "Durante mucho tiempo ciudad internacional apreciada por artistas y escritores, Tánger ocupa una posición única en el extremo norte de Marruecos, a solo 14 km de España a través del estrecho de Gibraltar. Su medina blanca asomada a la bahía, sus cafés legendarios que acogieron a Matisse, Delacroix, Paul Bowles o a los escritores de la Generación Beat, y su ambiente cosmopolita la convierten en una puerta de entrada atípica y fascinante hacia Marruecos. Servida por un aeropuerto internacional y por los ferries desde España, la ciudad vive desde hace veinte años un renacimiento espectacular: marina moderna, medina restaurada, escena cultural viva. Es el punto de partida ideal para dirigirse hacia la azul Chefchaouen (2h), Asilah y sus murales, la andaluza Tetuán, o para iniciar un gran tour hacia Fez, el desierto y Marrakech.",
+  "highlights": [
+    { "name": "Medina y Kasbah", "description": "Callejuelas blancas asomadas al estrecho de Gibraltar, con vistas simultáneas al Mediterráneo y al Atlántico desde el Cabo Espartel." },
+    { "name": "Gran Zoco", "description": "Plaza animada que conecta la medina con la ciudad nueva, punto de encuentro tradicional de los tangerinos." },
+    { "name": "Cafés literarios", "description": "El Café Hafa y el Petit Socco acogieron a toda una generación de escritores y artistas internacionales en el siglo XX." },
+    { "name": "Grutas de Hércules", "description": "Formaciones rocosas naturales a pocos kilómetros del centro, abiertas al océano Atlántico." }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "Todo el año, clima mediterráneo suave, veranos menos agobiantes que en el sur",
+    "daysRecommended": "1 a 2 días, a menudo como punto de partida o llegada de un tour hacia Chefchaouen y Fez",
+    "tips": [
+      "El Cabo Espartel ofrece la vista más espectacular sobre el encuentro de los dos mares",
+      "Reserva algo de tiempo para pasear sin rumbo por la medina, de escala humana",
+      "El puerto también permite conexiones rápidas hacia España para una excursión transfronteriza"
+    ]
+  }
+}

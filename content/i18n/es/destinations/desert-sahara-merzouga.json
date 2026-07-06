@@ -1,0 +1,27 @@
+{
+  "slug": "desierto-sahara-merzouga",
+  "name": "Desierto del Sahara — Merzouga y Erg Chebbi",
+  "seo": {
+    "title": "Desierto del Sahara en Merzouga — Erg Chebbi, campamento, dromedarios | Viajes Auténticos Marruecos",
+    "description": "Descubre el desierto del Sahara marroquí en Merzouga: dunas del Erg Chebbi, noche en campamento bajo las estrellas, paseo en dromedario, música gnawa. Tours privados desde Marrakech o Fez."
+  },
+  "hero": {
+    "tagline": "Dunas doradas, noches estrelladas y silencio infinito a las puertas del Sahara"
+  },
+  "intro": "El Erg Chebbi, en Merzouga, es el conjunto de dunas accesibles más espectacular de Marruecos: algunas superan los 150 metros de altura. Aquí se vive la experiencia sahariana por excelencia — travesía en dromedario al atardecer, noche en campamento bajo un cielo saturado de estrellas, y encuentro con las familias nómadas y la música gnawa del pueblo de Khamlia. A 9h de carretera desde Marrakech o 6h desde Fez, Merzouga se alcanza idealmente en un tour de 2 a 3 días con etapas en el Atlas y el valle del Ziz. Por el camino, la ruta atraviesa algunos de los paisajes más variados del Reino: el puerto de Tichka o los bosques de cedros del Atlas Medio, las gargantas del Todra, el valle del Dades y sus kasbahs, los palmerales de Skoura. Es este contraste permanente — montaña, oasis, piedra y arena — lo que convierte al tour del desierto en el itinerario más solicitado de Marruecos, tanto para parejas como para familias con niños.",
+  "highlights": [
+    { "name": "Erg Chebbi", "description": "El mayor conjunto de dunas de Marruecos, entre 40 y 150 m, famoso por sus colores cambiantes al amanecer y al atardecer." },
+    { "name": "Campamento bajo las estrellas", "description": "Noche en jaima bereber en pleno desierto, cena tradicional y un cielo excepcionalmente puro, lejos de toda contaminación lumínica." },
+    { "name": "Khamlia y la música gnawa", "description": "Pequeño pueblo al sur de Merzouga, conocido por sus músicos gnawa descendientes de esclavos subsaharianos y sus hipnóticas percusiones." },
+    { "name": "Valle del Ziz", "description": "En la ruta hacia Merzouga, un palmeral y unas gargantas espectaculares por recorrer, con vistas panorámicas del oasis." }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "De marzo a mayo y de septiembre a noviembre (calor extremo en verano, noches frescas en invierno)",
+    "daysRecommended": "2 a 3 días mínimo desde Marrakech o Fez, para disfrutar de al menos una noche en campamento",
+    "tips": [
+      "Lleva ropa de abrigo para la noche, incluso con mucho calor durante el día",
+      "El paseo en dromedario se realiza generalmente al atardecer y/o al amanecer",
+      "Prioriza un campamento privado en lugar de uno colectivo para mayor tranquilidad"
+    ]
+  }
+}

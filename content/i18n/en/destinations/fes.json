@@ -1,0 +1,27 @@
+{
+  "slug": "fes",
+  "name": "Fes — the spiritual capital",
+  "seo": {
+    "title": "Fes — UNESCO medina, tanneries, craftsmanship | Authentic Morocco Tours",
+    "description": "Discover Fes, the world's oldest inhabited medina: traditional tanneries, Al Quaraouiyine University, craft souks. Private tours from Marrakech, Rabat or Casablanca."
+  },
+  "hero": {
+    "tagline": "The world's oldest medina, between age-old craftsmanship and spirituality"
+  },
+  "intro": "Founded in the 9th century, Fes is considered Morocco's spiritual and intellectual capital. Its medina, Fes el-Bali, listed by UNESCO, is the largest inhabited car-free zone in the world: over 9,000 alleyways where leather, wood and metal craftsmen work side by side, in an atmosphere almost unchanged for centuries. It is home to Al Quaraouiyine University, founded in 859 by Fatima al-Fihriya, recognised as one of the oldest still-operating institutions of higher learning in the world. Less touristy than Marrakech, Fes offers a rawer, more authentic immersion in traditional Morocco: calls to prayer echoing over rooftop terraces, mule drivers loaded with hides making their way to the tanneries, madrasas with dazzling zellige tilework. The city is also an excellent starting point for the Merzouga desert (6 hours' drive), Chefchaouen, Meknes and the Roman ruins of Volubilis.",
+  "highlights": [
+    { "name": "Chouara Tanneries", "description": "The oldest tanneries in the Arab world, where leather is still treated and dyed using centuries-old traditional methods." },
+    { "name": "Al Quaraouiyine University", "description": "Founded in 859 by Fatima al-Fihriya, recognised as one of the oldest still-operating institutions of higher learning." },
+    { "name": "Bou Inania Madrasa", "description": "A 14th-century Marinid architectural masterpiece, famous for its zellige tilework, carved woodwork and great water clock." },
+    { "name": "Craft souks", "description": "Blue Fes pottery, coppersmithing, weaving and leatherwork: one of the country's richest craft scenes." }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "March to May and September to November, cool winters and hot summers",
+    "daysRecommended": "2 days minimum to calmly explore the medina, often combined with a desert tour via Ifrane and Azrou",
+    "tips": [
+      "A local guide is highly recommended: the medina is a true maze with no clear map",
+      "Visit the tanneries early in the morning to avoid the strongest heat and smell",
+      "Allow enough time: Fes el-Bali cannot be seen in a few hours"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "vallees-atlas",
+  "type": "destination",
+  "legacyPath": "/destinations/vallees-atlas",
+  "name": "Vallées de l'Atlas — Ourika & Ouzoud",
+  "seo": {
+    "title": "Vallées de l'Atlas — Ourika, cascades d'Ouzoud | Voyages Authentiques Maroc",
+    "description": "Découvrez les vallées de l'Atlas près de Marrakech : vallée de l'Ourika et villages berbères, cascades d'Ouzoud à 110 mètres de chute. Excursions privées à la journée depuis Marrakech."
+  },
+  "hero": {
+    "image": "https://images.unsplash.com/photo-1585213303822-f19214012600?auto=format&fit=crop&w=1280&q=85",
+    "tagline": "Cascades spectaculaires, villages berbères et sommets enneigés à une heure de Marrakech"
+  },
+  "intro": "À moins de deux heures de Marrakech, les contreforts du Haut Atlas offrent un dépaysement complet : vallée de l'Ourika et ses villages berbères en terrasses, cascades de Setti Fatma, ou cascades d'Ouzoud, hautes de 110 mètres et parmi les plus belles d'Afrique du Nord. Ces excursions à la journée sont idéales pour combiner nature, rencontre avec les communautés berbères et air frais de la montagne — un contraste saisissant avec l'agitation de la ville rouge, particulièrement bienvenu en été quand la vallée offre 10 degrés de moins que Marrakech. En chemin, marchés hebdomadaires berbères, coopératives féminines d'huile d'argan et maisons traditionnelles en pisé ponctuent la route, offrant un aperçu du Maroc rural que peu de voyageurs prennent le temps de découvrir.",
+  "highlights": [
+    {
+      "name": "Vallée de l'Ourika",
+      "description": "Vallée verdoyante longeant l'oued Ourika, ponctuée de villages berbères, de moulins traditionnels et de terrasses cultivées."
+    },
+    {
+      "name": "Cascades de Setti Fatma",
+      "description": "Sept cascades accessibles par un sentier de randonnée au cœur de la vallée de l'Ourika, très prisées en été."
+    },
+    {
+      "name": "Cascades d'Ouzoud",
+      "description": "Chute d'eau de 110 mètres, l'une des plus hautes du Maroc, entourée d'oliviers et souvent traversée d'arcs-en-ciel."
+    },
+    {
+      "name": "Villages berbères",
+      "description": "Habitat traditionnel en pisé à flanc de montagne, mode de vie rural resté proche des traditions amazighes."
+    }
+  ],
+  "practicalInfo": {
+    "bestPeriod": "Avril à octobre pour profiter pleinement des cascades, enneigé en hiver côté sommets",
+    "daysRecommended": "1 journée par excursion (Ourika ou Ouzoud), les deux sites sont difficilement combinables le même jour",
+    "tips": [
+      "Prévoir des chaussures de marche pour les sentiers autour des cascades",
+      "Possibilité de baignade à Ouzoud et Setti Fatma en saison chaude",
+      "Les singes macaques de Barbarie sont fréquemment visibles sur le site d'Ouzoud"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Ourika ou Ouzoud : quelle excursion choisir depuis Marrakech ?",
+      "answer": "L'Ourika (1h de route, dès 45 €/pers) est idéale pour une demi-journée ou une journée détendue : villages berbères, déjeuner au bord de l'oued, courte marche vers les cascades de Setti Fatma. Ouzoud (2h30 de route, dès 55 €/pers) demande une journée complète mais offre la cascade la plus spectaculaire du Maroc, avec ses 110 mètres de chute et ses singes magots."
+    },
+    {
+      "question": "Peut-on se baigner aux cascades d'Ouzoud ?",
+      "answer": "Oui, la baignade est possible dans les bassins naturels au pied des chutes, surtout de mai à septembre. L'eau reste fraîche toute l'année. Prévoyez maillot, serviette et chaussures antidérapantes pour les rochers ; de petites barques permettent aussi de s'approcher du rideau d'eau."
+    },
+    {
+      "question": "Les excursions dans l'Atlas conviennent-elles aux personnes peu sportives ?",
+      "answer": "Oui : les sites principaux sont accessibles avec peu de marche. À Ouzoud, un sentier aménagé descend au pied des cascades (comptez 15-20 minutes de remontée) ; à l'Ourika, on peut se limiter aux premiers bassins de Setti Fatma. En circuit privé, le rythme s'adapte entièrement à vous."
+    }
+  ],
+  "gallery": [],
+  "relatedExcursions": ["excursion-ourika", "excursion-ouzoud"]
+}
