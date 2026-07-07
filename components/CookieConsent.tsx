@@ -96,7 +96,7 @@ export function CookieConsent() {
               <Link
                 href="/mentions-legales"
                 className="underline underline-offset-2 transition-colors"
-                style={{ color: 'var(--gold-dark)' }}
+                style={{ color: 'var(--gold-accessible)' }}
               >
                 {t('learnMore')}
               </Link>

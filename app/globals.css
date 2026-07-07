@@ -715,7 +715,7 @@
 
   .btn-primary {
     background: var(--accent);
-    color: #fff;
+    color: var(--ink);
     border-color: var(--accent);
     box-shadow: 0 4px 16px rgba(232,118,44,0.30);
   }

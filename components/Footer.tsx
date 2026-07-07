@@ -176,8 +176,8 @@ export async function Footer() {
                 href={`https://wa.me/${site.contact.whatsapp}`}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="btn text-xs px-5 py-2.5 text-white"
-                style={{ background: '#25D366', borderColor: '#25D366' }}
+                className="btn text-xs px-5 py-2.5"
+                style={{ background: '#25D366', borderColor: '#25D366', color: '#0A3D20' }}
               >
                 {t('writeOnWhatsApp')}
               </a>

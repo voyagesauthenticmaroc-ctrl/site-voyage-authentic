@@ -92,7 +92,7 @@ const HOME_DESTS: { key: 'sahara' | 'chefchaouen' | 'marrakech' | 'aitBenHaddou'
 ];
 
 /* Couleurs des avatars (initiales) */
-const AVATAR_COLORS = ['#E07C3A', '#243B6A', '#2E7D5B', '#8A5CB8'];
+const AVATAR_COLORS = ['#B85C1E', '#243B6A', '#2E7D5B', '#6B3F99'];
 
 function initials(name: string): string {
   return name
@@ -332,7 +332,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: L
               <div key={copy} className="flex items-center flex-shrink-0">
                 {marqueeItems.map((d) => (
                   <span key={d} className="flex items-center">
-                    <span className="script-accent px-6" style={{ fontSize: '1.9rem', opacity: 0.85 }}>{d}</span>
+                    <span className="script-accent px-6" style={{ fontSize: '1.9rem' }}>{d}</span>
                     <svg viewBox="0 0 24 24" width="12" height="12" fill="var(--gold)" opacity="0.55" aria-hidden="true">
                       <path d="M12 2L13.5 7.5L19 6L14.5 10L19 14L13.5 12.5L12 18L10.5 12.5L5 14L9.5 10L5 6L10.5 7.5Z"/>
                     </svg>
