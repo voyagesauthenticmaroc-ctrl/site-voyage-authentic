@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import { routing, type Locale } from '@/i18n/routing';
 
-export const SITE_URL = 'https://www.voyagesauthentiquemaroc.com';
+export const SITE_URL = 'https://voyages-authentic-maroc.com';
 export const SITE_NAME = 'Voyages Authentiques Maroc';
 const DEFAULT_OG_IMAGE = '/images/og-default.jpg';
 
