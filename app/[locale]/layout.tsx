@@ -9,6 +9,7 @@ import { SITE_URL, SITE_NAME, OG_LOCALES } from '@/lib/seo';
 import { NavBar } from '@/components/NavBar';
 import { WhatsAppButton } from '@/components/WhatsAppButton';
 import { Footer } from '@/components/Footer';
+import { CookieConsent } from '@/components/CookieConsent';
 import { getSite } from '@/lib/content';
 
 const fraunces = Fraunces({
@@ -97,6 +98,33 @@ export default async function LocaleLayout({ children, params }: LayoutProps) {
   return (
     <html lang={locale} className={`${fraunces.variable} ${inter.variable} ${mrDafoe.variable}`}>
       <body className="antialiased">
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-3HQF8YS1ZV" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('consent', 'default', {
+                analytics_storage: 'denied',
+                ad_storage: 'denied',
+                ad_user_data: 'denied',
+                ad_personalization: 'denied'
+              });
+              try {
+                if (localStorage.getItem('cookie-consent') === 'granted') {
+                  gtag('consent', 'update', {
+                    analytics_storage: 'granted',
+                    ad_storage: 'granted',
+                    ad_user_data: 'granted',
+                    ad_personalization: 'granted'
+                  });
+                }
+              } catch (e) {}
+              gtag('js', new Date());
+              gtag('config', 'G-3HQF8YS1ZV');
+            `,
+          }}
+        />
         <NextIntlClientProvider>
           <a
             href="#main-content"
@@ -113,6 +141,7 @@ export default async function LocaleLayout({ children, params }: LayoutProps) {
           <WhatsAppButton whatsapp={site.contact.whatsapp} />
           {children}
           <Footer />
+          <CookieConsent />
         </NextIntlClientProvider>
       </body>
     </html>

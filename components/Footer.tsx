@@ -3,6 +3,7 @@ import { getTranslations, getLocale } from 'next-intl/server';
 import { Phone, Mail, MapPin } from 'lucide-react';
 import { getSite } from '@/lib/content';
 import { isPlaceholder } from '@/lib/placeholders';
+import { CookieSettingsLink } from '@/components/CookieSettingsLink';
 
 export async function Footer() {
   const locale = await getLocale();
@@ -213,6 +214,9 @@ export async function Footer() {
                   </Link>
                 </li>
               ))}
+              <li>
+                <CookieSettingsLink label={t('cookies')} />
+              </li>
             </ul>
           </nav>
         </div>

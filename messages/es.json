@@ -1,4 +1,12 @@
 {
+  "cookies": {
+    "ariaLabel": "Consentimiento de cookies",
+    "title": "Su privacidad nos importa",
+    "message": "Utilizamos cookies para medir la audiencia del sitio y mejorar su experiencia. Es libre de aceptar o rechazar.",
+    "accept": "Aceptar",
+    "decline": "Rechazar",
+    "learnMore": "Más información"
+  },
   "common": {
     "skipToContent": "Ir al contenido principal",
     "requestQuote": "Solicitar presupuesto gratis",
@@ -37,6 +45,7 @@
     "blog": "Blog",
     "contactQuote": "Contacto y presupuesto",
     "legalNotice": "Aviso legal",
+    "cookies": "Cookies",
     "contactHeading": "Contacto",
     "writeOnWhatsApp": "Escribir por WhatsApp",
     "allRightsReserved": "Todos los derechos reservados.",

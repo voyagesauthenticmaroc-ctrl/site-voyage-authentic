@@ -1,4 +1,12 @@
 {
+  "cookies": {
+    "ariaLabel": "Consentement aux cookies",
+    "title": "Votre vie privée nous importe",
+    "message": "Nous utilisons des cookies pour mesurer l'audience du site et améliorer votre expérience. Vous êtes libre d'accepter ou de refuser.",
+    "accept": "Accepter",
+    "decline": "Refuser",
+    "learnMore": "En savoir plus"
+  },
   "common": {
     "skipToContent": "Aller au contenu principal",
     "requestQuote": "Demander un devis gratuit",
@@ -37,6 +45,7 @@
     "blog": "Blog",
     "contactQuote": "Contact & devis",
     "legalNotice": "Mentions légales",
+    "cookies": "Cookies",
     "contactHeading": "Contact",
     "writeOnWhatsApp": "Écrire sur WhatsApp",
     "allRightsReserved": "Tous droits réservés.",

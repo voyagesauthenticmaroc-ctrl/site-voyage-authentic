@@ -1,4 +1,12 @@
 {
+  "cookies": {
+    "ariaLabel": "Cookie consent",
+    "title": "Your privacy matters to us",
+    "message": "We use cookies to measure site traffic and improve your experience. You are free to accept or decline.",
+    "accept": "Accept",
+    "decline": "Decline",
+    "learnMore": "Learn more"
+  },
   "common": {
     "skipToContent": "Skip to main content",
     "requestQuote": "Get a free quote",
@@ -37,6 +45,7 @@
     "blog": "Blog",
     "contactQuote": "Contact & quote",
     "legalNotice": "Legal notice",
+    "cookies": "Cookies",
     "contactHeading": "Contact",
     "writeOnWhatsApp": "Write on WhatsApp",
     "allRightsReserved": "All rights reserved.",
