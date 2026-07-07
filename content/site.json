@@ -18,9 +18,10 @@
     "address": "Résidence Soraya, Bloc A, Immeuble M'Hamid 9, Marrakech, Maroc"
   },
   "social": {
-    "facebookPageName": "[NOM PAGE FACEBOOK : à renseigner]",
-    "facebookUrl": null,
-    "instagramUrl": null
+    "facebookPageName": "Voyages Authentiques Maroc",
+    "facebookUrl": "https://www.facebook.com/voyagesauthentiquesmaroc",
+    "instagramUrl": "https://www.instagram.com/voyagesauthentiquesmaroc",
+    "linkedinUrl": "https://www.linkedin.com/company/voyages-authentiques-maroc"
   },
   "languages": ["Français", "Anglais", "Espagnol", "Italien"],
   "pricingNote": "Toutes les prestations sont proposées sur devis et sur mesure, en fonction de votre programme, du nombre de participants et de votre point de départ. Un acompte est requis pour confirmer la réservation. Contactez-nous pour un devis personnalisé.",

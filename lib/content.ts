@@ -111,7 +111,7 @@ export interface SiteConfig {
   /** @deprecated use agency */
   guide?: { name: string; role: string; bio: string; approach: string };
   contact: { email: string; phone: string; phoneRaw: string; whatsapp: string; address: string };
-  social: { facebookPageName: string; facebookUrl: string | null; instagramUrl?: string | null };
+  social: { facebookPageName: string; facebookUrl: string | null; instagramUrl?: string | null; linkedinUrl?: string | null };
   languages: string[];
   pricingNote: string;
   nav: { label: string; path: string }[];

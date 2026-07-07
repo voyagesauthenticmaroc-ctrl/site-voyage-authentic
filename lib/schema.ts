@@ -71,6 +71,11 @@ export function schemaTravelAgency() {
       { '@type': 'Language', name: 'Italien' },
       { '@type': 'Language', name: 'Arabe' },
     ],
+    sameAs: [
+      'https://www.facebook.com/voyagesauthentiquesmaroc',
+      'https://www.instagram.com/voyagesauthentiquesmaroc',
+      'https://www.linkedin.com/company/voyages-authentiques-maroc',
+    ],
     knowsAbout: [
       'Circuits privés au Maroc',
       'Désert du Sahara — Erg Chebbi, Merzouga',
