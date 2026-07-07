@@ -7,7 +7,7 @@ export function CookieSettingsLink({ label }: { label: string }) {
     <button
       type="button"
       onClick={() => window.dispatchEvent(new Event(OPEN_CONSENT_EVENT))}
-      className="text-white/25 hover:text-white/55 text-xs transition-colors"
+      className="text-white/50 hover:text-white/70 text-xs transition-colors"
     >
       {label}
     </button>

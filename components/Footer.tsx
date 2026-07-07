@@ -47,7 +47,7 @@ export async function Footer() {
                 <span className="font-body font-bold text-[0.78rem] tracking-[0.3em] uppercase" style={{ color: 'var(--accent)' }}>Maroc</span>
               </div>
             </Link>
-            <p className="text-white/45 text-sm leading-relaxed" itemProp="description">
+            <p className="text-white/60 text-sm leading-relaxed" itemProp="description">
               {tagline}
             </p>
             <div className="flex gap-3 mt-5">
@@ -196,7 +196,7 @@ export async function Footer() {
 
         {/* Barre de bas de page */}
         <div className="mt-6 flex flex-col sm:flex-row items-center justify-between gap-3">
-          <p className="text-white/25 text-xs">
+          <p className="text-white/50 text-xs">
             © {new Date().getFullYear()} {site.name}. {t('allRightsReserved')}
           </p>
           <nav aria-label={t('legalNotice')}>
@@ -208,7 +208,7 @@ export async function Footer() {
                 <li key={path}>
                   <Link
                     href={path}
-                    className="text-white/25 hover:text-white/55 text-xs transition-colors"
+                    className="text-white/50 hover:text-white/70 text-xs transition-colors"
                   >
                     {t(key)}
                   </Link>

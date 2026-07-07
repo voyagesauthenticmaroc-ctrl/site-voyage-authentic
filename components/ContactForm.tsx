@@ -87,7 +87,7 @@ export function ContactForm({ whatsapp }: ContactFormProps) {
         <Send size={15} />
         {t('sendViaWhatsApp')}
       </button>
-      <p className="text-white/35 text-xs text-center">
+      <p className="text-white/55 text-xs text-center">
         {t('responseNote')}
       </p>
     </form>

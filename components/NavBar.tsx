@@ -159,9 +159,9 @@ export function NavBar({ agencyName, phoneDisplay, phoneRaw, whatsapp }: NavBarP
             <a
               href={`tel:${phoneRaw}`}
               className="flex items-center gap-1.5 text-white/60 hover:text-white text-sm transition-colors"
-              aria-label={t('callAgency')}
             >
-              <Phone size={13} strokeWidth={2} />
+              <Phone size={13} strokeWidth={2} aria-hidden="true" />
+              <span>{phoneDisplay}</span>
             </a>
           )}
           <Link href="/contact" className="btn btn-primary py-2.5 px-5 text-[0.65rem]">

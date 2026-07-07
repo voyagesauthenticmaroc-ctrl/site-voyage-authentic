@@ -263,7 +263,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: L
                     <p className="text-white/85 text-sm font-medium">
                       {t('socialProof')}
                     </p>
-                    <span className="flex gap-0.5 mt-1" aria-label={t('starsAria')}>
+                    <span className="flex gap-0.5 mt-1" role="img" aria-label={t('starsAria')}>
                       {[...Array(5)].map((_, i) => (
                         <Star key={i} size={13} style={{ color: 'var(--accent)', fill: 'var(--accent)' }} />
                       ))}
@@ -588,7 +588,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: L
                   </h2>
                 </div>
                 <div className="lg:text-right flex-shrink-0">
-                  <span className="flex lg:justify-end gap-1" aria-label={t('starsAria')}>
+                  <span className="flex lg:justify-end gap-1" role="img" aria-label={t('starsAria')}>
                     {[...Array(5)].map((_, i) => (
                       <Star key={i} size={19} style={{ color: 'var(--accent)', fill: 'var(--accent)' }} />
                     ))}
