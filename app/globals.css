@@ -678,6 +678,63 @@
   .delay-400 { animation-delay: 400ms; }
   .delay-500 { animation-delay: 500ms; }
   .delay-700 { animation-delay: 700ms; }
+
+  /* ── Mots du hero — cascade avec dé-flou ── */
+  @keyframes wordRise {
+    from { opacity: 0; transform: translateY(0.5em); filter: blur(6px); }
+    to   { opacity: 1; transform: translateY(0); filter: blur(0); }
+  }
+  .animate-word {
+    display: inline-block;
+    animation: wordRise 0.9s var(--ease-reveal) both;
+  }
+
+  /* ── Grain cinématique (sections sombres) ── */
+  .grain-overlay::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    pointer-events: none;
+    opacity: 0.32;
+    mix-blend-mode: overlay;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.5'/%3E%3C/svg%3E");
+    background-size: 180px 180px;
+  }
+
+  /* ── Liseré dégradé or→orange au survol des cartes ── */
+  .card-glow { position: relative; }
+  .card-glow::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    padding: 1.5px;
+    background: linear-gradient(135deg, rgba(196,163,90,0.9), rgba(232,118,44,0.7) 45%, transparent 75%);
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    mask-composite: exclude;
+    opacity: 0;
+    transition: opacity 0.4s var(--ease-luxury);
+    pointer-events: none;
+    z-index: 2;
+  }
+  .card-glow:hover::after { opacity: 1; }
+
+  /* ── Barre de progression du scroll ── */
+  .scroll-progress {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2.5px;
+    z-index: 60;
+    transform-origin: 0 50%;
+    transform: scaleX(0);
+    background: linear-gradient(90deg, var(--gold), var(--accent));
+    pointer-events: none;
+  }
 }
 
 /* ── 6. Component Primitives ─────────────────────────────────── */
@@ -880,10 +937,15 @@
   .animate-reveal,
   .animate-float,
   .animate-pulse-gold,
-  .animate-hero-zoom {
+  .animate-hero-zoom,
+  .animate-word {
     animation: none !important;
     opacity: 1 !important;
     transform: none !important;
+    filter: none !important;
+  }
+  .grain-overlay::before {
+    display: none !important;
   }
 }
 

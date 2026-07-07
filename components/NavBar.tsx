@@ -7,6 +7,8 @@ import { Link, usePathname, useRouter } from '@/i18n/navigation';
 import { routing, LOCALE_LABELS, type Locale } from '@/i18n/routing';
 import { Phone, Menu, X, MessageCircle, Globe } from 'lucide-react';
 import { isPlaceholder } from '@/lib/placeholders';
+import { CommandPaletteButton } from '@/components/CommandPalette';
+import { WishlistNavItem } from '@/components/WishlistNavItem';
 
 export interface NavBarProps {
   agencyName: string;
@@ -25,44 +27,61 @@ const NAV_ITEMS = [
   { key: 'contact', path: '/contact' },
 ] as const;
 
-/** Sélecteur de langue — bascule la page courante dans l'autre langue. */
+/** Sélecteur de langue — dropdown au hover/click, affiche la langue active + menu au survol. */
 function LanguageSwitcher({ compact = false }: { compact?: boolean }) {
   const locale = useLocale();
   const router = useRouter();
   const pathname = usePathname();
   const params = useParams();
   const t = useTranslations('nav');
+  const [open, setOpen] = useState(false);
 
   const switchTo = (next: Locale) => {
+    setOpen(false);
     if (next === locale) return;
-    // Pattern officiel next-intl : re-route la page courante avec ses params
     // @ts-expect-error — pathname + params sont corrélés à l'exécution
     router.replace({ pathname, params }, { locale: next });
   };
 
+  const others = routing.locales.filter((c) => c !== locale);
+
   return (
     <div
-      className={`flex items-center gap-1 ${compact ? '' : 'border border-white/15 rounded-full px-1 py-0.5'}`}
-      role="group"
-      aria-label={t('language')}
+      className="relative"
+      onMouseEnter={() => setOpen(true)}
+      onMouseLeave={() => setOpen(false)}
     >
-      {!compact && <Globe size={12} className="text-white/50 ml-1.5" aria-hidden />}
-      {routing.locales.map((code) => (
-        <button
-          key={code}
-          onClick={() => switchTo(code)}
-          aria-pressed={code === locale}
-          aria-label={LOCALE_LABELS[code]}
-          className={`px-2 py-1 rounded-full text-[0.65rem] font-bold uppercase tracking-wide transition-colors ${
-            code === locale
-              ? 'text-white'
-              : 'text-white/50 hover:text-white'
-          }`}
-          style={code === locale ? { background: 'var(--accent)' } : {}}
-        >
-          {code}
-        </button>
-      ))}
+      <button
+        onClick={() => setOpen((v) => !v)}
+        aria-haspopup="menu"
+        aria-expanded={open}
+        aria-label={t('language')}
+        className={`flex items-center gap-1.5 text-white/70 hover:text-white transition-colors ${compact ? '' : 'border border-white/15 rounded-full px-2.5 py-1'}`}
+      >
+        <Globe size={13} aria-hidden />
+        <span className="text-[0.65rem] font-bold uppercase tracking-wide">{locale}</span>
+      </button>
+      <div
+        role="menu"
+        aria-label={t('language')}
+        className={`absolute right-0 top-full pt-2 min-w-[110px] transition-all duration-150 ${
+          open ? 'opacity-100 pointer-events-auto translate-y-0' : 'opacity-0 pointer-events-none -translate-y-1'
+        }`}
+      >
+        <div className="rounded-xl overflow-hidden shadow-xl" style={{ background: 'var(--nil-deep, #181410)', border: '1px solid rgba(255,255,255,0.12)' }}>
+          {others.map((code) => (
+            <button
+              key={code}
+              onClick={() => switchTo(code)}
+              role="menuitem"
+              className="flex items-center justify-between w-full px-3 py-2 text-white/80 hover:text-white hover:bg-white/8 transition-colors"
+            >
+              <span className="text-[0.7rem] font-semibold">{LOCALE_LABELS[code]}</span>
+              <span className="text-[0.6rem] font-bold uppercase tracking-wider text-white/40">{code}</span>
+            </button>
+          ))}
+        </div>
+      </div>
     </div>
   );
 }
@@ -154,6 +173,8 @@ export function NavBar({ agencyName, phoneDisplay, phoneRaw, whatsapp }: NavBarP
 
         {/* Desktop actions */}
         <div className="hidden xl:flex items-center gap-4 flex-shrink-0">
+          <CommandPaletteButton />
+          <WishlistNavItem />
           <LanguageSwitcher />
           {!isPlaceholder(phoneRaw) && (
             <a
@@ -169,10 +190,13 @@ export function NavBar({ agencyName, phoneDisplay, phoneRaw, whatsapp }: NavBarP
           </Link>
         </div>
 
-        {/* Mobile hamburger */}
+        {/* Mobile actions : loupe + hamburger */}
+        <div className="xl:hidden flex items-center gap-1 relative z-[60]">
+          <CommandPaletteButton className="text-white p-2" />
+          <WishlistNavItem className="p-2" />
         <button
           onClick={() => setDrawerOpen(!drawerOpen)}
-          className="xl:hidden text-white p-2 -mr-2 relative z-[60]"
+          className="text-white p-2 -mr-2"
           aria-label={drawerOpen ? t('closeMenu') : t('openMenu')}
           aria-expanded={drawerOpen}
           aria-controls="mobile-nav-menu"
@@ -180,6 +204,7 @@ export function NavBar({ agencyName, phoneDisplay, phoneRaw, whatsapp }: NavBarP
           <Menu size={24} className={`transition-all duration-200 ${drawerOpen ? 'opacity-0 scale-75 absolute' : 'opacity-100 scale-100'}`} />
           <X size={24} className={`transition-all duration-200 ${drawerOpen ? 'opacity-100 scale-100' : 'opacity-0 scale-75 absolute'}`} />
         </button>
+        </div>
       </nav>
     </header>
 

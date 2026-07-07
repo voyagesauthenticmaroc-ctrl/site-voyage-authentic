@@ -3,6 +3,9 @@ import { getTranslations } from 'next-intl/server';
 import { Link } from '@/i18n/navigation';
 import { Clock, Users, Star, CheckCircle, XCircle, MapPin } from 'lucide-react';
 import { JsonLd } from '@/components/JsonLd';
+import { CircuitMap } from '@/components/CircuitMap';
+import { WishlistButton } from '@/components/WishlistButton';
+import { extractRoute } from '@/lib/morocco-places';
 import type { Excursion, Destination, Review } from '@/lib/content';
 import {
   schemaTravelAgency,
@@ -40,6 +43,7 @@ export async function ExcursionTemplate({
   const faq = exc.faq ?? [];
   const firstDuration = exc.programs?.[0]?.duration;
   const multiProgram = (exc.programs?.length ?? 0) > 1;
+  const routeStops = extractRoute(exc.name, exc.programs?.[0]?.days);
 
   return (
     <>
@@ -138,9 +142,12 @@ export async function ExcursionTemplate({
               <span className="text-gold font-medium">{t('availability')}</span>
               <span className="text-white/80">{t('availabilityValue')}</span>
             </div>
-            <Link href="/contact" className="btn btn-primary text-sm py-2 px-5 sm:ml-auto">
-              {tCommon('requestQuote')}
-            </Link>
+            <div className="flex items-center gap-3 sm:ml-auto">
+              <WishlistButton slug={exc.slug} variant="inline" className="!bg-white/10 !border-white/25 !text-white hover:!bg-white/20" />
+              <Link href="/contact" className="btn btn-primary text-sm py-2 px-5">
+                {tCommon('requestQuote')}
+              </Link>
+            </div>
           </div>
         </div>
 
@@ -167,6 +174,11 @@ export async function ExcursionTemplate({
               <h2 id="programs-title" className="text-display-md">
                 {multiProgram ? t('programsAvailable') : t('programSingle')}
               </h2>
+              {routeStops.length >= 2 && (
+                <div className="mt-10">
+                  <CircuitMap stops={routeStops} title={exc.name} />
+                </div>
+              )}
               <div className={`grid gap-8 mt-10 ${multiProgram ? 'lg:grid-cols-2' : ''}`}>
                 {exc.programs.map((prog) => (
                   <article key={prog.title} className="surface-elevated p-8">

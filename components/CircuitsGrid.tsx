@@ -5,6 +5,7 @@ import { useTranslations } from 'next-intl';
 import { Link } from '@/i18n/navigation';
 import Image from 'next/image';
 import { MapPin, Clock, ArrowRight, X, Tag } from 'lucide-react';
+import { WishlistButton } from '@/components/WishlistButton';
 
 /* ────────────────────────────────────────────────────────── */
 /*  Types                                                     */
@@ -60,6 +61,7 @@ function CircuitCardItem({ c }: { c: CircuitCard }) {
 
         {/* ── Image ── */}
         <div className="relative aspect-[4/3] overflow-hidden bg-parchment flex-shrink-0">
+          <WishlistButton slug={c.slug} position="bottom-right" className="!w-9 !h-9" />
           <Image
             src={c.hero.image}
             alt={c.name}

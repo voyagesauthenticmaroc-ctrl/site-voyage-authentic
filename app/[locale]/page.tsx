@@ -25,6 +25,10 @@ import {
 import { JsonLd } from '@/components/JsonLd';
 import { ScrollReveal } from '@/components/ScrollReveal';
 import { ContactForm } from '@/components/ContactForm';
+import { CountUp } from '@/components/CountUp';
+import { TiltCard } from '@/components/TiltCard';
+import { Magnetic } from '@/components/Magnetic';
+import { WishlistButton } from '@/components/WishlistButton';
 import { generateMetadata as _gen } from '@/lib/seo';
 import { schemaTravelAgency, schemaWebPage, schemaAggregateRating } from '@/lib/schema';
 import { getSite, getReviews, getExcursions } from '@/lib/content';
@@ -150,7 +154,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: L
             1. HERO
         ══════════════════════════════════════════════════════ */}
         <section
-          className="relative overflow-hidden"
+          className="relative overflow-hidden grain-overlay"
           aria-labelledby="hero-title"
           style={{ background: '#181410' }}
         >
@@ -220,14 +224,18 @@ export default async function HomePage({ params }: { params: Promise<{ locale: L
                 </span>
                 <h1
                   id="hero-title"
-                  className="text-white mt-5 animate-fade-up delay-100 font-display font-light"
+                  className="text-white mt-5 font-display font-light"
                   style={{ fontSize: 'clamp(2.5rem, 6vw, 4.75rem)', lineHeight: 1.04, letterSpacing: '-0.02em' }}
                 >
-                  {t('heroTitle1')}
+                  {t('heroTitle1').split(' ').map((w, i) => (
+                    <span key={`t1-${i}`} className="animate-word" style={{ animationDelay: `${120 + i * 90}ms`, marginRight: '0.25em' }}>{w}</span>
+                  ))}
                   <br />
-                  {t('heroTitle2')}
+                  {t('heroTitle2').split(' ').map((w, i) => (
+                    <span key={`t2-${i}`} className="animate-word" style={{ animationDelay: `${300 + i * 90}ms`, marginRight: '0.25em' }}>{w}</span>
+                  ))}
                   <br />
-                  <span className="script-accent" style={{ fontSize: '1.25em' }}>{t('heroTitleScript')}</span>
+                  <span className="script-accent animate-word inline-block" style={{ fontSize: '1.25em', animationDelay: '580ms' }}>{t('heroTitleScript')}</span>
                 </h1>
                 <p className="text-base sm:text-lg mt-7 max-w-md leading-relaxed text-pretty animate-fade-up delay-200" style={{ color: 'rgba(255,255,255,0.95)' }}>
                   {tAgency('description')}
@@ -314,7 +322,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: L
                     <Icon size={21} className="text-white" />
                   </span>
                   <div className="leading-tight">
-                    <p className="font-display text-xl font-semibold" style={{ color: 'var(--ink)' }}>{num}</p>
+                    <p className="font-display text-xl font-semibold" style={{ color: 'var(--ink)' }}><CountUp value={num} /></p>
                     <p className="text-xs mt-0.5" style={{ color: 'var(--warm-gray)' }}>{label}</p>
                   </div>
                 </div>
@@ -450,7 +458,9 @@ export default async function HomePage({ params }: { params: Promise<{ locale: L
               {FEATURED.map(({ slug, key, src, alt }, i) => (
                 <li key={slug}>
                   <ScrollReveal delay={i * 90}>
-                    <article className="group rounded-3xl overflow-hidden shadow-lg hover-lift h-full flex flex-col" style={{ background: 'var(--forest-deep)' }}>
+                    <TiltCard className="h-full">
+                    <article className="group card-glow rounded-3xl overflow-hidden shadow-lg h-full flex flex-col relative" style={{ background: 'var(--forest-deep)' }}>
+                      <WishlistButton slug={slug} />
                       <Link href={{ pathname: '/circuits/[slug]', params: { slug } }} className="flex flex-col h-full">
                         <div className="relative aspect-[4/3] overflow-hidden">
                           <Image
@@ -496,6 +506,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: L
                         </div>
                       </Link>
                     </article>
+                    </TiltCard>
                   </ScrollReveal>
                 </li>
               ))}
@@ -549,7 +560,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: L
         ══════════════════════════════════════════════════════ */}
         <section
           aria-labelledby="banner-title"
-          className="relative overflow-hidden parallax-banner"
+          className="relative overflow-hidden parallax-banner grain-overlay"
           style={{ backgroundImage: 'url(/images/desert-marcheur.jpg)' }}
         >
           <div
@@ -671,6 +682,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: L
             <div className="flex flex-wrap justify-center gap-5">
               {site.social.facebookUrl && (
                 <ScrollReveal delay={0}>
+                  <Magnetic strength={0.15}>
                   <a
                     href={site.social.facebookUrl}
                     target="_blank"
@@ -691,11 +703,13 @@ export default async function HomePage({ params }: { params: Promise<{ locale: L
                       <p className="text-xs mt-0.5" style={{ color: 'var(--warm-gray)' }}>{site.social.facebookPageName}</p>
                     </div>
                   </a>
+                  </Magnetic>
                 </ScrollReveal>
               )}
 
               {site.social.instagramUrl && (
                 <ScrollReveal delay={100}>
+                  <Magnetic strength={0.15}>
                   <a
                     href={site.social.instagramUrl}
                     target="_blank"
@@ -716,11 +730,13 @@ export default async function HomePage({ params }: { params: Promise<{ locale: L
                       <p className="text-xs mt-0.5" style={{ color: 'var(--warm-gray)' }}>@voyagesauthentiquesmaroc</p>
                     </div>
                   </a>
+                  </Magnetic>
                 </ScrollReveal>
               )}
 
               {site.social.linkedinUrl && (
                 <ScrollReveal delay={200}>
+                  <Magnetic strength={0.15}>
                   <a
                     href={site.social.linkedinUrl}
                     target="_blank"
@@ -741,6 +757,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: L
                       <p className="text-xs mt-0.5" style={{ color: 'var(--warm-gray)' }}>Voyages Authentiques Maroc</p>
                     </div>
                   </a>
+                  </Magnetic>
                 </ScrollReveal>
               )}
             </div>

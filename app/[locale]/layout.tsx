@@ -10,6 +10,9 @@ import { NavBar } from '@/components/NavBar';
 import { WhatsAppButton } from '@/components/WhatsAppButton';
 import { Footer } from '@/components/Footer';
 import { CookieConsent } from '@/components/CookieConsent';
+import { SmoothScroll } from '@/components/SmoothScroll';
+import { ScrollProgress } from '@/components/ScrollProgress';
+import { CommandPalette } from '@/components/CommandPalette';
 import { getSite } from '@/lib/content';
 
 const fraunces = Fraunces({
@@ -126,6 +129,9 @@ export default async function LocaleLayout({ children, params }: LayoutProps) {
           }}
         />
         <NextIntlClientProvider>
+          <SmoothScroll />
+          <ScrollProgress />
+          <CommandPalette />
           <a
             href="#main-content"
             className="sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 focus:z-[9999] focus:px-4 focus:py-2 focus:bg-gold focus:text-ink focus:rounded focus:font-medium"
