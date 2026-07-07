@@ -606,11 +606,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: L
                 {featuredReviews.map((review, i) => (
                   <li key={i}>
                     <ScrollReveal delay={i * 100}>
-                      <blockquote
-                        className="bg-white rounded-2xl p-6 h-full flex flex-col shadow-sm"
-                        itemScope
-                        itemType="https://schema.org/Review"
-                      >
+                      <blockquote className="bg-white rounded-2xl p-6 h-full flex flex-col shadow-sm">
                         <div className="flex items-center justify-between">
                           <span className="font-display text-4xl leading-none" style={{ color: 'var(--accent)' }} aria-hidden="true">
                             &ldquo;
@@ -621,7 +617,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: L
                             ))}
                           </span>
                         </div>
-                        <p className="text-sm leading-relaxed flex-1 mt-3 text-pretty" style={{ color: 'var(--ink-soft)' }} itemProp="reviewBody">
+                        <p className="text-sm leading-relaxed flex-1 mt-3 text-pretty" style={{ color: 'var(--ink-soft)' }}>
                           {review.text.length > 190 ? `${review.text.slice(0, 187).trimEnd()}…` : review.text}
                         </p>
                         <footer className="flex items-center gap-3 mt-5 pt-4" style={{ borderTop: '1px solid var(--forest-pale)' }}>
@@ -633,7 +629,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: L
                             {initials(review.author)}
                           </span>
                           <div className="leading-tight">
-                            <cite className="not-italic font-semibold text-sm block" style={{ color: 'var(--ink)' }} itemProp="author">
+                            <cite className="not-italic font-semibold text-sm block" style={{ color: 'var(--ink)' }}>
                               {review.author}
                             </cite>
                             <span className="text-xs" style={{ color: 'var(--warm-gray)' }}>
