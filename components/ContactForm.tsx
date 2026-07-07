@@ -51,7 +51,7 @@ export function ContactForm({ whatsapp }: ContactFormProps) {
             value={form.name}
             onChange={(e) => setForm({ ...form, name: e.target.value })}
             placeholder={t('namePlaceholder')}
-            className="w-full px-4 py-3 bg-white/8 border border-white/15 rounded text-white placeholder-white/30 focus:outline-none focus:border-gold focus:bg-white/12 text-sm transition-colors"
+            className="w-full px-4 py-3 bg-white/8 border border-white/15 rounded text-white placeholder-white/50 focus:outline-none focus:border-gold focus:bg-white/12 text-sm transition-colors"
           />
         </div>
         <div>
@@ -65,7 +65,7 @@ export function ContactForm({ whatsapp }: ContactFormProps) {
             value={form.email}
             onChange={(e) => setForm({ ...form, email: e.target.value })}
             placeholder={t('emailPlaceholder')}
-            className="w-full px-4 py-3 bg-white/8 border border-white/15 rounded text-white placeholder-white/30 focus:outline-none focus:border-gold focus:bg-white/12 text-sm transition-colors"
+            className="w-full px-4 py-3 bg-white/8 border border-white/15 rounded text-white placeholder-white/50 focus:outline-none focus:border-gold focus:bg-white/12 text-sm transition-colors"
           />
         </div>
       </div>
@@ -80,7 +80,7 @@ export function ContactForm({ whatsapp }: ContactFormProps) {
           value={form.message}
           onChange={(e) => setForm({ ...form, message: e.target.value })}
           placeholder={t('messagePlaceholder')}
-          className="w-full px-4 py-3 bg-white/8 border border-white/15 rounded text-white placeholder-white/30 focus:outline-none focus:border-gold focus:bg-white/12 text-sm transition-colors resize-none"
+          className="w-full px-4 py-3 bg-white/8 border border-white/15 rounded text-white placeholder-white/50 focus:outline-none focus:border-gold focus:bg-white/12 text-sm transition-colors resize-none"
         />
       </div>
       <button type="submit" className="btn btn-primary w-full gap-2">
