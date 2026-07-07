@@ -160,7 +160,8 @@ export default async function HomePage({ params }: { params: Promise<{ locale: L
               alt=""
               fill
               priority
-              sizes="100vw"
+              sizes="(max-width: 640px) 640px, (max-width: 1080px) 1080px, 100vw"
+              quality={75}
               className="object-cover object-[62%_center]"
               aria-hidden="true"
             />

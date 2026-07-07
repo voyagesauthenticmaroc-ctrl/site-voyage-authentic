@@ -4,13 +4,22 @@ import { useEffect, useState } from 'react';
 import { useTranslations } from 'next-intl';
 import { Cookie } from 'lucide-react';
 import { Link } from '@/i18n/navigation';
+import Clarity from '@microsoft/clarity';
 
 const CONSENT_KEY = 'cookie-consent';
+const CLARITY_ID = 'xintudhmh4';
 export const OPEN_CONSENT_EVENT = 'open-cookie-consent';
 
 declare global {
   interface Window {
     gtag?: (...args: unknown[]) => void;
+  }
+}
+
+function initClarity(granted: boolean) {
+  if (granted) {
+    Clarity.init(CLARITY_ID);
+    Clarity.consentV2({ ad_Storage: 'granted', analytics_Storage: 'granted' });
   }
 }
 
@@ -22,7 +31,12 @@ export function CookieConsent() {
     const open = () => setVisible(true);
     window.addEventListener(OPEN_CONSENT_EVENT, open);
     try {
-      if (!localStorage.getItem(CONSENT_KEY)) setVisible(true);
+      const consent = localStorage.getItem(CONSENT_KEY);
+      if (!consent) {
+        setVisible(true);
+      } else {
+        initClarity(consent === 'granted');
+      }
     } catch {
       /* localStorage indisponible (navigation privée stricte) : pas de bannière */
     }
@@ -42,6 +56,7 @@ export function CookieConsent() {
       ad_user_data: value,
       ad_personalization: value,
     });
+    initClarity(granted);
     setVisible(false);
   };
 
