@@ -26,7 +26,6 @@ import { JsonLd } from '@/components/JsonLd';
 import { ScrollReveal } from '@/components/ScrollReveal';
 import { ContactForm } from '@/components/ContactForm';
 import { CountUp } from '@/components/CountUp';
-import { TiltCard } from '@/components/TiltCard';
 import { Magnetic } from '@/components/Magnetic';
 import { WishlistButton } from '@/components/WishlistButton';
 import { generateMetadata as _gen } from '@/lib/seo';
@@ -458,7 +457,6 @@ export default async function HomePage({ params }: { params: Promise<{ locale: L
               {FEATURED.map(({ slug, key, src, alt }, i) => (
                 <li key={slug}>
                   <ScrollReveal delay={i * 90}>
-                    <TiltCard className="h-full">
                     <article className="group card-glow rounded-3xl overflow-hidden shadow-lg h-full flex flex-col relative" style={{ background: 'var(--forest-deep)' }}>
                       <WishlistButton slug={slug} />
                       <Link href={{ pathname: '/circuits/[slug]', params: { slug } }} className="flex flex-col h-full">
@@ -506,7 +504,6 @@ export default async function HomePage({ params }: { params: Promise<{ locale: L
                         </div>
                       </Link>
                     </article>
-                    </TiltCard>
                   </ScrollReveal>
                 </li>
               ))}

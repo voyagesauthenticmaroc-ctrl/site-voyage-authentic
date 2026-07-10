@@ -9,6 +9,7 @@ import { generateMetadata as _gen } from '@/lib/seo';
 import { schemaArticle, schemaBreadcrumb, schemaTravelAgency } from '@/lib/schema';
 import { getAllPosts, getPost, extractToc } from '@/lib/blog';
 import { SITE_URL } from '@/lib/seo';
+import { BlogCta } from '@/components/BlogCta';
 
 interface Props {
   params: Promise<{ locale: Locale; slug: string }>;
@@ -47,6 +48,7 @@ const mdxComponents = {
       </a>
     );
   },
+  CtaBox: BlogCta,
 };
 
 export async function generateStaticParams() {
@@ -145,9 +147,9 @@ export default async function BlogArticlePage({ params }: Props) {
           {/* ── Corps de l'article ────────────────────────────── */}
           <div className="section-y">
             <div className="container-luxury">
-              <div className="grid lg:grid-cols-[1fr_260px] gap-12 items-start">
+              <div className="grid lg:grid-cols-[1fr_260px] gap-12 items-start overflow-hidden">
                 {/* Contenu */}
-                <div className="prose prose-lg max-w-none prose-headings:font-display prose-h2:text-2xl prose-h3:text-xl prose-a:text-gold prose-a:no-underline hover:prose-a:underline prose-strong:text-foreground">
+                <div className="min-w-0 prose prose-lg max-w-none prose-headings:font-display prose-h2:text-2xl prose-h3:text-xl prose-a:text-gold prose-a:no-underline hover:prose-a:underline prose-strong:text-foreground">
                   <MDXRemote source={post.content} components={mdxComponents} />
                 </div>
 

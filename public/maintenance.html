@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Bientôt — Voyages Authentiques Maroc</title>
+  <meta name="robots" content="noindex, nofollow" />
+  <link rel="icon" href="/favicon.ico" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;400;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'Inter', system-ui, sans-serif;
+      color: #fff;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      background: #0e0c0a;
+    }
+
+    /* ── Fullscreen photo ── */
+    .bg {
+      position: fixed;
+      inset: 0;
+      z-index: 0;
+    }
+    .bg img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center 40%;
+      animation: slowZoom 30s ease-in-out infinite alternate;
+    }
+    .bg::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(180deg,
+          rgba(14,12,10,0.3) 0%,
+          rgba(14,12,10,0.15) 30%,
+          rgba(14,12,10,0.2) 50%,
+          rgba(14,12,10,0.7) 80%,
+          rgba(14,12,10,0.92) 100%
+        );
+    }
+
+    /* ── Content ── */
+    .page {
+      position: relative;
+      z-index: 1;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      padding: 2rem 1.5rem 4rem;
+      max-width: 720px;
+      margin-left: clamp(2rem, 8vw, 8rem);
+    }
+
+    /* ── Logo ── */
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 3rem;
+      animation: fadeUp 1s ease-out 0.2s both;
+    }
+    .logo-icon {
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      border: 1.5px solid rgba(255,255,255,0.3);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      backdrop-filter: blur(8px);
+      background: rgba(255,255,255,0.08);
+    }
+    .logo-text {
+      font-weight: 600;
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+      line-height: 1.35;
+      color: rgba(255,255,255,0.9);
+    }
+    .logo-text span {
+      color: #E8762C;
+      display: block;
+    }
+
+    /* ── Eyebrow ── */
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.6rem;
+      font-size: 0.65rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.18em;
+      color: #E8762C;
+      margin-bottom: 1.5rem;
+      animation: fadeUp 1s ease-out 0.4s both;
+    }
+    .eyebrow::before {
+      content: '';
+      width: 32px;
+      height: 1.5px;
+      background: #E8762C;
+    }
+
+    /* ── Headline ── */
+    h1 {
+      font-family: 'Fraunces', serif;
+      font-weight: 300;
+      font-size: clamp(2.4rem, 6vw, 4rem);
+      line-height: 1.15;
+      margin-bottom: 1.5rem;
+      animation: fadeUp 1s ease-out 0.6s both;
+    }
+    h1 em {
+      font-style: italic;
+      color: #E8762C;
+    }
+
+    /* ── Subtitle ── */
+    .subtitle {
+      font-size: clamp(0.95rem, 2vw, 1.1rem);
+      color: rgba(255,255,255,0.6);
+      line-height: 1.8;
+      max-width: 500px;
+      animation: fadeUp 1s ease-out 0.8s both;
+    }
+
+    /* ── Ornament line ── */
+    .line {
+      width: 60px;
+      height: 2px;
+      background: linear-gradient(90deg, #E8762C, #C4A35A);
+      margin-top: 2.5rem;
+      border-radius: 2px;
+      animation: fadeUp 1s ease-out 1s both;
+    }
+
+    /* ── Bottom bar ── */
+    .bottom {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      z-index: 2;
+      padding: 1.2rem 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.7rem;
+      color: rgba(255,255,255,0.35);
+      letter-spacing: 0.05em;
+      animation: fadeIn 1s ease-out 1.2s both;
+    }
+    .bottom a {
+      color: rgba(255,255,255,0.5);
+      text-decoration: none;
+      transition: color 0.3s;
+    }
+    .bottom a:hover { color: #E8762C; }
+
+    /* ── Scroll indicator ── */
+    .scroll-hint {
+      position: fixed;
+      bottom: 3rem;
+      right: clamp(2rem, 5vw, 4rem);
+      z-index: 2;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.6rem;
+      animation: fadeIn 1.5s ease-out 1.5s both;
+    }
+    .scroll-hint span {
+      writing-mode: vertical-rl;
+      font-size: 0.6rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.2em;
+      color: rgba(255,255,255,0.3);
+    }
+    .scroll-dot {
+      width: 1px;
+      height: 40px;
+      background: linear-gradient(180deg, #E8762C, transparent);
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    /* ── Animations ── */
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(30px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to   { opacity: 1; }
+    }
+    @keyframes slowZoom {
+      from { transform: scale(1); }
+      to   { transform: scale(1.08); }
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.3; }
+      50%      { opacity: 1; }
+    }
+
+    @media (max-width: 640px) {
+      .page {
+        margin-left: 0;
+        justify-content: center;
+        padding: 2rem 1.5rem;
+        text-align: center;
+      }
+      .eyebrow { justify-content: center; }
+      .line { margin-left: auto; margin-right: auto; }
+      .subtitle { margin-left: auto; margin-right: auto; }
+      .scroll-hint { display: none; }
+      .bottom { justify-content: center; }
+      .bottom span:first-child { display: none; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Background photo -->
+  <div class="bg">
+    <img
+      src="https://images.unsplash.com/photo-1489749798305-4fea3ae63d43?auto=format&fit=crop&w=1920&q=80"
+      alt="Paysage du Maroc — vallée et kasbahs"
+    />
+  </div>
+
+  <!-- Main content -->
+  <div class="page">
+    <div class="logo">
+      <div class="logo-icon">
+        <svg width="22" height="22" viewBox="0 0 40 40" fill="none">
+          <path d="M20 6C20 6 10 18 10 24C10 29.5 14.5 34 20 34C25.5 34 30 29.5 30 24C30 18 20 6 20 6Z" fill="#E8762C" opacity="0.3"/>
+          <path d="M20 10L21.2 14.5L25.2 13L22.7 16.8L26.5 18.5L22.7 20.2L25.2 24L21.2 22.5L20 27L18.8 22.5L14.8 24L17.3 20.2L13.5 18.5L17.3 16.8L14.8 13L18.8 14.5Z" fill="#E8762C"/>
+        </svg>
+      </div>
+      <div class="logo-text">
+        Voyages<br/>Authentiques<br/><span>Maroc</span>
+      </div>
+    </div>
+
+    <div class="eyebrow">Site en construction</div>
+
+    <h1>Nous pr&eacute;parons<br/>vos voyages<br/>de <em>r&ecirc;ve</em></h1>
+
+    <p class="subtitle">
+      Notre site est en cours de cr&eacute;ation. Bient&ocirc;t, vous pourrez d&eacute;couvrir nos circuits priv&eacute;s &agrave; travers le Maroc authentique.
+    </p>
+
+    <div class="line"></div>
+  </div>
+
+  <!-- Bottom -->
+  <div class="bottom">
+    <span>&copy; 2025 Voyages Authentiques Maroc</span>
+    <a href="https://voyages-authentic-maroc.com">voyages-authentic-maroc.com</a>
+  </div>
+
+  <!-- Scroll indicator -->
+  <div class="scroll-hint">
+    <div class="scroll-dot"></div>
+  </div>
+
+</body>
+</html>

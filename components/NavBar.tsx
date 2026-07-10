@@ -7,7 +7,6 @@ import { Link, usePathname, useRouter } from '@/i18n/navigation';
 import { routing, LOCALE_LABELS, type Locale } from '@/i18n/routing';
 import { Phone, Menu, X, MessageCircle, Globe } from 'lucide-react';
 import { isPlaceholder } from '@/lib/placeholders';
-import { CommandPaletteButton } from '@/components/CommandPalette';
 import { WishlistNavItem } from '@/components/WishlistNavItem';
 
 export interface NavBarProps {
@@ -173,7 +172,6 @@ export function NavBar({ agencyName, phoneDisplay, phoneRaw, whatsapp }: NavBarP
 
         {/* Desktop actions */}
         <div className="hidden xl:flex items-center gap-4 flex-shrink-0">
-          <CommandPaletteButton />
           <WishlistNavItem />
           <LanguageSwitcher />
           {!isPlaceholder(phoneRaw) && (
@@ -192,7 +190,6 @@ export function NavBar({ agencyName, phoneDisplay, phoneRaw, whatsapp }: NavBarP
 
         {/* Mobile actions : loupe + hamburger */}
         <div className="xl:hidden flex items-center gap-1 relative z-[60]">
-          <CommandPaletteButton className="text-white p-2" />
           <WishlistNavItem className="p-2" />
         <button
           onClick={() => setDrawerOpen(!drawerOpen)}

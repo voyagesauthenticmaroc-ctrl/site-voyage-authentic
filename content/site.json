@@ -21,7 +21,8 @@
     "facebookPageName": "Voyages Authentiques Maroc",
     "facebookUrl": "https://www.facebook.com/voyagesauthentiquesmaroc",
     "instagramUrl": "https://www.instagram.com/voyagesauthentiquesmaroc",
-    "linkedinUrl": "https://www.linkedin.com/company/voyages-authentiques-maroc"
+    "linkedinUrl": "https://www.linkedin.com/company/voyages-authentiques-maroc",
+    "googleUrl": "https://share.google/27b0YuFSPf5iQoI5e"
   },
   "languages": ["Français", "Anglais", "Espagnol", "Italien"],
   "pricingNote": "Toutes les prestations sont proposées sur devis et sur mesure, en fonction de votre programme, du nombre de participants et de votre point de départ. Un acompte est requis pour confirmer la réservation. Contactez-nous pour un devis personnalisé.",
@@ -30,6 +31,7 @@
     { "label": "Nos circuits", "path": "/circuits" },
     { "label": "Destinations", "path": "/destinations" },
     { "label": "À propos", "path": "/a-propos" },
+    { "label": "Blog", "path": "/blog" },
     { "label": "Avis", "path": "/avis" },
     { "label": "Contact", "path": "/contact" }
   ]

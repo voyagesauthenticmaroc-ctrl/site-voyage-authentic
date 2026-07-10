@@ -151,22 +151,7 @@ export async function ExcursionTemplate({
           </div>
         </div>
 
-        {/* ── 3. Description ────────────────────────────────────── */}
-        <section aria-labelledby="desc-title" className="section-y">
-          <div className="container-narrow">
-            <h2 id="desc-title" className="sr-only">
-              {t('presentation')}
-            </h2>
-            <p className="text-pretty leading-relaxed text-lg">{exc.intro}</p>
-            {exc.experience && (
-              <p className="text-pretty leading-relaxed text-lg mt-6 text-text-muted">
-                {exc.experience}
-              </p>
-            )}
-          </div>
-        </section>
-
-        {/* ── 4. Programmes / Itinéraire ────────────────────────── */}
+        {/* ── 3. Programmes / Itinéraire ────────────────────────── */}
         {exc.programs && exc.programs.length > 0 && (
           <section aria-labelledby="programs-title" className="section-y bg-parchment-gradient">
             <div className="container-luxury">
@@ -174,6 +159,12 @@ export async function ExcursionTemplate({
               <h2 id="programs-title" className="text-display-md">
                 {multiProgram ? t('programsAvailable') : t('programSingle')}
               </h2>
+              {exc.intro && (
+                <p className="text-pretty leading-relaxed text-lg mt-6 max-w-3xl">{exc.intro}</p>
+              )}
+              {exc.experience && (
+                <p className="text-pretty leading-relaxed text-lg mt-4 max-w-3xl text-text-muted">{exc.experience}</p>
+              )}
               {routeStops.length >= 2 && (
                 <div className="mt-10">
                   <CircuitMap stops={routeStops} title={exc.name} />
@@ -224,6 +215,7 @@ export async function ExcursionTemplate({
             </div>
           </section>
         )}
+
 
         {/* ── 5. Excursions à la journée ────────────────────────── */}
         {exc.dayTrips && exc.dayTrips.length > 0 && (

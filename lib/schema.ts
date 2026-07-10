@@ -75,6 +75,7 @@ export function schemaTravelAgency() {
       'https://www.facebook.com/voyagesauthentiquesmaroc',
       'https://www.instagram.com/voyagesauthentiquesmaroc',
       'https://www.linkedin.com/company/voyages-authentiques-maroc',
+      'https://share.google/27b0YuFSPf5iQoI5e',
     ],
     knowsAbout: [
       'Circuits privés au Maroc',
